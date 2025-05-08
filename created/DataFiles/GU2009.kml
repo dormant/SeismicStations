@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <name>GU2009</name>
+    <Snippet>Created Wed May  5 14:30:28 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>GUSW.temp</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.644368,2.692768,147.800000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MPG.G</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-52.640000,5.110000,147.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PTGA.IU</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.970000,-0.730000,237.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOCV.VE</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.090000,7.760000,157.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LUEV.VE</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.460000,5.840000,1380.300000</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

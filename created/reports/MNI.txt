@@ -1,0 +1,1681 @@
+# MVO-D: Montserrat Volcano Observatory, digital
+MBBY,  Broderick's Yard, Montserrat
+MBFL,  Flemmings, Montserrat
+MBFR,  Fergus Ridge, Montserrat
+MBGB,  Garibaldi Hill, Montserrat
+MBGH,  St. Georges Hill, Montserrat
+MBHA,  Harris, Montserrat
+MBLG,  Long Ground, Montserrat
+MBLY,  Lee's Yard, Montserrat
+MBRV,  Rendezvous, Montserrat
+MBRY,  Roches Yard, Montserrat
+MBWH,  Windy Hill, Montserrat
+MBWW,  Waterworks, Montserrat
+
+# MVO-DX: Montserrat Volcano Observatory, digital (closed)
+MBBE,  Bethel, Montserrat
+MBGA,  Gages, Montserrat
+MBGE,  Galways Estate, Montserrat
+MBJH,  Jack Boy Hill, Montserrat
+MBMH,  Mongo Hill, Montserrat
+MBSS,  South Soufriere Hills, Montserrat
+MVO,   Montserrat Observatory, Montserrat
+
+# MVO-A: Montserrat Volcano Observatory, analog
+MBET,  Bethel, Montserrat
+MCPT,  Chances Peak, Montserrat
+MGAT,  Gages, Montserrat
+MHRV,  Hermitage. Montserrat
+MJHT,  Jack Boy Hill, Montserrat
+MLGT,  Long Ground, Montserrat
+MLYT,  Lees Yard, Montserrat
+MPVE,  Montserrat
+MRYT,  Roaches Yard, Montserrat
+MSAT,  Salem, Montserrat
+MSPT,  St. Patrick's, Montserrat
+MSSZ,  South Soufriere Hills, Montserrat
+MVPV,  Vieux Pointe, Montserrat
+MWHZ,  Windy Hill, Montserrat
+
+# MNI-SRU: SRU stations on Montserrat, post 1980
+MBET,  Bethel, Montserrat
+MGH,   Saint George's Hill, Montserrat
+MSAT,  Salem, Montserrat
+MSPT,  St. Patrick's, Montserrat
+MWHT,  Windy Hill, Montserrat
+
+# MNI-pre80: Montserrat, pre-1980
+MWF,   Farrells, Montserrat
+MWI,   The Grove, Montserrat
+MWL,   Salem, Montserrat
+MWP,   St. Patrick's, Montserrat
+
+
+==
+
+Station Code: MBBE
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBBE,  Bethel, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBBE,  16.74355,       -62.16015,     102,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBBE1644613N 62 9609W)
+  MBBE,  16.7435,        -62.1601667,   102,   n, 2010-06-18, MVO scientific Report 60 [16:44.61N 62:09.61W 102]
+  MBBE,  16.74355,       -62.16015,     102,   n,           , Roman2008 [16N44.613 62W9.609 102]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBBE,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBBE,  1996-10-24   - installed (Roman2008)
+  MBBE,  1997-07-25 13:03 - closed (building hit by PF in Mosquito Ghaut, some equipment recovered at later date).
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBBE, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBBY
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBBY,  Broderick's Yard, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBBY,  16.6976833,     -62.20255,     161,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBBY1641861N 6212153W)
+  MBBY,  16.6976833,     -62.20255,     161,   n,           , Roman2008 [16N41.861 62W12.153 161]
+  MBBY,  16.6977,        -62.2025,      160.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBBY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+
+Status
+  Code,  Date         - Status
+  MBBY,  1998-01-01   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBBY, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBBY, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBET
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBET,  Bethel, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBET,  16.744000,      -62.16017,     102,   n,           , Soufriere System file
+  MBET,  17.73817,       -62.15783,     107,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+  MBET,  16.741,         -62.1627,       99,   y,           , Roman2008 [16N44.460 62W9.762 99]
+  MBET,  16.7414,        -62.1631,      350.0, n,           , NEIC - TRN,Open,Bethel
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBET,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MBET,  1989         - destroyed by Hurricane Hugo
+  MBET,  1989         - installed
+  MBET,  1992         - re-installed
+  MBET,  1995-07-27   - installed (Roman2008)
+  MBET,  1997-06-25   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBET, MVO-A: Montserrat Volcano Observatory, analog
+  MBET, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBET
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBET,  Bethel, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBET,  16.744000,      -62.16017,     102,   n,           , Soufriere System file
+  MBET,  17.73817,       -62.15783,     107,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+  MBET,  16.741,         -62.1627,       99,   y,           , Roman2008 [16N44.460 62W9.762 99]
+  MBET,  16.7414,        -62.1631,      350.0, n,           , NEIC - TRN,Open,Bethel
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBET,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MBET,  1989         - destroyed by Hurricane Hugo
+  MBET,  1989         - installed
+  MBET,  1992         - re-installed
+  MBET,  1995-07-27   - installed (Roman2008)
+  MBET,  1997-06-25   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBET, MVO-A: Montserrat Volcano Observatory, analog
+  MBET, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBFL
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBFL,  Flemmings, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBFL,  16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+  MBFL,  16.7485,        -62.2125,      243,   n,           , Roman2008 [16N44.91 62W12.75 243]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBFL,  --, SP-Z,  SHZ,     100, Mark Products L-4C / DM24
+
+Status
+  Code,  Date         - Status
+  MBFL,  2005         - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBFL, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBFR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBFR,  Fergus Ridge, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBFR,  16.693,         -62.178,       541,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFR1641.58N 6210.68W)
+  MBFR,  16.693,         -62.178,       541,   n,           , Roman2008 [16N41.58 62W10.68 541]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBFR,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+
+Status
+  Code,  Date         - Status
+  MBFR,  2004         - installed (Roman2008)
+  MBFR,  2005-04      - installed (MVO report to SAC5)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBFR, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBFR, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBGA
+
+Aliases / co-locations
+  MGAT
+
+Name(s)
+  Code,  Name
+  MBGA,  Gages, Montserrat
+  MGAT,  Gages, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBGA,  16.710170,      -62.18867,     479,   n,           , Soufriere System file
+  MBGA,  16.7101833,     -62.1886167,   478,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGA1642611N 6211317W)
+  MBGA,  16.7101667,     -62.188667,    479,   n, 2010-06-18, MVO scientific Report 60 [16:42.61N 62:11.32W 479]
+  MBGA,  16.7101833,     -62.1886167,   478,   n,           , Roman2008 [16N42.611 62W11.317 478]
+  MBGA,  16.7102,        -62.1887,      479.0, n,           , NEIC - MVOV,Open,
+  MGAT,  16.710170,      -62.18870,     479,   n,           , Soufriere System file
+  MGAT,  16.7101667,     -62.1886667,   479,   n,           , Roman2008 [16N42.61 62W11.32 479]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBGA,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+  MGAT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MBGA,  1996-10-24   - installed (Roman2008)
+  MBGA,  2005-06-03 ? - closed (Roman2008)
+  MGAT,  1995-07-27   - installed (Roman2008)
+  MGAT,  1997-06-30   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBGA, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+  MGAT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBGB
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBGB,  Garibaldi Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBGB,  16.732330,      -62.22783,     253,   n,           , Soufriere System file
+  MBGB,  16.736,         -62.2278,        0,   n, 2008-01-13, plot_stations script
+  MBGB,  16.7320667,     -62.2277667,   253,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGB1643942N 6213666W)
+  MBGB,  16.732333,      -62.227833,    253,   n, 2010-06-18, MVO scientific Report 60 [16:43.94N 62:13.67W 253]
+  MBGB,  16.7323667,     -62.2277667,   253,   n,           , Roman2008 [16N43.942 62W13.666 253]
+  MBGB,  16.7323,        -62.2278,      253.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBGB,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBGB,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBGB,  1996-10-24   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBGB, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBGB, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBGE
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBGE,  Galways Estate, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBGE,  16.6900667,     -62.1937333,   183,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MBGE1641404N 6211624W)
+  MBGE,  16.69,          -62.193667,    183,   n, 2010-06-18, MVO scientific Report 60 [16:41.40N 62:11.62W 183]
+  MBGE,  16.6900667,     -62.1937333,   183,   n,           , Roman2008 [16N41.404 62W11.624 183]
+  MBGE,  16.6900,        -62.1937,      183.0, n,           , NEIC - MVOV,Reserved,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBGE,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBGE,  1996-10-24   - installed (Roman2008)
+  MBGE,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBGE, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBGH,  St. Georges Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBGH,  16.722500,      -62.20866,     350,   n,           , Soufriere System file
+  MBGH,  16.726,         -62.2087,        0,   n, 2008-01-13, MVO plot_stations script
+  MBGH,  16.7217,        -62.2068,      351,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MGHZ1643302N 6212408W)
+  MBGH,  16.7225667,     -62.2086333,   350,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGH1643354N 6212518W)
+  MBGH,  16.7225,        -62.208667,    350,   n, 2010-06-18, MVO scientific Report 60 [16:43.35N 62:12.52W 350]
+  MBGH,  16.7225667,     -62.2086333,   350,   n,           , Roman2008 [16N43.354 62W12.518 350]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBGH,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBGH,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBGH,  1996-10-24   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBGH, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBGH, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBHA
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBHA,  Harris, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBHA,  16.7398333,     -62.1713333,   291,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBHA1644.39N 6210.28W)
+  MBHA,  16.742000,      -62.1682000,     0,   n, ,           Location used by French when they put data together for MVO Webobs.
+  MBHA,  16.741167,      -62.168333,    343  , n, 2009-01-15, GPS - Rod (Nikon) photo hovering above station 2009_001_237 [16:44:28.20N 62:10:06.00W 343]
+  MBHA,  16.7398333,     -62.1713333,   291,   n,           , Roman2008 [16N44.39 62W10.28 291]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBHA,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+
+Status
+  Code,  Date         - Status
+  MBHA,  2004-03-01   - installed (Roman2008)
+  MBHA,  2004-11-02 01:35 - first picked arrival in MVO database
+  MBHA,  2010-02-11 17:15:16 - destroyed during dome collapse
+  MBHA,  2010-08      - Location appears to be in error by approx. 400 m (Rod)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBHA, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBHA, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBJH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBJH,  Jack Boy Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBJH,  16.77,          -62.1698,        0,   n, 2008-01-13, MVO plot_stations script
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MBJH,  ?            - closed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBJH, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBLG
+
+Aliases / co-locations
+  MLGT
+
+Name(s)
+  Code,  Name
+  MBLG,  Long Ground, Montserrat
+  MLGT,  Long Ground, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBLG,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+  MBLG,  16.728,         -62.1623,        0,   n, 2008-01-13, MVO plot_stations script
+  MBLG,  16.725,         -62.1623333,   287,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MLGT1643.50N06209.74W)
+  MBLG,  16.725,         -62.16225,     287,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLG1643500N 62 9735W)
+  MBLG,  16.725,         -62.129,       287,   n, 2010-06-18, MVO scientific Report 60 [16:43.50N 62:07.74W 287]
+  MBLG,  16.725,         -62.16225,     287,   n,           , Roman2008 [16N43.500 62W9.735 287]
+  MLGT,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+  MLGT,  16.725,         -62.1623333,   287,   y,           , Roman2008 [16N43.50 62W9.74 287]
+  MLGT,  16.7250,        -62.1623,      287.0, n,           , NEIC - MVOV,Open,Long Ground
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBLG,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBLG,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+  MLGT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MBLG,  1996-10-24   - installed (Roman2008)
+  MLGT,  1995-07-27   - installed (Roman2008)
+  MLGT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBLG, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBLG, MVO-D: Montserrat Volcano Observatory, digital
+  MLGT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBLY
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBLY,  Lee's Yard, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBLY,  16.721330,      -62.19100,     355,   n,           , Soufriere System file
+  MBLY,  16.724,         -62.191,         0,   n, 2008-01-13, MVO plot_stations script
+  MBLY,  16.7213333,     -62.191,       355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLY1643.28N 6211.46W)
+  MBLY,  16.7213333,     -62.191,       355,   n,           , Roman2008 [16N43.28 62W11.46 355]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBLY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+
+Status
+  Code,  Date         - Status
+  MBLY,  2000-01-01   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBLY, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBLY, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBMH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBMH,  Mongo Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBMH,  16.776330,      -62.19250,     270,   n,           , Soufriere System file
+  MBMH,  16.77633333,    -62.1925,      270,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBMH1646.58N 6211.55W)
+  MBMH,  16.7763333,     -62.1925,      270,   n,           , Roman2008 [16N46.58 62W11.55 270]
+  MBMH,  16.7763,        -62.1925,      270.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MBMH,  1998-04-14   - installed (Roman2008)
+  MBMH,  2003-03-01   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBMH, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBRV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBRV,  Rendezvous, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBRV,  16.811273,      -62.19608,     231,   n,           , Soufriere System file
+  MBRV,  16.814,         -62.196,         0,   n, 2008-01-13, MVO plot_stations script
+  MBRV,  16.8113333,     -62.196,       231,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRV1648.68N 6211.76W)
+  MBRV,  16.8113333,     -62.196,       231,   n,           , Roman2008 [16N48.68 62W11.76 231]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBRV,  --, SP-Z,  SHZ,     100, Mark Products L-4C / DM24
+
+Status
+  Code,  Date         - Status
+  MBRV,  1996-01-10 ? - installed (Roman2008)
+  MBRV,  2003-10      - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBRV, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBRY
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBRY,  Roches Yard, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBRY,  16.703830,      -62.15317,     355,   n,           , Soufriere System file
+  MBRY,  16.707,         -62.1532,        0,   n, 2008-01-13, MVO plot_stations script
+  MBRY,  16.7038333,     -62.1531667,   355,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MRYT1642.23N06209.19W)
+  MBRY,  16.7039,        -62.1531667,   355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRY1642234N 62 9190W)
+  MBRY,  16.7038333,     -62.1531667,   355,   n, 2010-06-18, MVO scientific Report 60 [16:42.23N 72:09.19W 355]
+  MBRY,  16.7039,        -62.1531667,   355,   n,           , Roman2008 [16N42.234 62W9.190 355]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBRY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBRY,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBRY,  1996-10-24   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBRY, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBRY, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBSS
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBSS,  South Soufriere Hills, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBSS,  16.687000,      -62.16033,     395,   n,           , Soufriere System file
+  MBSS,  16.69,          -62.1602,        0,   n, 2008-01-13, MVO plot_stations script
+  MBSS,  16.6870833,     -62.1602667,   395,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBSS1641225N 62 9616W)
+  MBSS,  16.6870833,     -62.1602667,   395,   n,           , Roman2008 [16N41.225 62W9.616 395]
+  MBSS,  16.6870,        -62.1603,      395.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MBSS,  1996-01-28 ? - installed (Roman2008)
+  MBSS,  2004-07-02   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBSS, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBWH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBWH,  Windy Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBWH,  16.742170,      -62.19083,     407,   n,           , Soufriere System file
+  MBWH,  16.7421833,     -62.1909333,   407,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBWH1644531N 6211456W)
+  MBWH,  16.7421667,     -62.1908333,   407,   n, 2010-06-18, MVO scientific Report 60 [16:44.53N 62:11.45W 407]
+  MBWH,  16.7421833,     -62.1909333,   407,   n,           , Roman2008 [16N44.531 62W11.456 407]
+  MBWH,  16.7422,        -62.1908,      407.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBWH,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBWH,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBWH,  1996-10-24   - installed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBWH, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBWH, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBWW
+
+Aliases / co-locations
+  MBW2
+
+Name(s)
+  Code,  Name
+  MBW2,  Waterworks, Montserrat (centre microphone)
+  MBWW,  Waterworks, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBW2,  16.738383,      -62.212033,    151.0, y, 2009-03, GPS - Locko (16N44.303 62W12.723)
+  MBWW,  16.738383,      -62.212050,    152.0, y, 2009-03, GPS - Locko (16N44.303 62W12.722)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBWW,  --, BB-3C, HHZ/N/E, 100, Guralp CMG-3T / DM24
+
+Status
+  Code,  Date         - Status
+  MBW2,  2009-05-02   - installed
+  MBWW,  2009-05-02   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBWW, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBW2, MVO-I: Monserrat Volcano Observatory Infrasound
+  MBWW, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+  MBW2: Installed and operated by University of Leeds.
+  MBWW: Installed and operated by University of Leeds.
+
+==
+
+Station Code: MCPT
+
+Aliases / co-locations
+  MCPZ
+
+Name(s)
+  Code,  Name
+  MCPT,  Chances Peak, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MCPT,  16.706800,      -62.18120,     759,   n,           , Soufriere System file
+  MCPT,  16.7086833,     -62.1811667,   759,   y,           , Roman2008 [16N42.41  62W10.87 759]
+  MCPZ,  16.7068,        -62.1812,      759.0, n,           , NEIC - MVOV,Reserved,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MCPT,  1996-02-12   - installed (Roman2008)
+  MCPT,  1997-01-11   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MCPT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MGAT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MGAT,  Gages, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MGAT,  16.710170,      -62.18870,     479,   n,           , Soufriere System file
+  MGAT,  16.7101667,     -62.1886667,   479,   n,           , Roman2008 [16N42.61 62W11.32 479]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MGAT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MGAT,  1995-07-27   - installed (Roman2008)
+  MGAT,  1997-06-30   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MGAT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MGH,   Saint George's Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MGH,   16.7200,        -62.2160,      351,   n,           , LL spreadsheet
+  MGH,   16.720000,      -62.21600,     351,   n,           , Soufriere System file
+  MGH,   16.72166,       -62.20679,     370,   y, 2007-10-11, GPS - Rod (Garmin ETrex)
+  MGH,   16.72,          -62.216,       351,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+  MGH,   16.7200,        -62.2160,      351.0, n,           , NEIC - TRN,Open,Saint George's Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MGH,   --,  SP-Z,   SHZ, , 
+  MGH,     ,     ,      , analog, telemetered to SRU, 1980 to 1989
+
+Status
+  Code,  Date         - Status
+  MGH,   1980         - installed (moved here?)
+  MGH,   1989         - destroyed by Hurricane Hugo
+  MGH,   1992         - re-installed
+  MGH,   2000         - modified
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MGH, MVO-A: Montserrat Volcano Observatory, analog
+  MGH, MNI-SRU: SRU stations on Montserrat, post 1980
+  MGH, TR: Eastern Caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MGHZ
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MGHZ,  16.742170,      -62.20683,     325,   n,           , Soufriere System file
+  MGHZ,  16.7217,        -62.2068,      351,   y,           , Roman2008 [16N43.302 62W12.408 351]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MGHZ,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MGHZ,  1995-07-27   - installed (Roman2008)
+  MGHZ,  2004-09-30   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MGHZ, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MHRV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MHRV,  Hermitage. Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MHRV,  16.719500,      -62.17283,     483,   n,           , Soufriere System file
+  MHRV,  16.7208,        -62.1705,      382,   y,           , Roman2008 [16N43.248 62W10.230 382]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MHRV,  1996-06-21   - installed (Roman2008)
+  MHRV,  1996-09-17   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MHRV, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MJHT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MJHT,  Jack Boy Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MJHT,  17.7670,        -62.1697,      187,   n,           , LL spreadsheet
+  MJHT,  16.767200,      -62.16970,     149,   n,           , Soufriere System file
+  MJHT,  16.76725,       -62.16977,     185,   y, 2007-10-12, GPS - Rod (Garmin ETrex)
+  MJHT,  16.7671667,     -62.1698333,   149,   n,           , Roman2008 [16N46.03 62W10.19 149]
+  MJHT,  16.7672,        -62.1698,      149.0, n,           , NEIC - MVOV,Open,Jackboy Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MJHT,  --,  SP-Z,   SHZ, ,
+  MJHT,    , SP? ,      , ?, 
+  MJHT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MJHT,  1995         - installed
+  MJHT,  1997-08-22   - installed (Roman2008)
+  MJHT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MJHT, MVO-A: Montserrat Volcano Observatory, analog
+  MJHT, TR: Eastern Caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MLGT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MLGT,  Long Ground, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MLGT,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+  MLGT,  16.725,         -62.1623333,   287,   y,           , Roman2008 [16N43.50 62W9.74 287]
+  MLGT,  16.7250,        -62.1623,      287.0, n,           , NEIC - MVOV,Open,Long Ground
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MLGT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MLGT,  1995-07-27   - installed (Roman2008)
+  MLGT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MLGT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MLYT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MLYT,  Lees Yard, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MLYT,  16.721330,      -62.19100,     355,   n,           , Soufriere System file
+  MLYT,  16.7213333,     -62.191,       355,   y,           , Roman2008 [16N43.28 62W11.46 355]
+  MLYT,  16.7213,        -62.1910,      355.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MLYT,  1997-07-30   - installed (Roman2008)
+  MLYT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MLYT, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MPLT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MPLT,  16.708000,      -62.22400,      15,   y,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MPLT,  1994-11-30 - installed (approx.)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MPLT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MPVE
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MPVE,  Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MPVE,  16.708000,      -62.22366,      17,   n,           , Soufriere System file
+  MPVE,  16.7067,        -62.2232,       17,   y,           , Roman2008 [16N42.402 62W13.392 17]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MPVE,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MPVE,  1995-07-27   - installed (Roman2008)
+  MPVE,  1995-08-15   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MPVE, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MRYT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MRYT,  Roaches Yard, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MRYT,  16.7038,        -62.1532,      355,   y,           , LL spreadsheet
+  MRYT,  16.703800,      -62.15320,     355,   n,           , Soufriere System file
+  MRYT,  16.7038333,     -62.1531667,   355,   n,           , Roman2008 [16N42.23 62W9.19 355]
+  MRYT,  16.7038,        -62.1532,      355.0, n,           , NEIC - MVOV,Open,
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MRYT,  --,  SP-Z,   SHZ, ,
+  MRYT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MRYT,  1995-07-27   - installed (Roman2008)
+  MRYT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MRYT, MVO-A: Montserrat Volcano Observatory, analog
+  MRYT, TR: Eastern Caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MSAT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MSAT,  Salem, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MSAT,  16.748000,      -62.22100,      72,   n,           , Soufriere System file
+  MSAT,  16.7478,        -62.2248,      185,   y,           , Roman2008 [16N44.868 62W13.488 185]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MSAT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MSAT,  1994         - installed (temporary)
+  MSAT,  1995-07-27   - installed (Roman2008)
+  MSAT,  1995-09-12   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MSAT, MVO-A: Montserrat Volcano Observatory, analog
+  MSAT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MSAT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MSAT,  Salem, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MSAT,  16.748000,      -62.22100,      72,   n,           , Soufriere System file
+  MSAT,  16.7478,        -62.2248,      185,   y,           , Roman2008 [16N44.868 62W13.488 185]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MSAT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MSAT,  1994         - installed (temporary)
+  MSAT,  1995-07-27   - installed (Roman2008)
+  MSAT,  1995-09-12   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MSAT, MVO-A: Montserrat Volcano Observatory, analog
+  MSAT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MSPT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MSPT,  St. Patrick's, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MSPT,  16.684000,      -62.19900,     127,   n,           , Soufriere System file
+  MSPT,  16.6835,        -62.1991667,   127,   y,           , Roman2008 [16N41.01 62W11.95 127]
+  MSPT,  16.6835,        -62.1992,      127.0, n,           , NEIC - MVOV,Reserved,Saint Patrick
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MSPT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MSPT,  1994         - installed (temporary)
+  MSPT,  1995-07-27   - installed (Roman2008)
+  MSPT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MSPT, MVO-A: Montserrat Volcano Observatory, analog
+  MSPT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MSPT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MSPT,  St. Patrick's, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MSPT,  16.684000,      -62.19900,     127,   n,           , Soufriere System file
+  MSPT,  16.6835,        -62.1991667,   127,   y,           , Roman2008 [16N41.01 62W11.95 127]
+  MSPT,  16.6835,        -62.1992,      127.0, n,           , NEIC - MVOV,Reserved,Saint Patrick
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MSPT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MSPT,  1994         - installed (temporary)
+  MSPT,  1995-07-27   - installed (Roman2008)
+  MSPT,  ?            - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MSPT, MVO-A: Montserrat Volcano Observatory, analog
+  MSPT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MSSZ
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MSSZ,  South Soufriere Hills, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MSSZ,  16.688660,      -62.17283,     762,   n,           , Soufriere System file
+  MSSZ,  16.69,          -62.172,       665,   y,           , Roman2008 [16N41.400 62W10.320 665]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MSSZ,  1995-12-05   - installed (Roman2008)
+  MSSZ,  1996-03-30   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MSSZ, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MVO
+
+Aliases / co-locations
+  MVOV
+
+Name(s)
+  Code,  Name
+  MVO,   Montserrat Observatory, Montserrat
+  MVOV,  Montserrat Observatory, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MVO,   16.7465,        -62.2283333,    80,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MVOV1644.79N06213.70W)
+  MVOV,  16.746500,      -62.22833,      80,   n,           , Soufriere System file
+  MVOV,  16.7465,        -62.2283,       80.0, n,           , NEIC - MVOV,Open,Montserrat Volcano Observatory
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MVO, MVO-DX: Montserrat Volcano Observatory, digital (closed)
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MVPV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MVPV,  Vieux Pointe, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MVPV,  16.743166,      -62.24000,      17,   n,           , Soufriere System file
+  MVPV,  16.7435,        -62.2357,       23,   y,           , Roman2008 [16N44.610 62W14.142 23]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MVPV,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MVPV,  1995-09-05   - installed (Roman2008)
+  MVPV,  1996-01-28   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MVPV, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWF
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWF,   Farrells, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWF,   16.7346,        -62.1804,        0,   y, , Taken  from Fig 2, Shepherd1971
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MWF,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+
+Status
+  Code,  Date         - Status
+  MWF,   1966-03-22   - installed
+  MWF,   ?            - closed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWF, MNI-pre80: Montserrat, pre-1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWH2
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWH2,  16.7398,        -62.1932,      411,   y,           , Roman2008 [16N44.388 62W11.592 411]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MWH2,  1996-02-02   - installed (Roman2008)
+  MWH2,  1997-01-01   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWH2, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWHT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWHT,  Windy Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWHT,  16.734000,      -62.19000,     350,   y,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MWHT,    , SP? ,      , ?, 
+
+Status
+  Code,  Date         - Status
+  MWHT,  1994         - installed (temporary)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWHT, MNI-SRU: SRU stations on Montserrat, post 1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWHZ
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWHZ,  Windy Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWHZ,  16.735000,      -62.19000,     405,   n,           , Soufriere System file
+  MWHZ,  16.7421667,     -62.1908333,   407,   y,           , Roman2008 [16N44.53 62W11.45 407]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MWHZ,  1995-07-27   - installed (Roman2008)
+  MWHZ,  1997-01-01   - closed (Roman2008)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWHZ, MVO-A: Montserrat Volcano Observatory, analog
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWI
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWI,   The Grove, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWI,   16.71300,       -62.22200,      46,   n,           , Soufriere System file
+  MWI,   16.7137,        -62.2195,        0,   y, , Taken  from Fig 2, Shepherd1971
+  MWI,   16.713,         -62.222,        46,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+  MWI,   16.7130,        -62.2220,       46.0, n,           , NEIC - TRN,Closed,Montserrat (Grove)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MWI,     ,   3C,      , analog, Weichert / local recording, 1937 - 1951
+  MWI,     , SP-Z,      , analog, Willmore-Watts SPZ 0.8s period / local recording, 1966-03-22 to 1967-11
+  MWI,     , SP-Z,      , analog, local paper recording, 1967 to 1980
+
+Status
+  Code,  Date         - Status
+  MWI,   1937 ?       - installed
+  MWI,   1945 ?       - stopped
+  MWI,   1966-03-20   - re-instated
+  MWI,   1992         - re-installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWI, MNI-pre80: Montserrat, pre-1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWL
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWL,   Salem, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWL,   16.7485,        -62.22,          0,   y, , Taken  from Fig 2, Shepherd1971
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MWL,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+
+Status
+  Code,  Date         - Status
+  MWL,   1966-03-22   - installed
+  MWL,   ?            - closed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWL, MNI-pre80: Montserrat, pre-1980
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MWP
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MWP,   St. Patrick's, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MWP,   16.6854,        -62.1965,        0,   y, , Taken  from Fig 2, Shepherd1971
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MWP,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+
+Status
+  Code,  Date         - Status
+  MWP,   1966-03-22   - installed
+  MWP,   ?            - closed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MWP, MNI-pre80: Montserrat, pre-1980
+
+Notes
+  Code:  Comment
+
+==
+

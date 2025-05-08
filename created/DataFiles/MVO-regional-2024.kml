@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-regional-2024</name>
+    <snippet>Created Fri Jul 19 16:56:45 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-61.400700</longitude>
+      <latitude>14.900450</latitude>
+      <range>952368.209559</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>GRGR</name>
+        <description>Grenville, Grenada (GRGR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.654000,12.132400,195.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVT</name>
+        <description>Saint Vincent (Camden Park) (NEIC) (SVT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.245000,13.168000,38.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DSLB</name>
+        <description>Salisbury, Dominica (DSLB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.421000,15.438000,279.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABD</name>
+        <description>La Joyeuse, Anse Bertrand, Guadeloupe (ABD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.488100,16.474300,12.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABA</name>
+        <description>Saba (SABA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.242600,17.620500,261.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBGH</name>
+        <description>Gun Hill, Barbados (BBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.558800,13.143400,180.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,7 @@
+SFAN,  13.3838,        -61.1721,       23,   n,           , LL spreadsheet
+SFAN,  13.383796,      -61.17211,     229,   n,           , Soufriere System file
+SFAN,  13.3825833,     -61.1655667,     0,   n, 2007,       GPS - Ian (13N22.955 61W09.934)
+SFAN,  13.3825833,     -61.1655667,   229,   y, 2007,       GPS - Ian (13N22.955 61W09.934) - assumed 229m altitude
+SFAN,  13.3838,        -61.1721,      229.0, n,           , NEIC - TRN,Open,Fancy Village
+SFAN,  13.38381,       -61.17211,     229.0, n, 2021-02-06, ISC
+SFAN,  13.381502,      -61.165876,     40.0, n, 2021-01-22. Chan (digitiser GPS)

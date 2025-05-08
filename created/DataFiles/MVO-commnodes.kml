@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <name>MVO-commnodes</name>
+    <open>1</open>
+    <snippet>Created Tue Jul 25 17:49:44 2023 GMT</snippet>
+    <LookAt>
+      <longitude>-62.210492</longitude>
+      <latitude>16.771718</latitude>
+      <altitude>0</altitude>
+      <heading>0</heading>
+      <tilt>0</tilt>
+      <range>12496.140602</range>
+    </LookAt>
+    <StyleMap id="msn_icon61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_icon61</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_icon61</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="waypoint_n0">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="sn_icon61">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle/>
+    </Style>
+    <Style id="sh_icon61">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle/>
+    </Style>
+    <StyleMap id="waypoint0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>MVO</name>
+      <description>Montserrat Observatory, Montserrat (MVO.)</description>
+      <styleUrl>#waypoint0</styleUrl>
+      <Point>
+        <coordinates>
+          -62.2127617340204,16.7488026930259,80
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silver Hills</name>
+      <description>Silver Hills (SILV.)</description>
+      <styleUrl>#msn_icon61</styleUrl>
+      <Point>
+        <coordinates>
+          -62.19265,16.81137,300
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garibaldi Hill</name>
+      <description>Garibaldi Hill, Montserrat (MBGB.)</description>
+      <styleUrl>#msn_icon61</styleUrl>
+      <Point>
+        <coordinates>
+          -62.227767,16.732067,253
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olveston</name>
+      <description>(OLV1.)</description>
+      <styleUrl>#msn_icon61</styleUrl>
+      <Point>
+        <coordinates>
+          -62.22773,16.7504,41
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gov HQ</name>
+      <LookAt>
+        <longitude>-62.2089573071438</longitude>
+        <latitude>16.7921189296551</latitude>
+        <altitude>0</altitude>
+        <heading>-0.00613011563345956</heading>
+        <tilt>0</tilt>
+        <range>825.516138368297</range>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+      </LookAt>
+      <styleUrl>#msn_icon61</styleUrl>
+      <Point>
+        <coordinates>
+          -62.2108389617907,16.7921037581139,0
+        </coordinates>
+        <gx:drawOrder>1</gx:drawOrder>
+      </Point>
+    </Placemark>
+    <Placemark id="MVO-commnodes.6">
+      <name>SRC</name>
+      <Point>
+        <coordinates>
+          -62.139244074054,16.748031233884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MVO-commnodes.7">
+      <name>IRIS</name>
+      <Point>
+        <coordinates>
+          -62.1403621068777,16.7927773549501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

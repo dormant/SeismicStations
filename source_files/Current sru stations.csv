@@ -1,0 +1,53 @@
+,"Code","Location","Latitude","Longitude","Alt(km)","Type","Node","Remarks"
+,,,,,,,,
+1,"TBH","Trinidad, Brigand Hill",10.4840,-61.0670,0.199,"SP V","TRN",1982
+2,"TPP","Trinidad, Point-a-Pierre",10.3170,-61.4510,0.046,"SP V","TRN",1965
+3,"TCE","Trinidad, Chacachacare",10.6970,-61.7530,0.240,"SP V","TRN",1979
+4,"BOT","Tobago, Bacolet",11.1660,-60.7180,0.030,"SP V","TRN",1982
+5,"TPR","Tobago, Prospect",11.1860,-60.7770,0.245,"SP V","TRN",1982
+6,"TRN*","Trinidad, St. Augustine",10.6480,-61.4030,0.024,"BB 3D, K2 3D VSP V, VLP V","TRN HUB","1952 (moved 1957, re-equipped 1963, 1975 ,1979 and 2000)"
+7,"TPTC","Trinidad, Point Cumana",10.6800,-61.5700,0.005,"K2 3D","Accelerograph",2000
+8,"TWMO","Trinidad, Westmoorings",10.6700,-61.5600,0.005,"K2 3D","Accelerograph",2000
+9,"TTBR","Trinidad, Toco",10.8600,-16.9400,0.009,"K2 3D","Accelerograph",2001
+7,"BUAY","Trinidad, Buenos Ayres",10.1072,61.6862,0.000,"SP V","ALNG","2000. Funded by Atlantic LNG"
+8,"SIPA","Trinidad, Siparia",10.1429,-61.5060,0.025,"SP V","ALNG","2000, Funded by Atlantic LNG"
+9,"ALNG","Trinidad, Point Fortin",10.1814,-61.6883,0.010,"BB 3D,  K2 3D","ALNG HUB","2000, Funded by Atlantic LNG"
+10,"GRW","Grenada, Mt. St. Catherine",12.1600,-61.6610,0.762,"SP V","TRN",1977
+11,"GRCU","Grenada, Carriacou",12.4770,-61.6530,0.240,"SP V","GRHS",2001
+13,"GRSS","Grenada, Sisters",12.2985,-61.6120,0.020,"SP V","GRHS",2001
+14,"GRHS","Grenada, Sauteurs",12.2985,-61.6120,0.020,"SP V","GRHS HUB","2001, Kick em Jenny Volcano Minitor."
+15,"BBSP","Barbados, St. Philip",13.1045,-59.4579,0.035,"BB 3D","B5GA HUB","1953 (moved/re-equipped 1999) "
+16,"FCV","St. Vincent, Fort Charlotte",13.1570,-61.2450,0.194,"SP V","SVB","1952 (Moved 1980)"
+17,"SVV","St. Vincent, Wallibou",13.3180,-61.2160,0.243,"SP V","SVB",1978
+18,"SSV","St. Vincent, Summit",13.3270,-61.1930,0.824,"SP V","SVB","1979 (Re-equipped 2003)"
+19,"BHS","St. Vincent, Orange Hill",13.2960,61.1270,0.090,"SP V","SVB","1979 (Re-equipped 2005)"
+20,"SFAN","St. Vincent, Fancy",13.3838,-61.1721,0.023,"SP V","SVB","1979 (re-equipped 1998)"
+21,"SVB","St. Vincent, Belmont",13.2720,-61.2520,0.282,"SP 3D","SVB HUB","1978 (re-equipped 1998)"
+22,"SLW","St. Lucia, Petit Monier",14.0200,-60.9360,0.366,"SP V","MCLT",1981
+23,"SLDE","St. Lucia, Delcer",13.8031,-61.0583,0.246,"SP V","MCLT",2000
+24,"SLPE","St. Lucia, Piton St.Espirit",13.8431,-60.9952,0.460,"SP V","MCLT",2000
+25,"SLTA","St. Lucia, Morne Tabac",13.8704,-61.0399,0.550,"SP V","MCLT",2000
+26,"SLPA","St. Lucia, Patience",13.8537,-60.9190,0.183,"SP V","MCLT",2000
+27,"SLB","St. Lucia, Belfond",13.8258,-61.0408,0.600,"SP V","MCLT",1984
+28,"MCLT","St. Lucia, Moule a chique",13.7096,-60.9412,0.220,"BB 3D","MCLT HUB","1990 (re-equipped 2000)"
+29,"DBCT","Dominica, Belle-Vue Chopin",15.2708,-61.3456,0.527,"SP V","MDN",1985
+30,"DFBT","Dominica, Forest Bistro",15.2402,-61.3559,0.083,"SP V","MDN","1985 (Moved 1998)"
+31,"DLVT","Dominica, Layou Valley",15.4365,-61.3496,0.274,"SP V","MDN",1998
+32,"DPMT","Dominica, Pointe Michel",15.2609,-61.3770,0.050,"SP V","MDN",1985
+33,"DSHT","Dominica, Scott’s Head",15.2136,-61.3737,0.134,"SP V","MDN",1999
+34,"DSTT","Dominica, Stowe",15.2467,-61.3035,0.120,"SP V","MDN",1998
+35,"DVDT","Dominica, Morne Nicholl",15.3105,-61.3134,0.960,"SP V","MDN",1997
+36,"BBL","Dominica, Morne Espagnol",15.5262,-61.4699,0.265,"SP V","MDN",1980
+37,"MDN","Dominica, Morne Daniel",15.3185,-61.3923,0.099,"SP 3D","MDN HUB","1977 (re-equipped 1998)"
+38,"DWS","Dominica, Wesley",15.5685,-61.3113,0.061,"BB 3D","DWS HUB",2000
+39,"ANG","Antigua, Friars Hill",17.1550,-61.8300,0.027,"SP V","BPA","1953 (moved 1966)"
+40,"CPB","Barbuda, Codrington",17.6400,-61.8260,0.005,"SP V","BPA",1980
+41,"MJHT","Montserrat, Jack Boy Hill",17.7670,-62.1697,0.187,"SP V","BPA","1995 (Modified 2000)"
+42,"MGH","Montserrat, St. Georges Hill",16.7200,-62.2160,0.351,"SP V","BPA","1965 (Moved 1980, Modified 2000)"
+43,"MRYT","Montserrat, Roaches Yard",16.7038,-62.1532,0.355,"SP V","BPA",1995
+44,"NEV","Nevis, Gingerland",17.1361,-62.5710,0.244,"SP V","BPA",1980
+45,"BPA","Antigua, Boggy Peak",17.0460,-61.8570,0.396,"BB 3D","BPA HUB","1980 (Re-equipped 2000)"
+46,"SKI","Bayford’s Farm, St. Kitts",17.3330,-62.7390,0.306,"BB 3D","SKI HUB","1956 (re-equipped 2000)"
+47,"STMA","Philipsburg, St. Maarten",18.0430,63.1090,0.028,"BB 3D","STMA HUB",2003
+48,"SABT","Saba, NA, St. Johns",17.6170,-62.2330,0.880,"SP 3D","SABT HUB","1994 (re-equipped 2000)"
+49,"STAT","St. Eustatius, NA, Oranjestad",17.4852,-62.9589,0.132,"SP 3D","STAT HUB","1994 (re-equipped 2000)"

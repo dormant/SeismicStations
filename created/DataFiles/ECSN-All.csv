@@ -1,0 +1,77 @@
+ANWB,  17.6685,        -61.7856,       39.0, y,           , NEIC TRN
+AOPR,  18.3466111,     -66.7538889,   355.1, y, ,           NEIC (18.182047.8N 664514.0W  355.1Arecibo Observatory)
+ATG,   16.094333,      -61.726333,    865.0, y, , ATGZ in file suppplied by station operator (stations_ovsg.en) [1605.77N 6143.58W 865]
+BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+BBL,   15.526167,      -61.47,        365.0, y, , BBLZ in file suppplied by station operator (stations_ovsg.en) [1531.57N 6128.20W 365]
+BBSP,  13.1045,        -59.4579,       35,   y,           , LL spreadsheet
+BBSR,  32.3712,        -64.6962,      -25,   y,           , NEIC
+BCIP,   9.1665,        -79.8373,       61,   y,           , NEIC
+BCIP,   9.1665,        -79.8373,       61,   y,           , NEIC
+BHS,   13.3149,        -61.12135,      90,   y, 2007,       GPS - Ian (13N18.894 61W07.281) - assumed 90m altitude
+BOT,   11.1660,        -60.7180,       30,   y,           , LL spreadsheet
+DBCT,  15.2700667,     -61.3431167,   527,   y, 2007,       GPS - Ian (15N16.204 61W20.587) - assumed 527m altitude
+DEG,   16.3111667,     -61.064,       279.0, y, , DEGZ in file suppplied by station operator (stations_ovsg.en) [1618.67N 6103.84W 279]
+DFBT,  15.2402,        -61.3559,       83,   y,           , LL spreadsheet
+DLPL,  15.332419,      -61.246788,     40.9, y, 2008-06-18, GPS - nmx soh log
+DPMT,  15.2609,        -61.3770,       50,   y,           , LL spreadsheet
+DSHT,  15.2136,        -61.3737,      134,   y,           , LL spreadsheet
+DSTT,  15.2467,        -61.3035,      120,   y,           , LL spreadsheet
+DWPF,  28.1103,        -81.4328,     -142,   y,           , NEIC
+DWS,   15.5685,        -61.3113,       61,   y,           , LL spreadsheet
+FCV,   13.1570,        -61.2450,      194,   y,           , LL spreadsheet
+FDF,   14.733330,      -61.15033,     510,   y,           , Soufriere System file
+FDF,   14.733330,      -61.15033,     510,   y,           , Soufriere System file
+GRCU,  12.477110,      -61.45295,     240,   y,           , Soufriere System file (elev. from map)
+GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+GRHS,  12.221750,      -61.64050,      66,   y,           , Soufriere System file (elev. from 1:25k map)
+GRSS,  12.298490,      -61.61233,      20,   y,           , Soufriere System file (elev. from map)
+GRW,   12.1600,        -61.6610,      762,   y,           , LL spreadsheet
+HKT,   29.9500,        -95.8333,     -415,   y,           , NEIC
+MBFL,  16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+MBGH,  16.7225667,     -62.2086333,   350,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGH1643354N 6212518W)
+MBWW,  16.738383,      -62.212050,    152.0, y, 2009-03, GPS - Locko (16N44.303 62W12.722)
+MCLT,  13.711493,      -60.942603,    220,   y, 2008-06-18, GPS - nmx soh log - assumed 220m altitude
+MDCT,  15.6168,        -61.4629,       77.0, y, 2009-12-04, GPS - Reftek DAS
+MDMP,  15.5958,        -61.41151,     177,   y, 2010-05-12, from Machel
+MDN,   15.3185,        -61.3923,       99,   y,           , LL spreadsheet
+MDPM,  15.5756,        -61.4517,        8.0, y, 2009-12-04, GPS - Reftek DAS
+MDPV,  15.62753,       -61.42221,     282,   y, 2010-05-12, from Machel
+MDVC,  15.6142,        -61.4055,       84.0, y, 2009-12-04, GPS - Reftek DAS
+MGG,   15.915,         -61.3205,       88.0, y, , MGGZ in file suppplied by station operator (stations_ovsg.en) [1554.90N 6119.23W  88]
+MML,   16.0445,        -61.669,      1197.0, y, , MMLL in file suppplied by station operator (stations_ovsg.en) [1602.67N 6140.14W1197]
+NEV,   17.1361,        -62.5710,      244,   y,           , LL spreadsheet
+PSDMZ, 15.57699,       -61.45523,       1.0, y, 2009-11-27, GPS - Reftek DAS
+SABA,  17.62050,       -63.24260,     261,   y, 2008-01-17, GPS - from miniseed data header
+SDDR,  18.9821,        -71.2878,      589,   y,           , NEIC
+SDDR,  18.9821,        -71.2878,      589,   y,           , NEIC
+SDV,    8.8861,        -70.6333,     1580,   y,           , NEIC
+SDV,    8.8861,        -70.6333,     1580,   y,           , NEIC
+SEUS,  17.49280,       -62.98140,     460,   y, 2008-01-17, GPS - from miniseed data header
+SFAN,  13.3825833,     -61.1655667,   229,   y, 2007,       GPS - Ian (13N22.955 61W09.934) - assumed 229m altitude
+SJG,   18.1117,        -66.1500,      457,   y,           , NEIC
+SJG,   18.1117,        -66.1500,      457,   y,           , NEIC
+SKI,   17.33380,       -62.73800,     306,   y, 2007-05-27, GPS - nmx soh log (assumed 306m alt)
+SLB,   13.8275667,     -61.04125,     600,   y, 2007,       GPS - Ian (13N49.654 61W02.475) - assumed 600m altitude
+SLDE,  13.80395,       -61.05955,     246,   y, 2007,       GPS - Ian (13N48.237 61W03.573) - assumed 246m altitude
+SLPA,  13.8537,        -60.9190,      183,   y,           , LL spreadsheet
+SLPE,  13.8431,        -60.9952,      460,   y,           , LL spreadsheet
+SLTA,  13.8704,        -61.0399,      550,   y,           , LL spreadsheet
+SLW,   14.0200,        -60.9360,      366,   y,           , LL spreadsheet
+SMRT,  18.05050,       -63.07460,     260,   y, 2008-01-17, GPS - from miniseed data header
+SSV,   13.3270,        -61.1930,      824,   y,           , LL spreadsheet
+SVB,   13.27450,       -61.25040,     282,   y, 2007-05-27, GPS - nmx soh log (assumed 282m
+SVV,   13.3180,        -61.2160,      243,   y,           , LL spreadsheet
+TBG,   15.852,         -61.645333,     92.0, y, , TBGZ in file suppplied by station operator (stations_ovsg.en) [1551.12N 6138.72W  92]
+TBH,   10.4840,        -61.0670,      199,   y,           , LL spreadsheet
+TCE,   10.6970,        -61.7530,      240,   y,           , LL spreadsheet
+TEIG,  20.2263,        -88.2764,       69,   y,           , NEIC
+TGUH,  14.0570,        -87.2730,        0,   y,           , NEIC
+TGUH,  14.0570,        -87.2730,        0,   y,           , NEIC
+TOSP,  11.298342,      -60.535194,      5,   y, 2007-05-27, GPS - nmx soh log (assumed 5m alt)
+TPP,   10.3170,        -61.4510,       46,   y,           , LL spreadsheet
+TPR,   11.1860,        -60.7770,      245,   y,           , LL spreadsheet
+TRN,   10.6480,        -61.4030,       24,   y,           , LL spreadsheet

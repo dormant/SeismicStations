@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-array-MSA1</name>
+    <snippet>Created Thu Jul 25 17:42:49 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.207492</longitude>
+      <latitude>16.711463</latitude>
+      <range>1300.000000</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MA1A0</name>
+        <description>Round Hill Array, Montserrat, element A0 (MA1A0.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207545,16.711527</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A1</name>
+        <description>Round Hill Array, Montserrat, element A1 (MA1A1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207613,16.711898</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A2</name>
+        <description>Round Hill Array, Montserrat, element A2 (MA1A2.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207175,16.711786</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A3</name>
+        <description>Round Hill Array, Montserrat, element A3 (MA1A3.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207082,16.711460</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A4</name>
+        <description>Round Hill Array, Montserrat, element A4 (MA1A4.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207381,16.711073</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A5</name>
+        <description>Round Hill Array, Montserrat, element A5 (MA1A5.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207824,16.711185</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1A6</name>
+        <description>Round Hill Array, Montserrat, element A6 (MA1A6.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207949,16.711576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B1</name>
+        <description>Round Hill Array, Montserrat, element B1 (MA1B1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207212,16.712344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B2</name>
+        <description>Round Hill Array, Montserrat, element B2 (MA1B2.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.206720,16.712131</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B3</name>
+        <description>Round Hill Array, Montserrat, element B3 (MA1B3.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.206572,16.711420</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B4</name>
+        <description>Round Hill Array, Montserrat, element B4 (MA1B4.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.206804,16.710907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B5</name>
+        <description>Round Hill Array, Montserrat, element B5 (MA1B5.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207335,16.710581</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B6</name>
+        <description>Round Hill Array, Montserrat, element B6 (MA1B6.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207981,16.710664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B7</name>
+        <description>Round Hill Array, Montserrat, element B7 (MA1B7.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208333,16.711008</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B8</name>
+        <description>Round Hill Array, Montserrat, element B8 (MA1B8.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208411,16.711815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA1B9</name>
+        <description>Round Hill Array, Montserrat, element B9 (MA1B9.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207977,16.712335</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,84 @@
+ALNG, 10.1814, -61.6882,    0.0,TRN,Open,Atlantic Liquefied Natural Gas
+ANG, 17.1550, -61.8300,   27.0,TRN,Open,Antigua (Friars Hill)
+AWI, 17.1430, -61.8350,   23.0,TRN,Closed,Antigua
+B5GA, 13.0670, -59.5955,   35.0,TRN,Closed,5 Glenshane Apartments
+BBGH, 13.1434, -59.5588,  180.0,TRN,Open,Gun Hill
+BBL, 15.5262, -61.4700,  365.0,TRN,Open,Barbers Block (Morne Espagnol)
+BBSP, 13.1045, -59.4579,   35.0,TRN,Open,Saint Philip
+BDH, 13.2030, -59.5890,  308.0,TRN,Open,Highclere
+BDS, 13.1460, -59.6260,  110.0,TRN,Open,Barbados (Husbands)
+BHS, 13.2963, -61.1272,   90.0,TRN,Open,Barnard House
+BOT, 11.1667, -60.7179,   30.0,TRN,Open,Bacolet
+BPA, 17.0460, -61.8570,  396.0,TRN,Open,Boggy Peak
+BRB, 13.1220, -59.6060,   55.0,TRN,Closed,Barbados (Codrington)
+BRBD,,,,TRN,Reserved,Wooly Bob
+BSK, 17.3470, -62.8400,  125.0,TRN,Open,Brimstone Hill
+BUAY, 10.1072, -61.6862,    0.0,TRN,Open,Buenos Aires
+CPB, 17.6400, -61.8260,    5.0,TRN,Open,Codrington
+DBCT, 15.2708, -61.3456,  527.0,TRN,Open,Belle View Chopil
+DFBT, 15.2401, -61.3559,   83.0,TRN,Open,Forest Bistro
+DGBT, 15.2390, -61.3290,   70.0,TRN,Closed,Grand Bay
+DLVT, 15.4365, -61.3946,  274.3,TRN,Open,Layou Valley
+DOM, 15.2960, -61.3910,   15.0,TRN,Closed,Dominica (Roseau)
+DPMT, 15.2609, -61.3770,   50.0,TRN,Open,Pointe Michel
+DSC, 15.2084, -61.3652,   50.0,TRN,Closed,Scotts Head
+DSHT, 15.2136, -61.3737,  133.4,TRN,Open,Scott's Head
+DSTT, 15.2467, -61.3035,  120.0,TRN,Open,Stowe
+DSVT, 15.2290, -61.3700,    5.0,TRN,Closed,Soufri&egrave;re Village
+DTMT, 15.2330, -61.3520,  496.0,TRN,Open,Tete Morne
+DVDT, 15.3104, -61.3134,  960.0,TRN,Open,Valley of Desolation
+DWS, 15.5685, -61.3113,   61.0,TRN,Open,Wesley
+FCV, 13.1570, -61.2450,  194.0,TRN,Open,Fort Charlotte
+GNG, 11.1770, -60.7980,   36.0,TRN,Open,Grange
+GRCU, 12.4711, -61.4529,  240.0,TRN,Open,Cariacou
+GRE, 12.0470, -61.7460,   15.0,TRN,Open,Grenada (Saint George's)
+GRGR, 12.1324, -61.6540,  195.0,TRN,Open,Grenville
+GRHS, 12.2239, -61.6413,   66.0,TRN,Open,Sauteurs
+GRSS, 12.2985, -61.6123,   20.0,TRN,Open,Sisters
+GRW, 12.1600, -61.6610,  762.0,TRN,Open,Mount Saint Catherine
+MBET, 16.7414, -62.1631,  350.0,TRN,Open,Bethel
+MCLT, 13.7096, -60.9412,  220.0,TRN,Open,Moule a Chique
+MDN, 15.3185, -61.3923,   99.0,TRN,Open,Morne Daniel
+MGH, 16.7200, -62.2160,  351.0,TRN,Open,Saint George's Hill
+MWI, 16.7130, -62.2220,   46.0,TRN,Closed,Montserrat (Grove)
+NEV, 17.1361, -62.5710,  244.0,TRN,Open,Hard Times Estate
+O6A, 17.7920, -61.0220, -496.0,TRN,Reserved,East Barbuda O.B.S.
+OHS, 13.3170, -61.1480,  274.0,TRN,Reserved,Orange Hill
+PIG, 11.1610, -60.8410,    0.0,TRN,Open,Pigeon Point
+PLS, 10.4130, -61.4900,    0.0,TRN,Closed,Point Lisas
+PLY, 11.2170, -60.7790,    9.0,TRN,Open,Plymouth
+RSV, 13.3070, -61.2360,    8.0,TRN,Open,Radio Antilles
+SABS, 17.6206, -63.2430,  500.0,TRN,Open,Saba (Government School)
+SFAN, 13.3838, -61.1721,  229.0,TRN,Open,Fancy Village
+SIH, 11.1714, -60.7708,   80.0,TRN,Reserved,Signal Hill
+SIPA, 10.1429, -61.5060,   60.0,TRN,Open,Siparia
+SKDB, 17.3969, -62.8083,    0.0,TRN,Open,Saint Kitts 2
+SKI, 17.3333, -62.7390,  306.0,TRN,Open,Saint Kitts (Bayfords)
+SLB, 13.8275, -61.0412,  600.0,TRN,Open,Belfond
+SLDE, 13.8031, -61.0582,  246.0,TRN,Open,Delcer
+SLI, 14.0280, -61.0080,   30.0,TRN,Closed,Saint Lucia (Vigie Point)
+SLPA, 13.8537, -60.9190,  183.0,TRN,Open,Patience
+SLPE, 13.8431, -60.9952,  460.0,TRN,Open,Piton Saint Espirit
+SLTA, 13.8704, -61.0399,  550.0,TRN,Open,Morne Tabac
+SLW, 14.0202, -60.9384,  366.0,TRN,Open,Petit Monier
+SOA, 13.3735, -61.1486,   40.0,TRN,Open,Owia
+SRH, 13.1860, -61.2540,  274.0,TRN,Reserved,Rilland Hill
+SSV, 13.3270, -61.1930,  824.0,TRN,Open,Crater Summit
+STAT, 17.4950, -62.9787,   50.0,TRN,Open,Sint Eustatius (Agricultural Station)
+STMA, 18.0428, -63.1089,   28.2,TRN,Open,St. Maarten; Airport
+SVB, 13.2720, -61.2520,  282.0,TRN,Open,Belmont
+SVG, 13.2450, -61.2780,   46.0,TRN,Reserved,Indian Gallows
+SVI, 13.1700, -61.2580,   10.0,TRN,Closed,Saint Vincent (Questelles Point)
+SVL, 13.3680, -61.2040,   91.0,TRN,Reserved,Baleine
+SVT, 13.1680, -61.2450,   38.0,TRN,Open,Saint Vincent (Camden Park)
+SVV, 13.3180, -61.2160,  243.0,TRN,Open,Soufriere Volcano (Wallibou)
+TBH, 10.4840, -61.0670,  199.0,TRN,Open,Brigand Hill
+TBVI, 18.4100, -64.6100,  100.0,TRN,Open,Tortola
+TCE, 10.6970, -61.7530,  240.0,TRN,Open,Chacachacare
+TCHG, 10.6800, -61.6600,   21.0,TRN,Open,Chaguaramas
+TOB, 11.1410, -60.8410,   15.0,TRN,Open,Tobago (Crown Point)
+TPP, 10.3170, -61.4510,   46.0,TRN,Open,Pointe-a-Pierre
+TPR, 11.1860, -60.7770,  245.0,TRN,Open,Prospect
+TRN, 10.6480, -61.4030,   24.0,TRN,Open,Trinidad (Saint Augustine)
+TTR, 10.6740, -61.0660,   46.0,TRN,Open,Matura
+VGVI, 18.4400, -64.4300,   20.0,TRN,Closed,Virgin Gorda

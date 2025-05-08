@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-nodes</name>
+    <snippet>Created Thu Jul 25 17:38:28 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.180347</longitude>
+      <latitude>16.711441</latitude>
+      <range>4106.437275</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSS1</name>
+        <description>Scar 1 (MSS1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.178000,16.721820,488.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSUH</name>
+        <description>Upper Hermitage, Montserrat (MSUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.170247,16.719058,543.30</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSGS</name>
+        <description>Galways Saddle, Montserrat (MSGS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.171417,16.706257,797.40</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSRE</name>
+        <description>Ridge End, Montserrat (MSRE.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.181244,16.701062,594.70</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSGA</name>
+        <description>Gages Fan, Montserrat (MSGA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.190447,16.710260,474.10</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

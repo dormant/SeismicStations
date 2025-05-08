@@ -1,0 +1,19 @@
+#!/usr/bin/env perl
+#
+# kmltidy
+#
+# Takes (in STDIN) a kml file created by gpsbabel 
+# And tidies up a couple of things, writes to stdoutput.
+#
+# Rod Stewart, 2010-05-05
+
+while ($line = <>) {
+
+	$line =~ s/GPS device/Stations/g;
+
+	if( $line =~ /Folder/ ) {
+	} elsif( $line =~ /Waypoints/ ) {
+	} else {
+		print $line;
+	}
+}

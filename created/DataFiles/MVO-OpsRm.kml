@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-OpsRm</name>
+    <snippet>Created Mon Feb 3 15:25:54 2020</snippet>
+    <LookAt>
+      <longitude>-61.857933</longitude>
+      <latitude>17.071400</latitude>
+      <range>200838.996153</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSS1</name>
+        <description>Scar 1 (MSS1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.178000,16.721820,488.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBLY</name>
+        <description>Lee's Yard, Montserrat (MBLY.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.191000,16.721333,355.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGH</name>
+        <description>St. Georges Hill, Montserrat (MBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208633,16.722567,350.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGB</name>
+        <description>Garibaldi Hill, Montserrat (MBGB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.227767,16.732067,253.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBWH</name>
+        <description>Windy Hill, Montserrat (MBWH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.190933,16.742183,407.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBHA</name>
+        <description>Harris, Montserrat (MBHA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.168220,16.742010,250.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBRY</name>
+        <description>Roches Yard, Montserrat (MBRY.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.153167,16.703900,355.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBFL</name>
+        <description>Flemmings, Montserrat (MBFL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212500,16.748500,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABD</name>
+        <description>La Joyeuse, Anse Bertrand, GUadeloupe (ABD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.488100,16.474300,12.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

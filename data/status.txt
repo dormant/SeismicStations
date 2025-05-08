@@ -1,0 +1,387 @@
+ABV,   1975-01-01 - opened
+ABV,   1999-08-25 - closed
+ALNG,  2000-03 - installed (as LNG)
+ALNG,  2000-03 - 3C BB installed
+ANGV,  1984-01-01 - opened
+ANGV,  1999-08-25 - closed
+B5GA,  1999-08-27 - installed
+B5GV,  1999-08-27 - three-component installed
+B5GE,  2001-04-03 - closed, renamed BBSP
+BBL,   1980 - installed
+BBL,   2000-11-20 - reconnected
+BBSP,  1999-08-27 - opened (as B5GA)
+BBSP,  2000-10-24 - 3C BB installed
+BSK,   1980-07-09 - Single comp (Beniot) opened
+BSP,   2000-10-02 - installed
+BUAY,  2000-03-27 - installed
+BVI,   2001-10-26 - K2 installed
+CPD,   1975-07-30 - opened
+DBCT,  1987 - installed
+BFBT,  1998-10 - installed
+DHCT,  2003-05-05 - installed
+DSHT,  1998-12 - installed
+DSTT,  1998-10 - installed
+DURH,  1974 - temporary
+DWES,  2000-05-12 - installed
+DWS,   2000-05-12 - installed
+ERIS,  1974 - installed
+GRCU,  2001-05-10 - installed
+GRCU,  2001-07-23 - internet file transfer established
+GRE,   1952-12-21 - opened
+GRHS,  2001-05-10 - installed
+GRHS,  2001-07-23 - internet file transfer established
+GRIC,  2002-05-23
+GRSS,  2001-05-10 - installed
+GRSS,  2001-07-23 - internet file transfer established
+GWES,  2000-05-12 - installed
+IDE,   1977-02-15 - opened
+LAUD,  1974 - temporary
+LNG,   2000-03 - installed
+LNG,   2004-03 - closed, renamed ALNG
+LRS,   1977-02-15 - opened
+MGP,   1975-11-14 - opened
+MPLT,  1994-11-30 - installed (approx.)
+MSAT,  1994         - installed (temporary)
+MSPT,  1994         - installed (temporary)
+MTP,   1975-04-01 - opened
+MWHT,  1994         - installed (temporary)
+NEBH,  2002-05-02 - installed
+NEVB,  2002-05-02 - installed
+NVBH,  2002-05-02 - installed
+NVRH,  2002-05-06 - installed
+PORP,  1989-08-01 - opened
+SABA,  2000-01-20 - installed
+SABS,  2000-01 - installed
+SABT,  2000-01-22 - installed
+SFAN,  1999-08-20 - installed
+SIP,   2000-04 - installed
+SIP,   2001-04-03 - closed, renamed SIPA
+SIPA,  2000-04 - opened (as SIP)
+SIPA,  2001-04-05 - renamed SIPA
+SJV,   1975-06-01 - opened
+SKDB,  1988-01-01 - opened
+SKDB   2003-02-06 - reactivated
+SKI,   1956 - opened
+SKI,   2000-01-26 - 3C installed
+SKI,   2000-09-23 - internet connection established
+SKTB,  2003-02-10 - installed
+SLD,   2000-10 - installed
+SLD,   2001-04-03 - closed, renamed SLDE
+SLDE,  2000-10 - installed (as SLD)
+SLDE,  2001-04-05 - renamed SLDE
+SLP,   2000-10 - installed
+SLP,   2001-04-03 - closed, renamed SLPA
+SLPA,  2000-10 - installed as SLP
+SLPA,  2001-04-03 - renamed SLPA
+SLPE,  2001-07-04 - installed (as SLR)
+SLPE,  2001-07-10 - renamed SLPE
+SLR,   2001-07-04 - installed
+SLR,   2001-07-10 - closed, renamed SLPE
+SLT,   2001-04-07 - installed, later closed and renamed SLTA
+SLTA,  2001-04-07 - installed (as SLT)
+SSV,   2003-10-04 - re-installed
+STAT,  2000-01 - BB upgraded
+STM,   1980-07-09 - opened
+SVB,   1999-09-20 - 3C BB installed
+SVSV,  1999-08-28 - installed
+TBRC,  2001 - installed
+TBVI,  2001-10-26 - installed
+TBVI,  2003-04 - closed
+TCHG,  2003-07-03 - installed as part of British Gas Project
+TMD,   1984-07 - installed
+TMD,   1984-12 - closed, renamed TTR
+TPTC,  2000 - installed
+TPTC,  closed, moved to TCHG
+TRPT,  1990-02-05 - installed
+TTR,   1984-07 - installed (as TMD)
+TTR,   1984-12 - renamed TTR
+VGVI,  2001-12-10 - installed
+VGVI,  2002-04-23 - internet connection established
+VGVI,  2003-04 - closed
+SVB,   2007-05-21 - Noted that CMG-40T oriented with N towards volcano
+SVB,   2007-05-21 - CMG-40T disconnected from Soufriere system
+SVB,   2007-05-22 - Nanometrics system installed at station, new vault for sensors, ~10m from previous
+SVB,   2007-05-22 - FBA - Plexiglass plate does not bond well to (tile) cement being used.
+SVB,   2007-05-22 - FBA - Accelerometer not bolted to plexiglass plate (no drill).
+SVB,   2007-05-22 - FBA - No insulation installed.
+SPEY,  2007-05-20 - Installed
+SPEY,  2007-05-22 - Christian (Guadeloupe) thinks the alignments are wrong, 14.1 deg W of Magnetic instead of E
+SPEY,  2007-05-20 - Recorded as MTOB
+SPEY,  2007-05-27 - Code changed to SPEY
+SKI,   2007-05-26 - CMG-40T disconnected from Soufriere system
+SKI,   2007-05-26 - Nanometrics system installed at station, new vault for sensors
+SKI,   2007-06-04 08:50 UTC - BHZ showing 10-20s single pulses, possible faulty seismometer
+SKI,   2007-06-05 03:07 UTC - BHZ pulses stopped
+SKI,   2007-08-19 02:03 - 22:30 UTC - Outage 
+SKI,   2007-08-19 23:05 - 2007-08-26 20:15 UTC - Outage
+SKI,   2007-08-27 03:50 - 2007-10-15 15:00 UTC - Outage. Faulty power supply.
+SPEY,  2007-09-17 21:30 UTC. No data. 
+SPEY,  2007-09-18 19:16 UTC. Data from SPEY. Broadband looks unwell. Large DC offset and long period signals.
+ALNG,  Open (NEIC)
+ANG,   Open (NEIC)
+AWI,   Closed (NEIC)
+B5GA,  Closed (NEIC)]
+BBGH,  Open (NEIC)
+BBL,   Open (NEIC)
+BBSP,  Open (NEIC)
+BDH,   Open (NEIC)
+BDS,   Open (NEIC)
+BHS,   Open (NEIC)
+BOT,   Open (NEIC)
+BPA,   Open (NEIC)
+BRB,   Closed (NEIC)
+BRBD,  Reserved (NEIC)
+BSK,   Open (NEIC)
+BUAY,  Open (NEIC)
+CPB,   Open (NEIC)
+DBCT,  Open (NEIC)
+DFBT,  Open (NEIC)
+DGBT,  Closed (NEIC)
+DLVT,  Open (NEIC)
+DOM,   Closed (NEIC)
+DPMT,  Open (NEIC)
+DSC,   Closed (NEIC)
+DSHT,  Open (NEIC)
+DSTT,  Open (NEIC)
+DSVT,  Closed (NEIC)
+DTMT,  Open (NEIC)
+DVDT,  Open (NEIC)
+DWS,   Open (NEIC)
+FCV,   Open (NEIC)
+GNG,   Open (NEIC)
+GRCU,  Open (NEIC)
+GRE,   Open (NEIC)
+GRGR,  Open (NEIC)
+GRHS,  Open (NEIC)
+GRSS,  Open (NEIC)
+GRW,   Open (NEIC)
+MCLT,  Open (NEIC)
+MDN,   Open (NEIC)
+MWI,   1937 ?       - installed
+MWI,   1945 ?       - stopped
+MWI,   1966-03-20   - re-instated
+MWF,   1966-03-22   - installed
+MWL,   1966-03-22   - installed
+MWP,   1966-03-22   - installed
+MWF,   ?            - closed
+MWL,   ?            - closed
+MWP,   ?            - closed
+NEV,   Open (NEIC)
+O6A,   Reserved (NEIC)
+OHS,   Reserved (NEIC)
+PIG,   Open (NEIC)
+PLS,   Closed (NEIC)
+PLY,   Open (NEIC)
+RSV,   Open (NEIC)
+SABS,  Open (NEIC)
+SFAN,  Open (NEIC)
+SIH,   Reserved (NEIC)
+SIPA,  Open (NEIC)
+SKDB,  Open (NEIC)
+SKI,   Open (NEIC)
+SLB,   Open (NEIC)
+SLDE,  Open (NEIC)
+SLI,   Closed (NEIC)
+SLPA,  Open (NEIC)
+SLPE,  Open (NEIC)
+SLTA,  Open (NEIC)
+SLW,   Open (NEIC)
+SOA,   Open (NEIC)
+SRH,   Reserved (NEIC)
+SSV,   Open (NEIC)
+STAT,  Open (NEIC)
+STMA,  Open (NEIC)
+SVB,   Open (NEIC)
+SVG,   Reserved (NEIC)
+SVI,   Closed (NEIC)
+SVL,   Reserved (NEIC)
+SVT,   Open (NEIC)
+SVV,   Open (NEIC)
+TBH,   Open (NEIC)
+TBVI,  Open (NEIC)
+TCE,   Open (NEIC)
+TCHG,  Open (NEIC)
+TOB,   Open (NEIC)
+TPP,   Open (NEIC)
+TPR,   Open (NEIC)
+TRN,   Open (NEIC)
+TTR,   Open (NEIC)
+VGVI,  Closed (NEIC)
+ANWB,  Open 200708? (NEIC)
+SKI,   2007-11-06 05:05 UTC - 2007-11-11 23:00 - BHZ showing 10-20s single pulses, possible faulty seismometer
+MCLT   2007-11-25 - BB VSAT station installed
+MCLT   2007-11-25 - EHZ channel not working, faulty seismometer?
+DTRR,  2007-12-04 - BB VSAT station installed at La Plaine - planned Three Rivers Eco Lodge installation not possible
+PSDMZ, Station is swampy and noisy
+PSDMZ, 2009-11-27   - added to earthworm
+MDCT,  2009-12-04   - installed
+MDPM,  2009-12-04   - installed
+MDVC,  2009-12-04   - installed
+DWS,   2009-11-30   - upgraded station added to earthworm
+DVCT,  2009-12-04   - removed, replaced with MDCT
+BBL,   1978-11-21   - opened
+BBL,   2001-08-14   - co-ordinates updated
+BBL,   2010-01-04   - added to earthworm
+GUSW,  2010-04-29   - installed
+GUSW,  2010-05-01   - removed
+MDPV,  2010-01-28   - installed
+MDMP,  2010-01-28   - installed
+MGH,   1980         - installed (moved here?)
+MGH,   2000         - modified
+MJHT,  1995         - installed
+MBRV,  2003-10      - installed
+MBBE,  1997-07-25 13:03 - closed (building hit by PF in Mosquito Ghaut, some equipment recovered at later date).
+MBHA,  2004-11-02 01:35 - first picked arrival in MVO database
+MBHA,  2010-02-11 17:15:16 - destroyed during dome collapse
+MBFR,  2005-04      - installed (MVO report to SAC5)
+MBET,  1995-07-27   - installed (Roman2008)
+MBET,  1997-06-25   - closed (Roman2008)
+MCPT,  1996-02-12   - installed (Roman2008)
+MCPT,  1997-01-11   - closed (Roman2008)
+MGAT,  1995-07-27   - installed (Roman2008)
+MGAT,  1997-06-30   - closed (Roman2008)
+MGHZ,  1995-07-27   - installed (Roman2008)
+MGHZ,  2004-09-30   - closed (Roman2008)
+MHRV,  1996-06-21   - installed (Roman2008)
+MHRV,  1996-09-17   - closed (Roman2008)
+MJHT,  1997-08-22   - installed (Roman2008)
+MJHT,  ?            - closed (Roman2008)
+MLGT,  1995-07-27   - installed (Roman2008)
+MLGT,  ?            - closed (Roman2008)
+MLYT,  1997-07-30   - installed (Roman2008)
+MLYT,  ?            - closed (Roman2008)
+MPVE,  1995-07-27   - installed (Roman2008)
+MPVE,  1995-08-15   - closed (Roman2008)
+MRYT,  1995-07-27   - installed (Roman2008)
+MRYT,  ?            - closed (Roman2008)
+MSAT,  1995-07-27   - installed (Roman2008)
+MSAT,  1995-09-12   - closed (Roman2008)
+MSPT,  1995-07-27   - installed (Roman2008)
+MSPT,  ?            - closed (Roman2008)
+MSSZ,  1995-12-05   - installed (Roman2008)
+MSSZ,  1996-03-30   - closed (Roman2008)
+MVPV,  1995-09-05   - installed (Roman2008)
+MVPV,  1996-01-28   - closed (Roman2008)
+MWHZ,  1995-07-27   - installed (Roman2008)
+MWHZ,  1997-01-01   - closed (Roman2008)
+MWH2,  1996-02-02   - installed (Roman2008)
+MWH2,  1997-01-01   - closed (Roman2008)
+MBBE,  1996-10-24   - installed (Roman2008)
+MBBY,  1998-01-01   - installed (Roman2008)
+MBFL,  2005         - installed (Roman2008)
+MBFR,  2004         - installed (Roman2008)
+MBGA,  1996-10-24   - installed (Roman2008)
+MBGA,  2005-06-03 ? - closed (Roman2008)
+MBGB,  1996-10-24   - installed (Roman2008)
+MBGE,  1996-10-24   - installed (Roman2008)
+MBGE,  ?            - closed (Roman2008)
+MBGH,  1996-10-24   - installed (Roman2008)
+MBHA,  2004-03-01   - installed (Roman2008)
+MBLG,  1996-10-24   - installed (Roman2008)
+MBLY,  2000-01-01   - installed (Roman2008)
+MBMH,  1998-04-14   - installed (Roman2008)
+MBMH,  2003-03-01   - closed (Roman2008)
+MBRV,  1996-01-10 ? - installed (Roman2008)
+MBRY,  1996-10-24   - installed (Roman2008)
+MBSS,  1996-01-28 ? - installed (Roman2008)
+MBSS,  2004-07-02   - closed (Roman2008)
+MBWH,  1996-10-24   - installed (Roman2008)
+MBWW,  2009-05-02   - installed
+MBW1,  2009-05-02   - installed
+MBW2,  2009-05-02   - installed
+MBW3,  2009-05-02   - installed
+MBJH,  ?            - closed
+MBET,  1989         - installed
+MBET,  1989         - destroyed by Hurricane Hugo
+MGH,   1989         - destroyed by Hurricane Hugo
+MGH,   1992         - re-installed
+MWI,   1992         - re-installed
+MBET,  1992         - re-installed
+MBHA,  2010-08      - Location appears to be in error by approx. 400 m (Rod)
+MBBE,              - no picks in SRC database
+MBBY, 2009-07-02 11:03:40.91 - first pick in SRC database
+MBBY, 2009-07-24 03:37:06.73 - last pick in SRC database
+MBET, 1989-07-01 13:21:58.14 - first pick in SRC database
+MBET, 1997-06-24 04:25:35.32 - last pick in SRC database
+MBET, 1989-07-01 13:21:58.14 - first pick in SRC database
+MBET, 1997-06-24 04:25:35.32 - last pick in SRC database
+MBFL, 2009-07-02 11:03:40.11 - first pick in SRC database
+MBFL, 2009-07-24 03:36:58.67 - last pick in SRC database
+MBFR, 2009-07-02 11:03:41.04 - first pick in SRC database
+MBFR, 2009-07-24 03:37:06.06 - last pick in SRC database
+MBGA,              - no picks in SRC database
+MBGB, 2001-10-14 13:37:37.76 - first pick in SRC database
+MBGB, 2009-07-24 03:37:07.26 - last pick in SRC database
+MBGE,              - no picks in SRC database
+MBGH, 2002-04-02 08:34:24.88 - first pick in SRC database
+MBGH, 2009-07-24 03:37:06.74 - last pick in SRC database
+MBHA, 2009-07-02 11:03:40.25 - first pick in SRC database
+MBHA, 2009-07-24 03:37:05.87 - last pick in SRC database
+MBJH,              - no picks in SRC database
+MBLG, 2002-04-02 08:34:25.08 - first pick in SRC database
+MBLG, 2009-04-11 19:16:23.83 - last pick in SRC database
+MBLY, 2004-06-28 12:09:25.81 - first pick in SRC database
+MBLY, 2009-07-24 03:37:06.61 - last pick in SRC database
+MBMH, 2002-04-02 08:34:24.03 - first pick in SRC database
+MBMH, 2002-09-22 11:00:56.70 - last pick in SRC database
+MBRV, 2003-09-29 05:00:41.64 - first pick in SRC database
+MBRV, 2009-07-24 03:37:00.09 - last pick in SRC database
+MBRY, 2002-04-02 09:02:35.31 - first pick in SRC database
+MBRY, 2009-07-24 03:37:05.64 - last pick in SRC database
+MBSS, 2002-04-02 09:02:35.49 - first pick in SRC database
+MBSS, 2004-10-26 21:31:27.28 - last pick in SRC database
+MBWH, 2001-10-14 13:37:37.79 - first pick in SRC database
+MBWH, 2009-07-24 03:37:06.17 - last pick in SRC database
+MBWW, 2009-07-02 11:03:40.13 - first pick in SRC database
+MBWW, 2009-07-24 03:37:06.83 - last pick in SRC database
+MCPT,              - no picks in SRC database
+MGAT, 1997-02-18 03:47:24.52 - first pick in SRC database
+MGAT, 1997-02-18 03:47:24.52 - last pick in SRC database
+MGH,  1980-01-03 20:47:08.10 - first pick in SRC database
+MGH,  2004-10-26 19:46:05.42 - last pick in SRC database
+MGHZ, 1998-01-12 14:57:48.56 - first pick in SRC database
+MGHZ, 2004-10-26 19:46:05.42 - last pick in SRC database
+MHRV,              - no picks in SRC database
+MJHT, 1997-11-20 11:30:17.79 - first pick in SRC database
+MJHT, 2004-06-28 12:09:17.82 - last pick in SRC database
+MLGT, 1997-10-06 07:47:48.58 - first pick in SRC database
+MLGT, 2003-09-29 05:00:43.05 - last pick in SRC database
+MLYT, 1998-01-12 14:57:48.48 - first pick in SRC database
+MLYT, 2004-11-13 00:46:29.43 - last pick in SRC database
+MPLT, 1994-11-30 15:03:33.38 - first pick in SRC database
+MPLT, 1995-02-06 03:25:15.52 - last pick in SRC database
+MPVE,              - no picks in SRC database
+MRYT, 1998-01-12 14:57:49.17 - first pick in SRC database
+MRYT, 2003-06-29 22:09:36.55 - last pick in SRC database
+MSAT, 1994-07-11 03:58:36.05 - first pick in SRC database
+MSAT, 1995-02-06 02:14:40.82 - last pick in SRC database
+MSAT, 1994-07-11 03:58:36.05 - first pick in SRC database
+MSAT, 1995-02-06 02:14:40.82 - last pick in SRC database
+MSPT, 1994-07-11 03:58:35.45 - first pick in SRC database
+MSPT, 1997-11-20 11:30:19.15 - last pick in SRC database
+MSPT, 1994-07-11 03:58:35.45 - first pick in SRC database
+MSPT, 1997-11-20 11:30:19.15 - last pick in SRC database
+MSSZ,              - no picks in SRC database
+MVO,  1997-02-27 08:21:02.35 - first pick in SRC database
+MVO,  1997-02-27 08:21:02.35 - last pick in SRC database
+MVPV,              - no picks in SRC database
+MWF,               - no picks in SRC database
+MWH2,              - no picks in SRC database
+MWHT, 1994-07-11 03:58:35.43 - first pick in SRC database
+MWHT, 1995-02-26 15:34:16.50 - last pick in SRC database
+MWHZ, 1997-02-18 03:47:24.12 - first pick in SRC database
+MWHZ, 2004-10-26 21:31:26.41 - last pick in SRC database
+MWI,  1966-04-08 19:04:36.80 - first pick in SRC database
+MWI,  1977-10-10 07:38:42.80 - last pick in SRC database
+MWL,               - no picks in SRC database
+MWP,               - no picks in SRC database
+TBG,  2006-11-26   - opened
+REDO, 2012-04      - proposed
+SILV, 2012-04      - proposed
+MBOL, 2012-04-14   - Seismometer u/s and stuck in borehole
+MBHE, 2012-04      - proposed
+MBGL, 2012-04      - proposed
+MROD, 2020-01-21   - added to shake community
+SVGT, 2021-01-09   - installed
+SSVA, 2021-01-18   - opened
+SVWL, 2021-02-28   - opened

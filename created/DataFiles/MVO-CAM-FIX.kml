@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-CAM-FIX</name>
+    <Snippet>Created Wed Jan 19 08:48:40 2011</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MVOR</name>
+        <description>Montserrat Volcano Observatory (MVOR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212610,16.748620,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FERG</name>
+        <description>Fergus Ridge (FERG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.177370,16.692820,591.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GARI</name>
+        <description>Garibaldi Hill (GARI.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.227540,16.732410,264.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JACK</name>
+        <description>Jack Boy Hill (JACK.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.169750,16.767230,187.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVOR</name>
+        <description>Montserrat Volcano Observatory (MVOR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212610,16.748620,243.00</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-62.198645</longitude>
+      <latitude>16.730025</latitude>
+      <range>13420.184094</range>
+    </LookAt>
+  </Document>
+</kml>

@@ -1,0 +1,39 @@
+SFAN,  13.3838,        -61.1721,       23,   n,           , LL spreadsheet
+SFAN,  13.383796,      -61.17211,     229,   n,           , Soufriere System file
+SFAN,  13.3825833,     -61.1655667,     0,   n, 2007,       GPS - Ian (13N22.955 61W09.934)
+SFAN,  13.3825833,     -61.1655667,   229,   y, 2007,       GPS - Ian (13N22.955 61W09.934) - assumed 229m altitude
+SFAN,  13.3838,        -61.1721,      229.0, n,           , NEIC - TRN,Open,Fancy Village
+SFAN,  13.38381,       -61.17211,     229.0, n, 2021-02-06, ISC
+SFAN,  13.381502,      -61.165876,     40.0, n, 2021-01-22. Chan (digitiser GPS)
+SOA,   13.37347,       -61.14861,      40,   y,           , Soufriere System file
+SOA,   13.3735,        -61.1486,       40.0, n,           , NEIC - TRN,Open,Owia
+SOA,   13.37350,       -61.14860,      40.0, n, 2021-02-06, ISC
+SVV,   13.3180,        -61.2160,      243,   y,           , LL spreadsheet
+SVV,   13.31800,       -61.21600,     243,   n,           , Soufriere System file
+SVV,   13.3180,        -61.2160,      243.0, n,           , NEIC - TRN,Open,Soufriere Volcano (Wallibou)
+SVV,   13.31800,       -61.21600,     243.0, n, 2021-02-06, ISC
+SSVA,  13.323083,      -61.182508,    787.0, y, 2021-01-19, Chan (digitiser GPS)
+SSVA,  13.322875160,   -61.18255834,  198.2, n, 2021-02-06, ISC
+BHS,   13.2960,        -61.1270,       90,   n,           , LL spreadsheet
+BHS,   13.29632,       -61.12716,      90,   n,           , Soufriere System file
+BHS,   13.3149,        -61.12135,       0,   n, 2007,       GPS - Ian (13N18.894 61W07.281)
+BHS,   13.3149,        -61.12135,      90,   y, 2007,       GPS - Ian (13N18.894 61W07.281) - assumed 90m altitude
+BHS,   13.2963,        -61.1272,       90.0, n,           , NEIC - TRN,Open,Barnard House
+SVB,   13.2720,        -61.2520,      282,   n,           , LL spreadsheet
+SVB,   13.2745555555,  -61.25041667,  239.9, n, 2007-05-20, GPS - ss time server
+SVB,   13.27444,       -61.25037,     274.2, n, 2007-05-20, GPS - Rod (Nokia n800 hdop 0.9 pdop 1.4 vdop 1.2)
+SVB,   13.27450,       -61.25040,     251.6, n, 2007-05-27, GPS - nmx soh log
+SVB,   13.272000,      -61.25200,     282,   n,           , Soufriere System file
+SVB,   13.27450,       -61.25040,     282,   y, 2007-05-27, GPS - nmx soh log (assumed 282m
+SVB,   13.2745,        -61.2504,      255,   n, 2007-12-27, GPS - NaqsView
+SVB,   13.274497,      -61.250403,    250.7, n, 2008-06-18, GPS - nmx soh log
+SVB,   13.2720,        -61.2520,      282.0, n,           , NEIC - TRN,Open,Belmont
+SVB,   13.27200,       -61.25200,     202.0, n, 2021-02-06, ISC
+SVGT,  13.2805,        -61.1193,       25.3, y, 2020-01-09, Chan, SRC
+SVGT,  13.28040,       -61.11940,      18.8, n, 2021-02-06, ISC
+SVGT,  13.2805,        -61.1193,       25.3, n, 2021-01-09, Chan (digitiser GPS)
+DSVT,  15.229600,      -61.37028,       5,   n,           , Soufriere System file
+SVT,   13.16800,       -61.24500,      38,   y,           , Soufriere System file
+DSVT,  15.2290,        -61.3700,        5.0, n,           , NEIC - TRN,Closed,Soufri&egrave;re Village
+SVT,   13.1680,        -61.2450,       38.0, n,           , NEIC - TRN,Open,Saint Vincent (Camden Park)
+SVT,   13.16977,       -61.24181,      49.0, n, 2021-02-06, ISC

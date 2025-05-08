@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Mon Jan 18 17:06:49 2021 GMT</snippet>
+    <LookAt>
+      <longitude>-61.184850</longitude>
+      <latitude>13.275292</latitude>
+      <range>36128.699100</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>BHS</name>
+        <description>Orange Hill, St. Vincent (BHS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.121350,13.314900,90.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SSV</name>
+        <description>Summit, St. Vincent (SSV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.193000,13.327000,824.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVB</name>
+        <description>Belmont, St. Vincent (SVB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.250400,13.274500,282.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVGT</name>
+        <description>Georgetown, St Vincent (SVGT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.119300,13.280500,25.30</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVT</name>
+        <description>Saint Vincent (Camden Park) (NEIC) (SVT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.245000,13.168000,38.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVV</name>
+        <description>Wallibou, St. Vincent (SVV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.216000,13.318000,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOA</name>
+        <description>Owia, St Vincent (SOA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.148610,13.373470,40.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SFAN</name>
+        <description>Fancy, St. Vincent (SFAN.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.165567,13.382583,229.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

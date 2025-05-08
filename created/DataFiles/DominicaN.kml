@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <name>GPS device</name>
+    <Snippet>Created Fri May 14 16:37:03 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>BBL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.469900,15.526200,265.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DWS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.311300,15.568500,61.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MDCT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.462900,15.616800,77.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MDPM</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.451700,15.575600,8.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MDVC</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.405500,15.614200,84.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PSDMZ</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.455230,15.576990,1.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MDPV</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.422210,15.627530,282.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MDMP</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.411510,15.595800,177.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

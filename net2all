@@ -1,0 +1,195 @@
+#!/usr/bin/env perl
+#
+# net2all
+#
+# Gets a list of stations, one per line for a network, or networks
+# and lists  all info we have for each
+#
+# Rod Stewart, 2010-07-12
+
+my @nets = @ARGV;
+foreach $net (@nets) {
+	@lines = `./net2stalist $net`;
+	print @lines, "\n";
+}
+
+print "\n==\n\n";
+
+@stas = `./net2sta @nets`;
+chomp( @stas );
+
+foreach $sta (sort @stas) {
+
+	print "Station Code: ", $sta, "\n\n";
+	@codes = ();
+	push( @codes, $sta );
+
+	$file = 'pseudonyms.txt';
+	#print "  ", $file, "\n";
+	print "Aliases / co-locations\n";
+	@lines = `grep $sta data/$file`;
+	chomp @lines;
+	foreach $line (sort @lines) {
+		if( $line =~ /^$sta:/ ) {
+			$alias = $line;
+			$alias =~ s/^$sta: //;
+			print "  ";
+			print $alias, "\n";
+			push( @codes, split /, /, $alias );
+		}
+	}
+
+
+	print "\n";
+	$file = 'names.txt';
+	#print "  ", $file, "\n";
+	print "Name(s)\n";
+			print "  ";
+	print "Code,  Name\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (@lines) {
+			if( $line =~ /^$code,/ ) {
+				$name = $line;
+#				$name =~ s/^$sta,\s+//;
+			print "  ";
+				print $name, "\n";
+			}
+		}
+	}
+
+
+	print "\n";
+	$file = 'locations.txt';
+	#print "  ", $file, "\n";
+	print "Location(s)\n";
+			print "  ";
+	print "Code,  Latitude,       Longitude,   Elev(m),    Date,      Source\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (@lines) {
+			if( $line =~ /^$code,/ ) {
+				$loc = $line;
+#				$loc =~ s/^$sta,\s+//;
+			print "  ";
+				print $loc, "\n";
+			}
+		}
+	}
+
+#	print "\n";
+#	$file = 'sta-USGS-all.txt';
+#	print "  ", $file, "\n";
+#	@lines = `grep $sta source_files/$file`;
+#	chomp @lines;
+#	foreach $line (@lines) {
+#		if( $line =~ /^$sta,/ ) {
+#			print "    ", $line, "\n";
+#		}
+#	}
+
+
+	print "\n";
+	$file = 'channels.txt';
+	#print "  ", $file, "\n";
+	print "Channels, equipment, etc.\n";
+			print "  ";
+	print "Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (@lines) {
+			if( $line =~ /^$code,/ ) {
+				$chan = $line;
+			print "  ";
+				print $chan, "\n";
+			}
+		}
+	}
+
+
+	print "\n";
+	$file = 'status.txt';
+	#print "  ", $file, "\n";
+	print "Status\n";
+			print "  ";
+	print "Code,  Date         - Status\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (sort @lines) {
+			if( $line =~ /^$code,/ ) {
+				$status = $line;
+			print "  ";
+				print $status, "\n";
+			}
+		}
+	}
+
+	print "\n";
+	$file = 'declination.txt';
+	#print "  ", $file, "\n";
+	print "Declination (deg E of N)\n";
+			print "  ";
+	print "Code,  Dec, Source\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (@lines) {
+			if( $line =~ /^$code,/ ) {
+				$dec = $line;
+			print "  ";
+				print $dec, "\n";
+			}
+		}
+	}
+
+
+	print "\n";
+	$file = 'networks.txt';
+	#print "  ", $file, "\n";
+	print "Network(s)\n";
+			print "  ";
+	print "Code, Network\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (@lines) {
+			if( $line =~ / $code/ ) {
+				$net = $line;
+				($net,$dum) = split /: /, $net, 2;
+				@nets = `grep "# $net:" data/$file`;
+				chomp @nets;
+				foreach $net2 (sort @nets) {
+					$net2 =~ s/^# //;
+			print "  ";
+					print "$code, $net2\n";
+				}
+			}
+		}
+	}
+
+
+	print "\n";
+	$file = 'notes.txt';
+	#print "  ", $file, "\n";
+	print "Notes\n";
+			print "  ";
+	print "Code:  Comment\n";
+	foreach $code ( sort @codes ) {
+		@lines = `grep $code data/$file`;
+		chomp @lines;
+		foreach $line (sort @lines) {
+			if( $line =~ /^$code: / ) {
+				$status = $line;
+			print "  ";
+				print $status, "\n";
+			}
+		}
+	}
+
+
+	print "\n==\n\n";
+}

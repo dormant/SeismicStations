@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-ROD</name>
+    <snippet>Created Wed Sept 14 19:51:22 2022 GMT</snippet>
+    <LookAt>
+      <longitude>-62.224595</longitude>
+      <latitude>16.738739</latitude>
+      <range>1300.000000</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MROD</name>
+        <description>Rods House, Olveston, Montserrat (MROD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.224595,16.738739,69.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

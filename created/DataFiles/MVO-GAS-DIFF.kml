@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-GAS-DIFF</name>
+    <Snippet>Created Wed Jan 19 13:16:25 2011</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>DT1</name>
+        <description>Brodericks (DOAS site) (DT1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208820,16.693230,2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT10</name>
+        <description>Vue Pointe Hotel (DT10.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.232660,16.745800,5.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT11</name>
+        <description>Weekes (IDAS) (DT11.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.210250,16.729420,2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT2</name>
+        <description>Brades Primary School (DT2.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.210930,16.788410,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT3</name>
+        <description>St. Johns (DMCA) (DT3.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.192310,16.787860</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT4</name>
+        <description>Jack Boy Hill (camera) (DT4.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.169810,16.767210,2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT5</name>
+        <description>Plymouth, Police Headquarters (DT5.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.222620,16.709590,1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT6</name>
+        <description>Richmond Hill Sugar Mill (DT6.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.220860,16.717710,2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT7</name>
+        <description>St. Augustine Primary School (DT7.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.218690,16.768570,1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT8</name>
+        <description>Salem Clinic (DT8.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219590,16.751600,1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT9</name>
+        <description>St. Georges Hill (DT9.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208380,16.722860,2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT10</name>
+        <description>Vue Pointe Hotel (DT10.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.232660,16.745800,5.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DT11</name>
+        <description>Weekes (IDAS) (DT11.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.210250,16.729420,2.00</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-62.201235</longitude>
+      <latitude>16.740820</latitude>
+      <range>16296.783126</range>
+    </LookAt>
+  </Document>
+</kml>

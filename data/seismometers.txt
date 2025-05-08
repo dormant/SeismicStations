@@ -1,0 +1,10 @@
+# Serial #, Gain (V/m/s), Make and model, Source, Comments
+T4343, 800, , MVO Documentation
+T4344, 800, , MVO Documentation
+T4G40, 800, , MVO Documentation
+T4G41, 3200, , MVO Documentation
+T4G13, 3200, , MVO Documentation
+T4D67, 800, , MVO Documentation, Barry V.
+T4D68, 3200, , MVO Documentation, Barry V.
+T4F33, 3200, , MVO Documentation, Barry V.
+MBLY, 1600, , MVO Documentation

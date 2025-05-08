@@ -1,0 +1,83 @@
+MBBY,  16.6976833,     -62.20255,     161,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBBY1641861N 6212153W)
+MBBY,  16.6976833,     -62.20255,     161,   n,           , Roman2008 [16N41.861 62W12.153 161]
+MBBY,  16.6977,        -62.2025,      160.0, n,           , NEIC - MVOV,Open,
+MBBY,  16.6977,        -62.2025,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBBY,  16.69766,       -62.20256,     168.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBFL,  16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+MBFL,  16.7485,        -62.2125,      243,   n,           , Roman2008 [16N44.91 62W12.75 243]
+MBFL,  16.7485,        -62.2125,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBFL,  16.74843,       -62.21255,     251.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBFR,  16.693,         -62.178,       541,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFR1641.58N 6210.68W)
+MBFR,  16.693,         -62.178,       541,   n,           , Roman2008 [16N41.58 62W10.68 541]
+MBFR,  16.6930,        -62.1780,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBFR,  16.69278,       -62.17772,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBGB,  16.732330,      -62.22783,     253,   n,           , Soufriere System file
+MBGB,  16.736,         -62.2278,        0,   n, 2008-01-13, plot_stations script
+MBGB,  16.7320667,     -62.2277667,   253,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGB1643942N 6213666W)
+MBGB,  16.732333,      -62.227833,    253,   n, 2010-06-18, MVO scientific Report 60 [16:43.94N 62:13.67W 253]
+MBGB,  16.7323667,     -62.2277667,   253,   n,           , Roman2008 [16N43.942 62W13.666 253]
+MBGB,  16.7323,        -62.2278,      253.0, n,           , NEIC - MVOV,Open,
+MBGB,  16.7323,        -62.2278,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBGB,  16.73239,       -62.22778,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBGH,  16.722500,      -62.20866,     350,   n,           , Soufriere System file
+MBGH,  16.726,         -62.2087,        0,   n, 2008-01-13, MVO plot_stations script
+MBGH,  16.7217,        -62.2068,      351,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MGHZ1643302N 6212408W)
+MBGH,  16.7225667,     -62.2086333,   350,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGH1643354N 6212518W)
+MBGH,  16.7225,        -62.208667,    350,   n, 2010-06-18, MVO scientific Report 60 [16:43.35N 62:12.52W 350]
+MBGH,  16.7225667,     -62.2086333,   350,   n,           , Roman2008 [16N43.354 62W12.518 350]
+MBGH,  16.7225,        -62.2087,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBGH,  16.72259,       -62.20865,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBHA,  16.7398333,     -62.1713333,   291,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MBHA1644.39N 6210.28W)
+MBHA,  16.742000,      -62.1682000,     0,   n, ,           Location used by French when they put data together for MVO Webobs.
+MBHA,  16.741167,      -62.168333,    343  , n, 2009-01-15, GPS - Rod (Nikon) photo hovering above station 2009_001_237 [16:44:28.20N 62:10:06.00W 343]
+MBHA,  16.7398333,     -62.1713333,   291,   n,           , Roman2008 [16N44.39 62W10.28 291]
+MBHA,  16.74201,       -62.16822,     250.0, y, 2010-08-11, Barry Voight
+MBHA,  16.7420,        -62.1682,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+
+MBLG,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+MBLG,  16.728,         -62.1623,        0,   n, 2008-01-13, MVO plot_stations script
+MBLG,  16.725,         -62.1623333,   287,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MLGT1643.50N06209.74W)
+MBLG,  16.725,         -62.16225,     287,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLG1643500N 62 9735W)
+MBLG,  16.725,         -62.129,       287,   n, 2010-06-18, MVO scientific Report 60 [16:43.50N 62:07.74W 287]
+MBLG,  16.725,         -62.16225,     287,   n,           , Roman2008 [16N43.500 62W9.735 287]
+MBLG,  16.7250,        -62.1622,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBLG,  16.72502,       -62.16223,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBLY,  16.721330,      -62.19100,     355,   n,           , Soufriere System file
+MBLY,  16.724,         -62.191,         0,   n, 2008-01-13, MVO plot_stations script
+MBLY,  16.7213333,     -62.191,       355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLY1643.28N 6211.46W)
+MBLY,  16.7213333,     -62.191,       355,   n,           , Roman2008 [16N43.28 62W11.46 355]
+MBLY,  16.7213,        -62.1910,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBLY,  16.72116,       -62.19076,     370.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBRV,  16.811273,      -62.19608,     231,   n,           , Soufriere System file
+MBRV,  16.814,         -62.196,         0,   n, 2008-01-13, MVO plot_stations script
+MBRV,  16.8113333,     -62.196,       231,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRV1648.68N 6211.76W)
+MBRV,  16.8113333,     -62.196,       231,   n,           , Roman2008 [16N48.68 62W11.76 231]
+MBRV,  16.8113,        -62.1960,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+
+MBRY,  16.703830,      -62.15317,     355,   n,           , Soufriere System file
+MBRY,  16.707,         -62.1532,        0,   n, 2008-01-13, MVO plot_stations script
+MBRY,  16.7038333,     -62.1531667,   355,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MRYT1642.23N06209.19W)
+MBRY,  16.7039,        -62.1531667,   355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRY1642234N 62 9190W)
+MBRY,  16.7038333,     -62.1531667,   355,   n, 2010-06-18, MVO scientific Report 60 [16:42.23N 72:09.19W 355]
+MBRY,  16.7039,        -62.1531667,   355,   n,           , Roman2008 [16N42.234 62W9.190 355]
+MBRY,  16.7039,        -62.1532,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBRY,  16.70395,       -62.15318,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBWH,  16.742170,      -62.19083,     407,   n,           , Soufriere System file
+MBWH   16.745,         -62.1908,        0,   n, 2008-01-13, MVO plot_stations script
+MBWH,  16.7421833,     -62.1909333,   407,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBWH1644531N 6211456W)
+MBWH,  16.7421667,     -62.1908333,   407,   n, 2010-06-18, MVO scientific Report 60 [16:44.53N 62:11.45W 407]
+MBWH,  16.7421833,     -62.1909333,   407,   n,           , Roman2008 [16N44.531 62W11.456 407]
+MBWH,  16.7422,        -62.1908,      407.0, n,           , NEIC - MVOV,Open,
+MBWH,  16.7422,        -62.1909,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBWH,  16.74220,       -62.19095,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+
+MBWW,  16.738383,      -62.212050,    152.0, y, 2009-03, GPS - Locko (16N44.303 62W12.722)
+MBWW,  16.73838,       -62.21202,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS

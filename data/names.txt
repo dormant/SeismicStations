@@ -1,0 +1,583 @@
+# Seismic Stations - names
+# Code, Name
+TBH,   Brigand Hill, Trinidad
+TPP,   Point-a-Pierre, Trinidad
+TCE,   Chacachacare, Trinidad
+BOT,   Bacolet, Tobago
+TPR,   Prospect, Tobago
+TRN,   St. Augustine, Trinidad
+TPTC,  Point Cumana, Trinidad
+TWMO,  Westmoorings, Trinidad
+TTBR,  Toco, Trinidad
+BUAY,  Buenos Ayres, Trinidad
+SIPA,  Siparia, Trinidad
+ALNG,  Point Fortin, Trinidad
+GRW,   Mt. St. Catherine, Grenada
+GCMP,  Mt. Pleasant, Carriacou, Grenada
+GRCU,  Carriacou, Grenada
+GRSS,  Sisters, Grenada
+GRHS,  Sauteurs, Grenada
+BBSP,  St. Philip, Barbados
+FCV,   Fort Charlotte, St. Vincent
+SVV,   Wallibou, St. Vincent
+SSV,   Summit, St. Vincent
+BHS,   Orange Hill, St. Vincent
+SFAN,  Fancy, St. Vincent
+SVB,   Belmont, St. Vincent
+SLW,   Petit Monier, St. Lucia
+SLDE,  Delcer, St. Lucia
+SLPE,  Piton St. Espirit, St. Lucia
+SLTA,  Morne Tabac, St. Lucia
+SLPA,  Patience, St. Lucia
+SLB,   Belfond, St. Lucia
+DSLB,  Salisbury, Dominica
+DBCT,  Belle-Vue Chopin, Dominica
+DFBT,  Forest Bistro, Dominica
+DLVT,  Layou Valley, Dominica
+DPMT,  Pointe Michel, Dominica
+DSHT,  Scott’s Head, Dominica
+DSTT,  Stowe, Dominica
+DVDT,  Morne Nicholl, Dominica
+MDN,   Morne Daniel, Dominica
+BBL,   Barbers Block (Morne Espagnol), Dominica
+DWS,   Wesley, Dominica
+ANG,   Friars Hill, Antigua
+CPB,   Codrington, Barbuda
+MJHT,  Jack Boy Hill, Montserrat
+MRYT,  Roaches Yard, Montserrat
+NEV,   Gingerland, Nevis
+BPA,   Boggy Peak, Antigua
+SKI,   Bayford’s Farm, St. Kitts
+STMA,  Philipsburg, St. Maarten
+SABT,  St. Johns, Saba, NA
+STAT,  Oranjestad, St. Eustatius, NA
+SJG,   San Juan, Puerto Rico, USA
+BBGH,  Gun Hill, Barbados
+SDV,   Santo Domingo, Venezuela
+TGUH,  Tegucigalpa, Honduras
+BCIP,  Isla Barro Colorado, Panama
+TEIG,  Tepich, Yucatan, Mexico
+SDDR,  Presa de Sabaneta, Dominican Republic
+BBSR,  Bermuda Biological Station for Research, St. Georges, Bermuda
+DWPF,  Disney Wilderness Preserve, Florida, USA
+HKT,   Hockley, Texas, USA
+GRGR,  Grenville, Grenada
+MTOB,  Temporary, Tobago
+SPEY,  Speyside, Tobago
+ABG,   Abri du Galion, Guadeloupe
+ABV,   Anegada, Virgin Is.
+AECU,  Anegada, Virgin Is.
+AGP,   Aguadilla, Puerto Rico, USA
+ANCC,  Atlantic Liquified Natural Gas, Trinidad
+ANGV,  Angostura, Venezuela
+ANVI,  Anegada, Virgin Is.
+APR,   Arecibo, Puerto Rico, USA
+ATB,   Para, Brazil 
+B5GA,  Glenshane Apts., Barbados
+B5GV,  Glenshane, Barbados
+BAM,   Morne Balai, Martinique
+BAUV,  El Baul, Venezuela
+BDH,   Husbands, Barbados
+BIRV,  Birongo, Venezuela
+BLV,   Bailadores, Venezuela
+BPA,   Boggy Peak, Antigua 
+BRG,   Bois Riant, Guadeloupe
+BSK,   Brimstone Hill. St. Kitts
+BSP,   St. Peter's (Mr. Lorde's House), Barbados
+BVI,   Tortola
+BVM,   Morne Bellevue, Martinique
+CAIV,  Caicara, Venezuela
+CAMV,  Campeare, Venezuela
+CANV,  Cerro Antonio, Venezuela
+CAR,   Caracas, Venezuela
+CARU,  Caripito, Venezuela
+CATA,  Catuaro Arriba, Venezuela
+CBY,   Cubuy,Canovanas, Puerto Rico, USA
+CBYP,  Canovaanas, Puerto Rico, USA
+CELP,  Cerrillos Dam Site, Ponce, PR
+CEOS,  Cerro El Oso, Venezuela
+CHA,   Chastenay, St. Lucia
+COAV,  Cumanacoa, Venezuela
+CPA,   Cerro Las Pinas, Caguas, Puerto Rico, USA
+CPD,   Cerro La Pandura, Yabucoa, Puerto Rico, USA
+CRUV,  Carupano, Venezuela
+CSB,   Colonia, Sabana, Bayamon, Puerto Rico, USA
+CUM,   Cumana, Venezuela
+CUPV,  Cupira, Venezuela
+DABV,  Dabajuro, Venezuela
+DGBT,  Grand Bay, Dominica
+DHCT,  Hollcrest Estate House, Morne aux Diables, Dominica
+DSVT,  Soufriere, Dominica
+DTMT,  Tete Morne Dominica
+DWES,  Wesley, Dominica
+ECG,   Echelle, Guadeloupe
+FBG,   Faubourg, Guadeloupe
+FNG,   Fond-Bernard, Guadeloupe
+GBM,   Grand Be', Martinique
+GRE,   Grenada
+GRIC,  Caille Island, Grenadines
+GUAC,  Guacamaya, Venezuela
+GUAN,  Valle De Guanape, Venezuela
+GUIV,  Guiria, Venezuela
+GUNV,  Guanoco, Venezuela
+GUVO,  El Guri, Venezuela
+GVC,   Las Caratas (Lago de Guri), Venezuela
+GVG,   Guaimire (Caseta de Comunicaciones), Venezuela
+GVM,   Misiones, Venezuela
+GVT,   Tocoma, Venezuela
+GWES,  Wesley, Dominica
+HMG,   Houelmont, Guadeloupe
+HUMP,  Humacao, Puerto Rico, USA
+IBAV,  Isla la blanquilla, Venezuela
+ICM,   Isla Caja de Muerto, Puerto Rico, USA
+IDE,   Desecheo Island, Puerto Rico, USA
+ITEV,  Isla los Testigos, Venezuela
+JACH,  Isla los Testigos, Venezuela
+KEJ,   Kick em Jenny
+LAGU,  Laguneta, Venezuela
+LKG,   Breislack, Guadeloupe
+LLAV,  El Llanito, Venezuela
+LNG,   Atlantic Liquified Natural Gas
+LPM,   Morne Lapointe, Martinique
+LPR,   La Peregrina, Puerto Rico, USA
+LRS,   Lares, Puerto Rico, USA
+LSP,   Las Mesas, Mayaguez, Puerto Rico, USA
+MAN,   Manicuare, Venezuela
+MANA,  Manacal, Venezuela
+MBGA,  Gages, Montserrat
+MBGB,  Garibaldi Hill, Montserrat
+MBGH,  St. Georges Hill, Montserrat
+MBJ,   Jamaica
+MBLG,  Long Ground, Montserrat
+MBLY,  Lee's Yard, Montserrat
+MBMH,  Mongo Hill, Montserrat
+MBRY,  Roches Yard, Montserrat
+MBSS,  South Soufriere Hills, Montserrat
+MBWH,  Windy Hill, Montserrat
+MCA,   Morne Casteau, St. Lucia
+MCHV,  Moule a Chique, St. Lucia
+MCP,   Moca, Puerto Rico, USA
+MCPT,  Chances Peak, Montserrat
+MEP,   Cerro de Santa Ana, Maricao, Puerto Rico, USA
+MERV,  Las Mercedes, Venezuela
+MGAT,  Gages, Montserrat
+MGG,   Marie Galante
+MGP,   Maguayo, Lajas, Puerto Rico, USA
+MHRV,  Hermitage. Montserrat
+MLG,   Mont-d'dor, Guadeloupe
+MLGT,  Long Ground, Montserrat
+MLM,   Martinique
+MLYT,  Lees Yard, Montserrat
+MOLL,  Venezuela
+MONV,  Montecano, Venezuela
+MORO,  Morocoy, Venezuela
+MP,    Montserrat
+MPEW,  Montserrat
+MPNS,  Montserrat
+MPR,   UPR/RUM, Mayaguez, Puerto Rico, USA
+MPVE,  Montserrat
+MSAT,  Salem, Montserrat
+MSPT,  St. Patrick's, Montserrat
+MSSZ,  South Soufriere Hills, Montserrat
+MTP,   Monte Pirata, Vieques, Puerto Rico, USA
+MVOV,  Montserrat Observatory, Montserrat
+MVPV,  Vieux Pointe, Montserrat
+MWHT,  Windy Hill, Montserrat
+MWHZ,  Windy Hill, Montserrat
+NEBH,  Bath Hotel, Nevis
+NVBH,  Bath Hotel, Nevis
+NVRH,  Round Hill, Nevis
+OBS,   Observatory, Martinique
+OLLA,  las Ollas, Venezuela
+ORIV,  Oritupan, Venezuela
+PAM,   Morne Pavillon, Martinique
+PARV,  Pariaguan, Venezuela
+PAYV,  Puerto Ayacucho, Venezuela
+PLAT,  Platillon, Venezuela
+PNP,   Penuelas, Puerto Rico, USA
+PORP,  Portuges Dam Site, Ponce, Puerto Rico, USA
+PRG,   Pas du Roy, Guadeloupe
+PUDO,  Palma Real, Venezuela
+QARV,  Quebrada, Venezuela
+RMG,   Ravine Marchand, Guadeloupe 
+SAB,   Saba
+SABA,  Saba
+SABS,  Saba, near Senior Secondary School (Mt. Scenery)
+SABT,  Saba
+SAFE,  Santa Fe, Venezuela
+SANV,  Sanarito, Venezuela
+SCRV,  Venezuela
+SCVI,  St. Croix, Venezuala
+SEG,   Port Louis, Guadeloupe
+SFG,   St. Francois, Guadeloupe
+SIP,   Siparia, Trinidad
+SIQV,  Siquisique, Venezuela
+SJV,   St. Johns, USVI
+SKDB,  Dieppe Bay, St. Kitts
+SKTB,  Turtle Beach, St. Kitts
+SLD,   Delcer, St. Lucia
+SLP,   Patience, St. Lucia
+SLR,   Piton St. Espirit
+SLT,   Morne Tabac, St. Lucia
+SSLP,  Patience, St. Lucia
+STAT,  Statia
+STG,   Sans Toucher, Guadeloupe 
+STM,   St. Maarten
+STMT,  St. Maarten
+STVI,  St. Thomas, USVI
+SVSV,  Belmont, St. Vincent
+TAG,   Tarade, Guadeloupe
+TBRC,  Toco, Trinidad
+TBVI,  Tortola, British Virgin Is.
+TCHG,  Chaguaramas, Trinidad
+TEST,  Llanito, Venezuela
+TGR,   Del Tigre, Venezuela
+TGRV,  El Tigre, Venezuela
+TMD,   Matura, Trinidad
+TOCO,  Toco Lighthouse
+TOV,   El Tocuyo, Venezuela
+TPTC,  Pt. Cumana
+TRM,   Trois Llets, Martinique
+TRPT,  Temporary
+TTR,   Matura, Trinidad
+UPA,   Univ. of Panama, Panama
+VGVI,  Virgin Gorda
+VIRV,  Villa Del Rosario, Venezuela
+VOLV,  El Volcan, Venezuela
+SRU,   Seismic Research Unit, University of the West Indies
+ALNG,  Atlantic Liquefied Natural Gas (NEIC)
+ANG,   Antigua (Friars Hill) (NEIC)
+AWI,   Antigua (NEIC)
+B5GA,  5 Glenshane Apartments (NEIC)
+BDH,   Highclere (NEIC)
+BDS,   Barbados (Husbands) (NEIC)
+BPA,   Boggy Peak (NEIC)
+BRB,   Barbados (Codrington) (NEIC)
+BRBD,  Wooly Bob (NEIC)
+BSK,   Brimstone Hill (NEIC)
+BUAY,  Buenos Aires (NEIC)
+CPB,   Codrington (NEIC)
+DGBT,  Grand Bay (NEIC)
+DLVT,  Layou Valley (NEIC)
+DOM,   Dominica (Roseau) (NEIC)
+DSC,   Scotts Head (NEIC)
+DSVT,  Soufriere Village (NEIC)
+DTMT,  Tete Morne (NEIC)
+DVDT,  Valley of Desolation (NEIC)
+GNG,   Grange (NEIC)
+GRE,   Grenada (Saint George's) (NEIC)
+MBET,  Bethel, Montserrat
+MCLT,  Moule a Chique, St Lucia
+MGH,   Saint George's Hill, Montserrat
+O6A,   East Barbuda O.B.S. (NEIC)
+OHS,   Orange Hill (NEIC)
+PIG,   Pigeon Point (NEIC)
+PLS,   Point Lisas (NEIC)
+PLY,   Plymouth (NEIC)
+RSV,   Radio Antilles (NEIC)
+SABS,  Saba (Government School) (NEIC)
+SIH,   Signal Hill (NEIC)
+SIPA,  Siparia (NEIC)
+SLI,   Saint Lucia (Vigie Point) (NEIC)
+SOA,   Owia, St Vincent
+SRH,   Rilland Hill (NEIC)
+STAT,  Sint Eustatius (Agricultural Station) (NEIC)
+STMA,  St. Maarten; Airport (NEIC)
+SVG,   Indian Gallows (NEIC)
+SVI,   Saint Vincent (Questelles Point) (NEIC)
+SVL,   Baleine (NEIC)
+SVT,   Saint Vincent (Camden Park) (NEIC)
+TBVI,  Tortola (NEIC)
+TCHG,  Chaguaramas (NEIC)
+TOB,   Tobago (Crown Point) (NEIC)
+TTR,   Matura (NEIC)
+VGVI,  Virgin Gorda (NEIC)
+ANWB,  Willy Bob, Barbuda, Antigua and Barbuda (NEIC)
+M01,   Silver Hills
+M02,   Rendezvous Bay
+M03,   Banks (Ken Allen's)
+M04,   Geralds Airport
+M05,   Lookout (Tappy's house)
+M06,   David Lea
+M07,   Water Tank
+M08,   Mongo Hill
+M09,   Statue Rock
+M10,   Royal Palm
+M11,   Pelican's Nest
+M12,   Traveller's Palm
+M13,   Sea Dreams
+M14,   MVO
+M15,   Air Studios
+M16,   Isles Bay
+M17,   Garibaldi Hill (East)
+M18,   St. Georges Hill (Top)
+M19,   Lee's
+M20,   Foxes Bay
+M21,   Richmond Hill
+M22,   Kinsale
+M23,   St. Patricks
+M24,   Ogarra,
+M25,   Shoe Rock
+M26,   Tar River
+M27,   Jack Boy
+M28,   Bramble Airport
+M32,   White's Yard
+M30,   South Soufriere Hills (Heli)
+M31,   Spanish Point
+DTRR,  Three Rivers Eco Lodge, Dominica
+MBRV,  Rendezvous, Montserrat
+MBJH,  Jack Boy Hill, Montserrat
+AIRS,  Air Studios, Montserrat
+TRNT,  Trants, Montserrat
+OLVT,  Olveston, Montserrat
+OLV1,  Olveston, Montserrat
+GERS,  Geralds, Montserrat
+DLPL,  La Plaine, Dominica
+TOSP,  Speyside, Tobago
+AOPR,  Arecibo Observatory, Puerto Rico
+MWF,   Farrells, Montserrat
+MWL,   Salem, Montserrat
+MWI,   The Grove, Montserrat
+MWP,   St. Patrick's, Montserrat
+MBWW,  Waterworks, Montserrat
+MBW1,  Waterworks, Montserrat (north microphone)
+MBW2,  Waterworks, Montserrat (centre microphone)
+MBW3,  Waterworks, Montserrat (south microphone)
+PSDMZ, Portsmouth, Dominica
+MDCT,  Cottage Hill, Dominica
+MDPM,  Portsmouth, Dominica
+MDVC,  Vieille Case, Dominica
+GUSW,  Sawariwau Village, Guyana
+LUEV,  Luepa, Bolivar, Venezuela
+MPG,   Montagne des Peres, French Guiana
+PTGA,  Pitinga, Brazil
+TOCV,  Tocomita, Bolivar, Venezuela
+MDPV,  Penville, Dominica
+MDMP,  Moore Park, Dominica
+MBGE,  Galways Estate, Montserrat
+MBBE,  Bethel, Montserrat
+MBBY,  Broderick's Yard, Montserrat
+MBFL,  Flemmings, Montserrat
+MBFR,  Fergus Ridge, Montserrat
+MBHA,  Harris, Montserrat
+MVO,   Montserrat Observatory, Montserrat
+DEG,   La Desirade, Martinique
+FDF,   Fort de France, Guadeloupe 
+MML,   Martinique
+TBG,   Martinique
+ATG,   Martinique
+BR,    Brodericks
+LL,    Lovers Lane
+HARR,  Harris Lookout
+MVO1,  MVO North
+SSOU,  South Soufriere Hills
+SPRI,  Spring Estate
+WTYD,  White's Yard
+MVOT,   Montserrat Volcano Observatory
+MVOR,  Montserrat Volcano Observatory
+MVOW,  Montserrat Volcano Observatory
+SILV,  Silver Hills
+FERG,  Fergus Ridge
+GARI,  Garibaldi Hill
+JACK,  Jack Boy Hill
+UEA12, MVO Helipad
+DT1,   Brodericks (DOAS site)
+DT2,   Brades Primary School
+DT3,   St. Johns (DMCA)
+DT4,   Jack Boy Hill (camera)
+DT5,   Plymouth, Police Headquarters
+DT6,   Richmond Hill Sugar Mill
+DT7,   St. Augustine Primary School
+DT8,   Salem Clinic
+DT9,   St. Georges Hill
+DT10,  Vue Pointe Hotel
+DT11,  Weekes (IDAS)
+SAUG,  St. Augustine Primary School
+SCLN,  Salem Climic
+VUPT,  Vue Pointe Hotel
+EDJH,  Jack Boy Hill
+EDWR,  White River North
+MIC1,  Microphone 1
+MIC2,  Microphone 2
+MIC3,  Microphone 3
+MIC4,  Microphone 4
+REDO,  Redonda
+MSIL,  Silver Hills, Montserrat
+MBOL,  Olveston, Montserrat
+MBHE,  Hermitage Estate, Montserrat
+MBGL,  Galways, Montserrat
+MROD,  Rods House, Olveston, Montserrat
+R8282, Shake, Dominica
+S2625, Shake, Dominica
+R3E0C, Shake, Dominica
+RBA2A, Shake, Dominica
+RBC24, Shake, Dominica
+RDCDD, Shake, Dominica
+RC13E, Shake, Dominica
+R569B, Shake, Dominica
+PSDMA, Soufriere, Dominica
+PSDMB, Cotton Hill, Dominica
+MSS1,  Scar 1
+ABD,   La Joyeuse, Anse Bertrand, Guadeloupe
+MPLT,  Montserrat
+GRFF,  Fort Frederick, Grenada
+SVGT,  Georgetown, St Vincent
+TDBA,  Terre de Bas, Les Saintes, Guadeloupe
+MOG,   Mont d'Or, Guadeloupe
+DHS,   Morne Mazeau - Deshaies, Guadeloupe
+DSD,   La Desirade, Guadeloupe
+NEMO,  NEMO HQ, St Vincent
+SSVA,  Summit Station2, St Vincent
+CBE,   Capesterre Belles Eaux, Guadeloupe
+SVWL,  Bamboo Range, St Vincent
+SLBI,  Bisee, St Lucia
+MSCS,  Chances Steps, Montserrat
+MSGS,  Galways Saddle, Montserrat
+MSUH,  Upper Hermitage, Montserrat
+MSCP,  Chances Peak, Montserrat
+42060, Station 42060, Caribbean Valley, 63 NM WSW of Montserrat
+41044, Station 41044, NE St Martin, 330 NM NE of St Martin Is
+41040, Station 41040, North Equatorial One, 470 NM East of Martinique
+MSMX,  Molyneux, Montserrat
+SVFH,  Fitz Hughes, St Vincent
+SVGM,  Greiggs Mountain, St Vincent
+MBWR,  White River, Montserrat
+MSRE,  Ridge End, Montserrat
+TRC2,  Erciyes Dag 2, Turkey
+TRC3,  Erciyes Dag 3, Turkey
+CDRO,  Cedros, Azores,Portugal
+CMLA,  Cha da Macela, Azores,Portugal
+EOSO,  Osorio, Spain
+MACI,  Morro de la Arena, Canary Islands,Spain
+MESC,  Monte Escuro, Azores,Portugal
+ROSA,  Rosais, Azores,Portugal
+SACV,  Santiago Island, Cape Verde Islands
+SET3,  Pilar, Azores,Portugal
+SVMA,  Madeiral, Cape Verde Islands
+BIM,   Bigot, Martinique,France
+DDOJ,  Jimmit, Dominica
+DMLD,  Londonberry, Dominica
+ILAM,  Ilet Lapin Martinique, Martinique,France
+MAGL,  Barre de l'ile, St louis, Marie Galante, Guadeloupe,France
+MPOM,  Morne Pois Martinique, Martinique,France
+SBLM,  St Barthelemy, Guadeloupe
+MAA1,  Array A1, Montserrat
+MAA2,  Array A2, Montserrat
+MAA3,  Array A3, Montserrat
+MAB,   Array B, Montserrat
+MAC1,  Array C1, Montserrat
+MAC2,  Array C2, Montserrat
+MAC3,  Array C3, Montserrat
+MAD,   Array D, Montserrat
+SGHWx, St Georges Hill weather station, Montserrat
+LeesWx, Lees Yard weather station, Montserrat
+HermWx, Hermitage weather station, Montserrat
+TRPG,  Geralds Airport weather station, Montserrat
+MSGA,  Gages Fan, Montserrat
+MSA1,  Round Hill Array, Montserrat
+MA1A0, Round Hill Array, Montserrat, element A0
+MA1A1, Round Hill Array, Montserrat, element A1
+MA1A2, Round Hill Array, Montserrat, element A2
+MA1A3, Round Hill Array, Montserrat, element A3
+MA1A4, Round Hill Array, Montserrat, element A4
+MA1A5, Round Hill Array, Montserrat, element A5
+MA1A6, Round Hill Array, Montserrat, element A6
+MA1B1, Round Hill Array, Montserrat, element B1
+MA1B2, Round Hill Array, Montserrat, element B2
+MA1B3, Round Hill Array, Montserrat, element B3
+MA1B4, Round Hill Array, Montserrat, element B4
+MA1B5, Round Hill Array, Montserrat, element B5
+MA1B6, Round Hill Array, Montserrat, element B6
+MA1B7, Round Hill Array, Montserrat, element B7
+MA1B8, Round Hill Array, Montserrat, element B8
+MA1B9, Round Hill Array, Montserrat, element B9
+MSA2,  Bramble Array, Montserrat
+MA2A0, Bramble Array, Montserrat, element A0
+MA2A1, Bramble Array, Montserrat, element A1
+MA2A2, Bramble Array, Montserrat, element A2
+MA2A3, Bramble Array, Montserrat, element A3
+MA2A4, Bramble Array, Montserrat, element A4
+MA2A5, Bramble Array, Montserrat, element A5
+MA2A6, Bramble Array, Montserrat, element A6
+MA2B1, Bramble Array, Montserrat, element B1
+MA2B2, Bramble Array, Montserrat, element B2
+MA2B3, Bramble Array, Montserrat, element B3
+MA2B4, Bramble Array, Montserrat, element B4
+MA2B5, Bramble Array, Montserrat, element B5
+MA2B6, Bramble Array, Montserrat, element B6
+MA2B7, Bramble Array, Montserrat, element B7
+MA2B8, Bramble Array, Montserrat, element B8
+MA2B9, Bramble Array, Montserrat, element B9
+MBAM,  Amersham, Montserrat
+MBCH,  Centre Hills, Montserrat
+MBMO,  Mongo Hill, Montserrat
+ON001, Oxford Node 001, at the top behind building,  near tree
+ON002, Oxford Node 002, slightly off road
+ON005, Oxford Node 005, by roundabout
+ON006, Oxford Node 006, along road
+ON007, Oxford Node 007, by house on the left
+ON008, Oxford Node 008, before the tyre line
+ON009, Oxford Node 009, by tree line,  midway between tyres,  base of trees
+ON010, Oxford Node 010, in rise/hedge
+ON011, Oxford Node 011, treeline,  end of road
+ON012, Oxford Node 012, near well
+ON013, Oxford Node 013, at the well (opposite)
+ON014, Oxford Node 014, by the pipes of the well
+ON015, Oxford Node 015, near the road (east of)
+ON016, Oxford Node 016, north of crossroad
+ON017, Oxford Node 017, west of the road
+ON018, Oxford Node 018, east of road,  near the mining factory
+ON019, Oxford Node 019, just after layby
+ON020, Oxford Node 020, just before left turn
+ON021, Oxford Node 021, along road
+ON022, Oxford Node 022, after elberton road junction
+ON023, Oxford Node 023, along road
+ON024, Oxford Node 024, along road
+ON025, Oxford Node 025, between junctions
+ON026, Oxford Node 026, mining factory crossroad,  west of road
+ON027, Oxford Node 027, near shed (east of road) / stop sign. Last one before zone V starts,  25 nodes along a 'linear' array that goes alongside mon-1
+ON028, Oxford Node 028, right of road beyond the gate
+ON029, Oxford Node 029, right of road
+ON030, Oxford Node 030, outside gate
+ON031, Oxford Node 031, right of road
+ON032, Oxford Node 032, near to air quality equipments
+ON033, Oxford Node 033, base of tree around 10m uphill from glass recycling
+ON034, Oxford Node 034, montserrat museum,  in carpark by tree line. marked with flag
+ON036, Oxford Node 036, silver hill,  by T-junction,  before treeline to the left,  marked 2m from lollipop stick
+ON037, Oxford Node 037, entroute to silver hills. on bank next to layby near prickly bush
+ON038, Oxford Node 038, Rosita's drive,  buried just off road,  Baizey's. Flag marked
+ON040, Oxford Node 040, Near Margerita beach,  last hairpin of drive. Flag marked
+ON041, Oxford Node 041, Along left of road if going downhill,  about 20m before bridge. marked with flag
+ON042, Oxford Node 042, Past Jackboy Hill Nature gates. 20m before red container,  buried on left bank bfore left turning. Marked with flag
+ON043, Oxford Node 043, Dick hill. At corner of road. LHS if looking up hill. Flag marked. Base of bigggest tree past banana trees
+ON045, Oxford Node 045, Top of fogarthy hill,  by star fruit tree,  flag marked. Rhona from Salem's house
+ON047, Oxford Node 047, Isle's bay beach,  below tsunami sign. Flag marked
+ON048, Oxford Node 048, Crossroad,  west of road
+ON049, Oxford Node 049, Opposite the circular building in vegetation
+ON052, Oxford Node 052, east of road
+ON053, Oxford Node 053, After cross road,  east of road
+ON054, Oxford Node 054, Near the dock,  south of gravel
+ON055, Oxford Node 055, behind gravel. (10m walk East of Gravel)
+ON056, Oxford Node 056, Right after (east) of the fence
+ON057, Oxford Node 057, Next to the road,  at the houses
+ON058, Oxford Node 058, Waterworks estate, just past old sugar mill,  flag marked,  along road going uphill RHS,  by palm tree
+ON059, Oxford Node 059, Waterworks estate,  infront of solar panels of GPS station. flag marked
+ON060, Oxford Node 060, St Georges Hill - on LHS going uphill
+ON061, Oxford Node 061, Before weather station on St Georges Hill
+ON062, Oxford Node 062, A few metres away from MBGH
+ON063, Oxford Node 063, Located ~100m before windmills (weather station)
+ON064, Oxford Node 064, Located at weather station site
+ON065, Oxford Node 065, Headed back down from weather station to right,  100m inside
+ON066, Oxford Node 066, past geothermal exploration sign,  track to the right going in for ~2min located to right of mango tree
+ON067, Oxford Node 067, along road,  flag marked
+ON069, Oxford Node 069, Zone V-Whites. Along path to GPS stations,  LHS up hill,  15m from station. flag marked
+ON077, Oxford Node 077, Node along trail. Flag marked
+ON078, Oxford Node 078, Node at peak. Flag marked
+ON080, Oxford Node 080, opposite well in ditch
+ON082, Oxford Node 082, between containers by well
+ON083, Oxford Node 083, by well gates,  next to skip
+ON084, Oxford Node 084, LHS road facing well,  opposite coconut palm,  by bank
+ON085, Oxford Node 085, At base of house to left when facing it. North sid of road
+ON086, Oxford Node 086, By well,  at concrete base closest to pond.
+ON121, Oxford Node 121, St Augustine school,  by cricket nets
+ON122, Oxford Node 122, LookOut primary school,  at end of drive behind auditorium. next to generator

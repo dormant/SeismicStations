@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>KEJ-2018</name>
+    <snippet>Created Wed Mar 14 14:54:42 2018</snippet>
+    <LookAt>
+      <longitude>-61.556975</longitude>
+      <latitude>12.304755</latitude>
+      <range>57912.141577</range>
+    </LookAt>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>GRW</name>
+        <description>Mt. St. Catherine, Grenada (GRW.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.661000,12.160000,762.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRHS</name>
+        <description>Sauteurs, Grenada (GRHS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.640500,12.221750,66.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRSS</name>
+        <description>Sisters, Grenada (GRSS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.612330,12.298490,20.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRCU</name>
+        <description>Carriacou, Grenada (GRCU.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.452950,12.477110,240.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRGR</name>
+        <description>Grenville, Grenada (GRGR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.654000,12.132400,195.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

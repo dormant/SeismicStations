@@ -1,0 +1,33 @@
+#!/usr/bin/env perl
+#
+# net2kml
+#
+# Gets a list of stations, one per line for a network, or networks
+# and creates kml files, one for each network from the 'y' locations
+#
+# Rod Stewart, 2010-05-05
+
+
+my @nets = @ARGV;
+
+foreach $net (@nets) {
+
+	`./net2locy $net | ./loc2csv > temp.csv`;
+	`gpsbabel -i unicsv -f temp.csv -o kml -F temp.kml`;
+	`cat temp.kml | ./kmltidy > temp2.kml`;
+
+	open(MYINPUTFILE, "<temp2.kml");
+	open(MYOUTPUTFILE, ">$net.kml");
+	while(<MYINPUTFILE>)
+ 	{
+ 		my($line) = $_;
+ 		chomp($line);
+		$line =~ s/Stations/$net/g;
+ 		print MYOUTPUTFILE "$line\n";
+ 	}
+	close(MYINPUTFILE);
+	close(MYOUTPUTFILE);
+
+
+
+}

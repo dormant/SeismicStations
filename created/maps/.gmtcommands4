@@ -1,0 +1,9 @@
+# GMT common arguments shelf
+-B0.2:.Grenada:
+-JM16c
+-jM16c
+-R-61.83/-61.4/11.95/12.55
+EOF
+EOF
+-61.4/11.95/12.55
+EOF

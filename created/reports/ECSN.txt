@@ -1,0 +1,3303 @@
+# ECSN-All: Eastern caribbean Seismic Network
+ANWB,  Willy Bob, Barbuda, Antigua and Barbuda (NEIC)
+AOPR,  Arecibo Observatory, Puerto Rico
+ATG,   Martinique
+BBGH,  Gun Hill, Barbados
+BBGH,  Gun Hill, Barbados
+BBGH,  Gun Hill, Barbados
+BBL,   Barbers Block (Morne Espagnol), Dominica
+BBSP,  St. Philip, Barbados
+BBSP,  Saint Philip (NEIC)
+BBSR,  Bermuda Biological Station for Research, St. Georges, Bermuda
+BCIP,  Isla Barro Colorado, Panama
+BCIP,  Isla Barro Colorado, Panama
+BHS,   Orange Hill, St. Vincent
+BHS,   Barnard House (NEIC)
+BOT,   Bacolet, Tobago
+BOT,   Bacolet (NEIC)
+BSK,   Brimstone Hill. St. Kitts
+BSK,   Brimstone Hill (NEIC)
+DBCT,  Belle-Vue Chopin, Dominica
+DBCT,  Belle View Chopil (NEIC)
+DEG,   La Desirade, Martinique
+DFBT,  Forest Bistro, Dominica
+DFBT,  Forest Bistro (NEIC)
+DLPL,  La Plaine, Dominica
+DPMT,  Pointe Michel, Dominica
+DPMT,  Pointe Michel (NEIC)
+DSHT,  Scott’s Head, Dominica
+DSHT,  Scott's Head (NEIC)
+DSTT,  Stowe, Dominica
+DSTT,  Stowe (NEIC)
+DWPF,  Disney Wilderness Preserve, Florida, USA
+DWS,   Wesley, Dominica
+FCV,   Fort Charlotte, St. Vincent
+FCV,   Fort Charlotte (NEIC)
+FDF,   Fort de France, Guadeloupe 
+FDF,   Fort de France, Guadeloupe 
+GRCU,  Carriacou, Grenada
+GRCU,  Cariacou (NEIC)
+GRGR,  Grenville, Grenada
+GRGR,  Grenville, Grenada
+GRGR,  Grenville, Grenada
+GRHS,  Sauteurs, Grenada
+GRHS,  Sauteurs (NEIC)
+GRIC,  Caille Island, Grenadines
+GRSS,  Sisters, Grenada
+GRSS,  Sisters (NEIC)
+GRW,   Mt. St. Catherine, Grenada
+GRW,   Grenada
+GRW,   Mount Saint Catherine (NEIC)
+HKT,   Hockley, Texas, USA
+MBFL,  Flemmings, Montserrat
+MBGH,  St. Georges Hill, Montserrat
+MBWW,  Waterworks, Montserrat
+MCLT,  Moule a Chique (NEIC)
+MDCT,  Cottage Hill, Dominica
+MDMP,  Moore Park, Dominica
+MDN,   Morne Daniel, Dominica
+MDN,   Morne Daniel (NEIC)
+MDPM,  Portsmouth, Dominica
+MDPV,  Penville, Dominica
+MDVC,  Vieille Case, Dominica
+MGG,   Marie Galante
+MML,   Martinique
+NEV,   Gingerland, Nevis
+NEV,   Hard Times Estate (NEIC)
+NVBH,  Bath Hotel, Nevis
+NVRH,  Round Hill, Nevis
+PSDMZ, Portsmouth, Dominica
+SABA,  Saba
+SDDR,  Presa de Sabaneta, Dominican Republic
+SDDR,  Presa de Sabaneta, Dominican Republic
+SDV,   Santo Domingo, Venezuela
+SDV,   Santo Domingo, Venezuela
+SFAN,  Fancy, St. Vincent
+SFAN,  Fancy Village (NEIC)
+SJG,   San Juan, Puerto Rico, USA
+SJG,   San Juan, Puerto Rico, USA
+SKDB,  Dieppe, St. Kitts
+SKDB,  Saint Kitts 2 (NEIC)
+SKI,   Bayford’s Farm, St. Kitts
+SKTB,  Turtle Beach, St. Kitts
+SLB,   Belfond, St. Lucia
+SLB,   Belfond (NEIC)
+SLDE,  Delcer, St. Lucia
+SLDE,  Delcer (NEIC)
+SLPA,  Patience, St. Lucia
+SLPA,  Patience (NEIC)
+SLPE,  Piton St. Espirit, St. Lucia
+SLPE,  Piton Saint Espirit (NEIC)
+SLTA,  Morne Tabac, St. Lucia
+SLTA,  Morne Tabac (NEIC)
+SLW,   Petit Monier, St. Lucia
+SLW,   Petit Monier (NEIC)
+SSV,   Summit, St. Vincent
+SSV,   Crater Summit (NEIC)
+SVB,   Belmont, St. Vincent
+SVV,   Wallibou, St. Vincent
+SVV,   Soufriere Volcano (Wallibou) (NEIC)
+TBG,   Martinique
+TBH,   Brigand Hill, Trinidad
+TBH,   Brigand Hill (NEIC)
+TCE,   Chacachacare, Trinidad
+TCE,   Chacachacare (NEIC)
+TEIG,  Tepich, Yucatan, Mexico
+TGUH,  Tegucigalpa, Honduras
+TGUH,  Tegucigalpa, Honduras
+TOSP,  Speyside, Tobago
+TPP,   Point-a-Pierre, Trinidad
+TPP,   Pointe-a-Pierre (NEIC)
+TPR,   Prospect, Tobago
+TPR,   Prospect (NEIC)
+TRN,   St. Augustine, Trinidad
+TRN,   Trinidad (Saint Augustine) (NEIC)
+TRNT,  Trants, Montserrat
+
+
+==
+
+Station Code: ANWB
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  ANWB,  Willy Bob, Barbuda, Antigua and Barbuda (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  ANWB,  17.6685,        -61.7856,       39.0, y,           , NEIC TRN
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  ANWB,  Open 200708? (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  ANWB, E-IRIS: ECSN stations from IRIS
+  ANWB, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: AOPR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  AOPR,  Arecibo Observatory, Puerto Rico
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  AOPR,  18.3466111,     -66.7538889,   355.1, y, ,           NEIC (18.182047.8N 664514.0W  355.1Arecibo Observatory)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  AOPR, E-PRSN: ECSN stations from PRSN
+  AOPR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: ATG
+
+Aliases / co-locations
+  ATGZ
+  MSG
+
+Name(s)
+  Code,  Name
+  ATG,   Martinique
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  ATG,   16.098667,      -61.72200,     851.0, n,           , Nisha's spreadsheet
+  ATG,   16.094333,      -61.726333,    865.0, y, , ATGZ in file suppplied by station operator (stations_ovsg.en) [1605.77N 6143.58W 865]
+  MSG,   16.098667,      -61.72200,     851,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  ATG,   90, SP-Z,  EHZ,     100, L4C
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  ATG, E-IPGP: ECSN stations from IPGP
+  ATG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BBGH,  Gun Hill, Barbados
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BBGH,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+  BBGH,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBGH, E-IRIS: ECSN stations from IRIS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-USGS: ECSN stations from USGS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-PRSN: ECSN stations from PRSN
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BBGH,  Gun Hill, Barbados
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BBGH,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+  BBGH,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBGH, E-IRIS: ECSN stations from IRIS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-USGS: ECSN stations from USGS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-PRSN: ECSN stations from PRSN
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BBGH,  Gun Hill, Barbados
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BBGH,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+  BBGH,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBGH, E-IRIS: ECSN stations from IRIS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-USGS: ECSN stations from USGS
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+  BBGH, E-PRSN: ECSN stations from PRSN
+  BBGH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBL
+
+Aliases / co-locations
+  BBLZ
+
+Name(s)
+  Code,  Name
+  BBL,   Barbers Block (Morne Espagnol), Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBL,   15.5262,        -61.4699,      265,   n,           , LL spreadsheet
+  BBL,   15.526200,      -61.46996,     365,   n,           , Soufriere System file
+  BBL,   15.5262,        -61.4700,      365.0, n,           , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+  BBL,   15.5262,        -61.4700,      365.0, n,           , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+  BBL,   15.526167,      -61.47,        365.0, y, , BBLZ in file suppplied by station operator (stations_ovsg.en) [1531.57N 6128.20W 365]
+  BBL,   15.5262,        -61.4700,      365.0, n, , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BBL,   --,  SP-Z,   SHZ,     100, 
+  BBL,        ,          , French station
+  BBL,   90, SP-Z,  EHZ,     100, L4C
+
+Status
+  Code,  Date         - Status
+  BBL,   1978-11-21   - opened
+  BBL,   1980 - installed
+  BBL,   2000-11-20 - reconnected
+  BBL,   2001-08-14   - co-ordinates updated
+  BBL,   2010-01-04   - added to earthworm
+  BBL,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBL, E-IPGP: ECSN stations from IPGP
+  BBL, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBSP
+
+Aliases / co-locations
+  BBSN, BBSE, BBLV, BBLN, BBLE
+
+Name(s)
+  Code,  Name
+  BBSP,  St. Philip, Barbados
+  BBSP,  Saint Philip (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBSP,  13.1045,        -59.4579,       35,   y,           , LL spreadsheet
+  BBSP,  13.104472,      -59.45789,      35,   n,           , Soufriere System file
+  BBSP,  13.1045,        -59.4579,       35.0, n,           , NEIC - TRN,Open,Saint Philip
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  BBSP,  1999-08-27 - opened (as B5GA)
+  BBSP,  2000-10-24 - 3C BB installed
+  BBSP,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBSP, TR-BBSP: ECSN stations from BBSP (Barbados) node
+  BBSP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BBSR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BBSR,  Bermuda Biological Station for Research, St. Georges, Bermuda
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BBSR,  32.3712,        -64.6962,      -25,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BBSR,  00,  BB-3C,  BHZ/1/2,  20,  CMG-3TB/Q680
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BBSR, E-USGS: ECSN stations from USGS
+  BBSR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BCIP
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BCIP,  Isla Barro Colorado, Panama
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BCIP,   9.1665,        -79.8373,       61,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BCIP,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BCIP, E-IRIS: ECSN stations from IRIS
+  BCIP, ECSN-All: Eastern caribbean Seismic Network
+  BCIP, E-USGS: ECSN stations from USGS
+  BCIP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BCIP
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BCIP,  Isla Barro Colorado, Panama
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BCIP,   9.1665,        -79.8373,       61,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  BCIP,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BCIP, E-IRIS: ECSN stations from IRIS
+  BCIP, ECSN-All: Eastern caribbean Seismic Network
+  BCIP, E-USGS: ECSN stations from USGS
+  BCIP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BHS
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BHS,   Orange Hill, St. Vincent
+  BHS,   Barnard House (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BHS,   13.2960,        -61.1270,       90,   n,           , LL spreadsheet
+  BHS,   13.29632,       -61.12716,      90,   n,           , Soufriere System file
+  BHS,   13.3149,        -61.12135,       0,   n, 2007,       GPS - Ian (13N18.894 61W07.281)
+  BHS,   13.3149,        -61.12135,      90,   y, 2007,       GPS - Ian (13N18.894 61W07.281) - assumed 90m altitude
+  BHS,   13.2963,        -61.1272,       90.0, n,           , NEIC - TRN,Open,Barnard House
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  BHS,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BHS, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  BHS, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  BHS, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BOT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BOT,   Bacolet, Tobago
+  BOT,   Bacolet (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BOT,   11.1660,        -60.7180,       30,   y,           , LL spreadsheet
+  BOT,   11.16667,       -60.71795,      30,   n,           , Soufriere System file
+  BOT,   11.1702,        -60.71668,       0,   n, 2007-08-28, GPS - Ian (11N10.212 60W43.001)
+  BOT,   11.1667,        -60.7179,       30.0, n,           , NEIC - TRN,Open,Bacolet
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  BOT,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BOT, TR-TRN: ECSN stations from TRN node
+  BOT, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  BOT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: BSK
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  BSK,   Brimstone Hill. St. Kitts
+  BSK,   Brimstone Hill (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  BSK,   17.347000,      -62.84000,     125,   n,           , Soufriere System file
+  BSK,   17.3470,        -62.8400,      125.0, n,           , NEIC - TRN,Open,Brimstone Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  BSK,   1980-07-09 - Single comp (Beniot) opened
+  BSK,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  BSK, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  BSK, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  BSK, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DBCT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DBCT,  Belle-Vue Chopin, Dominica
+  DBCT,  Belle View Chopil (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DBCT,  15.2708,        -61.3456,      527,   n,           , LL spreadsheet
+  DBCT,  15.271500,      -61.34367,     527,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DBCT,  15.2700667,     -61.3431167,     0,   n, 2007,       GPS - Ian (15N16.204 61W20.587)
+  DBCT,  15.2700667,     -61.3431167,   527,   y, 2007,       GPS - Ian (15N16.204 61W20.587) - assumed 527m altitude
+  DBCT,  15.2708,        -61.3456,      527.0, n,           , NEIC - TRN,Open,Belle View Chopil
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  DBCT,  1987 - installed
+  DBCT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DBCT, TR-MDN: ECSN stations from MDN (Dominica) node
+  DBCT, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  DBCT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DEG
+
+Aliases / co-locations
+  DEGZ
+
+Name(s)
+  Code,  Name
+  DEG,   La Desirade, Martinique
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DEG,   16.313167,      -61.06183,     275,   n,           , Soufriere System file
+  DEG,   16.3132,        -61.0598,      575.0, n,           , NEIC - FDF,Open,La Desirade
+  DEG,   16.313167,      -61.06183,     275.0, n,           , Nisha's spreadsheet
+  DEG,   16.3111667,     -61.064,       279.0, y, , DEGZ in file suppplied by station operator (stations_ovsg.en) [1618.67N 6103.84W 279]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  DEG,   90, SP-3C, EHZ/N/E, 100, L4C-3D
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DEG, E-IPGP: ECSN stations from IPGP
+  DEG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DFBT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DFBT,  Forest Bistro, Dominica
+  DFBT,  Forest Bistro (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DFBT,  15.2402,        -61.3559,       83,   y,           , LL spreadsheet
+  DFBT,  15.239250,      -61.35335,      83,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DFBT,  15.2401,        -61.3559,       83.0, n,           , NEIC - TRN,Open,Forest Bistro
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  DFBT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DFBT, TR-MDN: ECSN stations from MDN (Dominica) node
+  DFBT, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  DFBT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DLPL
+
+Aliases / co-locations
+  DTRR
+
+Name(s)
+  Code,  Name
+  DLPL,  La Plaine, Dominica
+  DTRR,  Three Rivers Eco Lodge, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DLPL,  15.3324,        -61.2467,       38,   n, 2007-12-27, GPS - NaqsView
+  DLPL,  15.332419,      -61.246788,     40.9, y, 2008-06-18, GPS - nmx soh log
+  DTRR,  15.3185,        -61.3923,       99,   n, ,           Found in nano setup file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  DTRR,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  DTRR,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  DTRR,  2007-12-04 - BB VSAT station installed at La Plaine - planned Three Rivers Eco Lodge installation not possible
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DLPL, TR-VSAT: ECSN, VSAT stations
+  DLPL, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DPMT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DPMT,  Pointe Michel, Dominica
+  DPMT,  Pointe Michel (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DPMT,  15.2609,        -61.3770,       50,   y,           , LL spreadsheet
+  DPMT,  15.259130,      -61.37902,      50,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DPMT,  15.2609,        -61.3770,       50.0, n,           , NEIC - TRN,Open,Pointe Michel
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  DPMT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DPMT, TR-MDN: ECSN stations from MDN (Dominica) node
+  DPMT, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  DPMT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DSHT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DSHT,  Scott’s Head, Dominica
+  DSHT,  Scott's Head (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DSHT,  15.2136,        -61.3737,      134,   y,           , LL spreadsheet
+  DSHT,  15.214100,      -61.37303,     134.4, n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DSHT,  15.2136,        -61.3737,      133.4, n,           , NEIC - TRN,Open,Scott's Head
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  DSHT,  1998-12 - installed
+  DSHT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DSHT, TR-MDN: ECSN stations from MDN (Dominica) node
+  DSHT, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  DSHT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DSTT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DSTT,  Stowe, Dominica
+  DSTT,  Stowe (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DSTT,  15.2467,        -61.3035,      120,   y,           , LL spreadsheet
+  DSTT,  15.247733,      -61.30353,     120,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DSTT,  15.2467,        -61.3035,      120.0, n,           , NEIC - TRN,Open,Stowe
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  DSTT,  1998-10 - installed
+  DSTT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DSTT, TR-MDN: ECSN stations from MDN (Dominica) node
+  DSTT, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  DSTT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DWPF
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  DWPF,  Disney Wilderness Preserve, Florida, USA
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DWPF,  28.1103,        -81.4328,     -142,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  DWPF,  00,  BB-3C,  BHZ/1/2,  20, 
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DWPF, E-USGS: ECSN stations from USGS
+  DWPF, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: DWS
+
+Aliases / co-locations
+  DWSV, DWSL, DWST, DWLV, DWLL, DWLT
+
+Name(s)
+  Code,  Name
+  DWS,   Wesley, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DWS,   15.5685,        -61.3113,       61,   y,           , LL spreadsheet
+  DWS,   15.571767,      -61.31107,      61,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+  DWS,   15.5685,        -61.3113,       61.0, n,           , NEIC - TRN,Open,Wesley
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  DWS,   --,  BB-3C,  HHZ/1/2, 100, CMG-40T / DM24
+
+Status
+  Code,  Date         - Status
+  DWS,   2000-05-12 - installed
+  DWS,   2009-11-30   - upgraded station added to earthworm
+  DWS,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  DWS, TR-DWS: ECSN, stations through DWS
+  DWS, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  DWS, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: FCV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  FCV,   Fort Charlotte, St. Vincent
+  FCV,   Fort Charlotte (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  FCV,   13.1570,        -61.2450,      194,   y,           , LL spreadsheet
+  FCV,   13.15700,       -61.24500,     194,   n,           , Soufriere System file
+  FCV,   13.1570,        -61.2450,      194.0, n,           , NEIC - TRN,Open,Fort Charlotte
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  FCV,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  FCV, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  FCV, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  FCV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: FDF
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  FDF,   Fort de France, Guadeloupe 
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  FDF,   14.733330,      -61.15033,     510,   y,           , Soufriere System file
+  FDF,   14.7333,        -61.1503,      510.0, n, , NEIC - FDF,Open,Fort de France (Morne des Cadets)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  FDF, E-IPGP: ECSN stations from IPGP
+  FDF, ECSN-All: Eastern caribbean Seismic Network
+  FDF, E-PRSN: ECSN stations from PRSN
+  FDF, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: FDF
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  FDF,   Fort de France, Guadeloupe 
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  FDF,   14.733330,      -61.15033,     510,   y,           , Soufriere System file
+  FDF,   14.7333,        -61.1503,      510.0, n, , NEIC - FDF,Open,Fort de France (Morne des Cadets)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  FDF, E-IPGP: ECSN stations from IPGP
+  FDF, ECSN-All: Eastern caribbean Seismic Network
+  FDF, E-PRSN: ECSN stations from PRSN
+  FDF, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRCU
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRCU,  Carriacou, Grenada
+  GRCU,  Cariacou (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRCU,  12.4770,        -61.6530,      240,   n,           , LL spreadsheet
+  GRCU,  12.477110,      -61.45295,     240,   y,           , Soufriere System file (elev. from map)
+  GRCU,  12.4711,        -61.4529,      240.0, n,           , NEIC - TRN,Open,Cariacou
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRCU,   Short period, single comp. KEJ project
+
+Status
+  Code,  Date         - Status
+  GRCU,  2001-05-10 - installed
+  GRCU,  2001-07-23 - internet file transfer established
+  GRCU,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRCU, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  GRCU, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  GRCU, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRGR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRGR,  Grenville, Grenada
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRGR,  --,  BB-3C,  BHZ/N/E,  40
+
+Status
+  Code,  Date         - Status
+  GRGR,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRGR, E-IRIS: ECSN stations from IRIS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-USGS: ECSN stations from USGS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-PRSN: ECSN stations from PRSN
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRGR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRGR,  Grenville, Grenada
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRGR,  --,  BB-3C,  BHZ/N/E,  40
+
+Status
+  Code,  Date         - Status
+  GRGR,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRGR, E-IRIS: ECSN stations from IRIS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-USGS: ECSN stations from USGS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-PRSN: ECSN stations from PRSN
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRGR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRGR,  Grenville, Grenada
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRGR,  --,  BB-3C,  BHZ/N/E,  40
+
+Status
+  Code,  Date         - Status
+  GRGR,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRGR, E-IRIS: ECSN stations from IRIS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-USGS: ECSN stations from USGS
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+  GRGR, E-PRSN: ECSN stations from PRSN
+  GRGR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRHS
+
+Aliases / co-locations
+  GRHN, GRHE, GRLV, GRLN, GRLE
+
+Name(s)
+  Code,  Name
+  GRHS,  Sauteurs, Grenada
+  GRHS,  Sauteurs (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRHS,  12.2985,        -61.6120,       20,   n,           , LL spreadsheet
+  GRHS,  12.221750,      -61.64050,      66,   y,           , Soufriere System file (elev. from 1:25k map)
+  GRHS,  12.2239,        -61.6413,       66.0, n,           , NEIC - TRN,Open,Sauteurs
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRHS,   Broadband 3-comp. high gain. KEJ project
+
+Status
+  Code,  Date         - Status
+  GRHS,  2001-05-10 - installed
+  GRHS,  2001-07-23 - internet file transfer established
+  GRHS,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRHS, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  GRHS, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  GRHS, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRIC
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRIC,  Caille Island, Grenadines
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRIC,  12.285600,      -61.58577,      46,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRIC,   Single component, short period stn
+
+Status
+  Code,  Date         - Status
+  GRIC,  2002-05-23
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRIC, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  GRIC, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  GRIC, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRSS
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRSS,  Sisters, Grenada
+  GRSS,  Sisters (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRSS,  12.2985,        -61.6120,       20,   n,           , LL spreadsheet
+  GRSS,  12.298490,      -61.61233,      20,   y,           , Soufriere System file (elev. from map)
+  GRSS,  12.2985,        -61.6123,       20.0, n,           , NEIC - TRN,Open,Sisters
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  GRSS,   Single comp. high gain. KEJ project
+
+Status
+  Code,  Date         - Status
+  GRSS,  2001-05-10 - installed
+  GRSS,  2001-07-23 - internet file transfer established
+  GRSS,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRSS, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  GRSS, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  GRSS, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: GRW
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  GRW,   Mt. St. Catherine, Grenada
+  GRW,   Grenada
+  GRW,   Mount Saint Catherine (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  GRW,   12.1600,        -61.6610,      762,   y,           , LL spreadsheet
+  GRW,   12.160000,      -61.66100,     762,   n,           , Soufriere System file
+  GRW,   12.1600,        -61.6610,      762.0, n,           , NEIC - TRN,Open,Mount Saint Catherine
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  GRW,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  GRW, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  GRW, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  GRW, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: HKT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  HKT,   Hockley, Texas, USA
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  HKT,   29.9500,        -95.8333,     -415,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  HKT,   00,  BB-3C,  BHZ/N/E,  20,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  HKT, E-USGS: ECSN stations from USGS
+  HKT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBFL
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBFL,  Flemmings, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBFL,  16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+  MBFL,  16.7485,        -62.2125,      243,   n,           , Roman2008 [16N44.91 62W12.75 243]
+  MBFL,  16.7485,        -62.2125,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBFL,  --, SP-Z,  SHZ,     100, Mark Products L-4C / DM24
+
+Status
+  Code,  Date         - Status
+  MBFL,  2005         - installed (Roman2008)
+  MBFL, 2009-07-02 11:03:40.11 - first pick in SRC database
+  MBFL, 2009-07-24 03:36:58.67 - last pick in SRC database
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MBFL, E-MVO: ECSN stations from MVO
+  MBFL, ECSN-All: Eastern caribbean Seismic Network
+  MBFL, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBGH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MBGH,  St. Georges Hill, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBGH,  16.722500,      -62.20866,     350,   n,           , Soufriere System file
+  MBGH,  16.726,         -62.2087,        0,   n, 2008-01-13, MVO plot_stations script
+  MBGH,  16.7217,        -62.2068,      351,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MGHZ1643302N 6212408W)
+  MBGH,  16.7225667,     -62.2086333,   350,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGH1643354N 6212518W)
+  MBGH,  16.7225,        -62.208667,    350,   n, 2010-06-18, MVO scientific Report 60 [16:43.35N 62:12.52W 350]
+  MBGH,  16.7225667,     -62.2086333,   350,   n,           , Roman2008 [16N43.354 62W12.518 350]
+  MBGH,  16.7225,        -62.2087,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBGH,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+  MBGH,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+
+Status
+  Code,  Date         - Status
+  MBGH,  1996-10-24   - installed (Roman2008)
+  MBGH, 2002-04-02 08:34:24.88 - first pick in SRC database
+  MBGH, 2009-07-24 03:37:06.74 - last pick in SRC database
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBGH, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBGH, E-MVO: ECSN stations from MVO
+  MBGH, ECSN-All: Eastern caribbean Seismic Network
+  MBGH, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MBWW
+
+Aliases / co-locations
+  MBW2
+
+Name(s)
+  Code,  Name
+  MBW2,  Waterworks, Montserrat (centre microphone)
+  MBWW,  Waterworks, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MBW2,  16.738383,      -62.212033,    151.0, y, 2009-03, GPS - Locko (16N44.303 62W12.723)
+  MBWW,  16.738383,      -62.212050,    152.0, y, 2009-03, GPS - Locko (16N44.303 62W12.722)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MBWW,  --, BB-3C, HHZ/N/E, 100, Guralp CMG-3T / DM24
+
+Status
+  Code,  Date         - Status
+  MBW2,  2009-05-02   - installed
+  MBWW,  2009-05-02   - installed
+  MBWW, 2009-07-02 11:03:40.13 - first pick in SRC database
+  MBWW, 2009-07-24 03:37:06.83 - last pick in SRC database
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  MBWW, 0.0, assumed
+
+Network(s)
+  Code, Network
+  MBW2, MVO-I: Monserrat Volcano Observatory Infrasound
+  MBWW, E-MVO: ECSN stations from MVO
+  MBWW, ECSN-All: Eastern caribbean Seismic Network
+  MBWW, MVO-D: Montserrat Volcano Observatory, digital
+
+Notes
+  Code:  Comment
+  MBW2: Installed and operated by University of Leeds.
+  MBWW: Installed and operated by University of Leeds.
+
+==
+
+Station Code: MCLT
+
+Aliases / co-locations
+  MCHN, MCHE, MCLV, MCLN, MCLE
+
+Name(s)
+  Code,  Name
+  MCLT,  Moule a Chique (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MCLT,  13.7096,        -60.9412,      220,   n,           , LL spreadsheet
+  MCLT,  13.709600,      -60.94120,     220,   n,           , Soufriere System file
+  MCLT,  13.7115,        -60.9426,      161,   n, 2007-12-27, GPS - NaqsView
+  MCLT,  13.711493,      -60.942603,    165.1, n, 2008-06-18, GPS - nmx soh log
+  MCLT,  13.711493,      -60.942603,    220,   y, 2008-06-18, GPS - nmx soh log - assumed 220m altitude
+  MCLT,  13.71129,       -60.94257,     176,   n, 2010-07-22, GPS - Rod (Garmin ETrex)
+  MCLT,  13.7096,        -60.9412,      220.0, n,           , NEIC - TRN,Open,Moule a Chique
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MCLT,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  MCLT,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  MCLT,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MCLT, TR-VSAT: ECSN, VSAT stations
+  MCLT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDCT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MDCT,  Cottage Hill, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDCT,  15.6168,        -61.4629,       77.0, y, 2009-12-04, GPS - Reftek DAS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MDCT,  --,  SP-3C,  EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+
+Status
+  Code,  Date         - Status
+  MDCT,  2009-12-04   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDCT, TR-DWS: ECSN, stations through DWS
+  MDCT, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  MDCT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDMP
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MDMP,  Moore Park, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDMP,  15.5958,        -61.41151,     177,   y, 2010-05-12, from Machel
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MDMP,  --,  SP-Z,   EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+
+Status
+  Code,  Date         - Status
+  MDMP,  2010-01-28   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDMP, TR-DWS: ECSN, stations through DWS
+  MDMP, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  MDMP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDN
+
+Aliases / co-locations
+  MDNV, MDNN, MDNE, MDLV, MDLN, MDLE
+
+Name(s)
+  Code,  Name
+  MDN,   Morne Daniel, Dominica
+  MDN,   Morne Daniel (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDN,   15.3185,        -61.3923,       99,   y,           , LL spreadsheet
+  MDN,   15.318480,      -61.39228,     222.8, n, 2000-11-20, Soufriere System file (revised)
+  MDN,   15.3185,        -61.3923,       99.0, n,           , NEIC - TRN,Open,Morne Daniel
+  MDNE,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+  MDNN,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+  MDNV,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  MDN,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDN, TR-MDN: ECSN stations from MDN (Dominica) node
+  MDN, TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+  MDN, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDPM
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MDPM,  Portsmouth, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDPM,  15.5756,        -61.4517,        8.0, y, 2009-12-04, GPS - Reftek DAS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MDPM,  --,  SP-3C,  EHZ/1/2, 100, L4C / SS-1 / SS-1 / Reftek 130
+
+Status
+  Code,  Date         - Status
+  MDPM,  2009-12-04   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDPM, TR-DWS: ECSN, stations through DWS
+  MDPM, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  MDPM, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDPV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MDPV,  Penville, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDPV,  15.62753,       -61.42221,     282,   y, 2010-05-12, from Machel
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MDPV,  --,  SP-Z,   EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+
+Status
+  Code,  Date         - Status
+  MDPV,  2010-01-28   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDPV, TR-DWS: ECSN, stations through DWS
+  MDPV, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  MDPV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MDVC
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  MDVC,  Vieille Case, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MDVC,  15.6142,        -61.4055,       84.0, y, 2009-12-04, GPS - Reftek DAS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MDVC,  --,  SP-3C,  EHZ/1/2, 100, L4C / Reftek 130
+
+Status
+  Code,  Date         - Status
+  MDVC,  2009-12-04   - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MDVC, TR-DWS: ECSN, stations through DWS
+  MDVC, TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+  MDVC, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MGG
+
+Aliases / co-locations
+  MGGZ
+
+Name(s)
+  Code,  Name
+  MGG,   Marie Galante
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MGG,   15.918000,      -61.31683,      51,   n,           , Soufriere System file
+  MGG,   15.9180,        -61.3170,       51.0, n,           , NEIC - FDF,Open,Marie Galante
+  MGG,   15.918000,      -61.31683,      51.0, n,           , Nisha's spreadsheet
+  MGG,   15.915,         -61.3205,       88.0, y, , MGGZ in file suppplied by station operator (stations_ovsg.en) [1554.90N 6119.23W  88]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MGG,   90, SP-Z,  EHZ,     100, L4C
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MGG, E-IPGP: ECSN stations from IPGP
+  MGG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: MML
+
+Aliases / co-locations
+  MMLL
+
+Name(s)
+  Code,  Name
+  MML,   Martinique
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  MML,   16.0445,        -61.669,      1197.0, y, , MMLL in file suppplied by station operator (stations_ovsg.en) [1602.67N 6140.14W1197]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  MML,   90, BB-3C, HHZ/N/E, 100, Guralp CMG40T-60
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  MML, E-IPGP: ECSN stations from IPGP
+  MML, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: NEV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  NEV,   Gingerland, Nevis
+  NEV,   Hard Times Estate (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  NEV,   17.1361,        -62.5710,      244,   y,           , LL spreadsheet
+  NEV,   17.136110,      -62.57100,     244,   n,           , Soufriere System file
+  NEV,   17.1361,        -62.5710,      244.0, n,           , NEIC - TRN,Open,Hard Times Estate
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  NEV,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  NEV, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  NEV, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  NEV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: NVBH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  NVBH,  Bath Hotel, Nevis
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  NVBH,  17.116928,      -62.61682,      15,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  NVBH,   Single comp.
+
+Status
+  Code,  Date         - Status
+  NVBH,  2002-05-02 - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  NVBH, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  NVBH, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  NVBH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: NVRH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  NVRH,  Round Hill, Nevis
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  NVRH,  17.183518,      -62.60005,     305,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  NVRH,   Single comp.
+
+Status
+  Code,  Date         - Status
+  NVRH,  2002-05-06 - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  NVRH, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  NVRH, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  NVRH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: PSDMZ
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  PSDMZ, Portsmouth, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  PSDMZ, 15.577,         -61.456,         1.0, n, 2009-11-23, Wayne Abraham
+  PSDMZ, 15.57699,       -61.45523,       1.0, y, 2009-11-27, GPS - Reftek DAS
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  PSDMZ, 2009-11-27   - added to earthworm
+  PSDMZ, Station is swampy and noisy
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  PSDMZ, E-DPSN: ECSN stations from Dominica Public Seismic Network
+  PSDMZ, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SABA
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SABA,  Saba
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SABA,  17.617000,      -63.23300,     880,   n,           , Soufriere System file
+  SABA,  17.62050,       -63.24260,     261,   y, 2008-01-17, GPS - from miniseed data header
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SABA,   3C BB
+
+Status
+  Code,  Date         - Status
+  SABA,  2000-01-20 - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SABA, E-KNMI: ECSN stations from KNMI
+  SABA, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SDDR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SDDR,  Presa de Sabaneta, Dominican Republic
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SDDR,  18.9821,        -71.2878,      589,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SDDR,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SDDR, E-IRIS: ECSN stations from IRIS
+  SDDR, ECSN-All: Eastern caribbean Seismic Network
+  SDDR, E-USGS: ECSN stations from USGS
+  SDDR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SDDR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SDDR,  Presa de Sabaneta, Dominican Republic
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SDDR,  18.9821,        -71.2878,      589,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SDDR,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SDDR, E-IRIS: ECSN stations from IRIS
+  SDDR, ECSN-All: Eastern caribbean Seismic Network
+  SDDR, E-USGS: ECSN stations from USGS
+  SDDR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SDV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SDV,   Santo Domingo, Venezuela
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SDV,    8.8861,        -70.6333,     1580,   y,           , NEIC
+  SDV,    8.886100,      -70.63333,    1580,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SDV,   00,  BB-3C,  BHZ/N/E,  20,
+  SDV,    S-13
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SDV, E-USGS: ECSN stations from USGS
+  SDV, ECSN-All: Eastern caribbean Seismic Network
+  SDV, E-PRSN: ECSN stations from PRSN
+  SDV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SDV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SDV,   Santo Domingo, Venezuela
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SDV,    8.8861,        -70.6333,     1580,   y,           , NEIC
+  SDV,    8.886100,      -70.63333,    1580,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SDV,   00,  BB-3C,  BHZ/N/E,  20,
+  SDV,    S-13
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SDV, E-USGS: ECSN stations from USGS
+  SDV, ECSN-All: Eastern caribbean Seismic Network
+  SDV, E-PRSN: ECSN stations from PRSN
+  SDV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SEUS
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SEUS,  17.49280,       -62.98140,     460,   y, 2008-01-17, GPS - from miniseed data header
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SEUS, E-KNMI: ECSN stations from KNMI
+  SEUS, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SFAN
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SFAN,  Fancy, St. Vincent
+  SFAN,  Fancy Village (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SFAN,  13.3838,        -61.1721,       23,   n,           , LL spreadsheet
+  SFAN,  13.383796,      -61.17211,     229,   n,           , Soufriere System file
+  SFAN,  13.3825833,     -61.1655667,     0,   n, 2007,       GPS - Ian (13N22.955 61W09.934)
+  SFAN,  13.3825833,     -61.1655667,   229,   y, 2007,       GPS - Ian (13N22.955 61W09.934) - assumed 229m altitude
+  SFAN,  13.3838,        -61.1721,      229.0, n,           , NEIC - TRN,Open,Fancy Village
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SFAN,  1999-08-20 - installed
+  SFAN,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SFAN, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  SFAN, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  SFAN, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SJG
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SJG,   San Juan, Puerto Rico, USA
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SJG,   18.1117,        -66.1500,      457,   y,           , NEIC
+  SJG,   18.108333,      -66.15083,     457,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SJG,   00,  BB-3C,  BHZ/N/E,  20,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SJG, E-USGS: ECSN stations from USGS
+  SJG, ECSN-All: Eastern caribbean Seismic Network
+  SJG, E-PRSN: ECSN stations from PRSN
+  SJG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SJG
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SJG,   San Juan, Puerto Rico, USA
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SJG,   18.1117,        -66.1500,      457,   y,           , NEIC
+  SJG,   18.108333,      -66.15083,     457,   n,           , Soufriere System file
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SJG,   00,  BB-3C,  BHZ/N/E,  20,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SJG, E-USGS: ECSN stations from USGS
+  SJG, ECSN-All: Eastern caribbean Seismic Network
+  SJG, E-PRSN: ECSN stations from PRSN
+  SJG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SKDB
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SKDB,  Dieppe, St. Kitts
+  SKDB,  Saint Kitts 2 (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SKDB,  17.396900,      -62.80833,      10,   n,           , Soufriere System file
+  SKDB,  17.3969,        -62.8083,        0.0, n,           , NEIC - TRN,Open,Saint Kitts 2
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SKDB,   Single component
+
+Status
+  Code,  Date         - Status
+  SKDB,  1988-01-01 - opened
+  SKDB,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SKDB, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  SKDB, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  SKDB, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SKI
+
+Aliases / co-locations
+  SKIV, SKIN, SKIE, SKLV, SKLN, SKLE
+
+Name(s)
+  Code,  Name
+  SKI,   Bayford’s Farm, St. Kitts
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SKI,   17.3330,        -62.7390,      306,   n,           , LL spreadsheet
+  SKI,   17.33380,       -62.73800,     274.5, n, 2007-05-27, GPS - nmx soh log
+  SKI,   17.333330,      -62.73900,     306,   n,           , Soufriere System file
+  SKI,   17.33380,       -62.73800,     306,   y, 2007-05-27, GPS - nmx soh log (assumed 306m alt)
+  SKI,   17.3338,        -62.7380,      277,   n, 2007-12-27, GPS - NaqsView
+  SKI,   17.333800,      -62.737997,    273.2, n, 2008-06-18, GPS - nmx soh log
+  SKI,   17.3333,        -62.7390,      306.0, n,           , NEIC - TRN,Open,Saint Kitts (Bayfords)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SKI,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+  SKI,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  SKI,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SKI,   1956 - opened
+  SKI,   2000-01-26 - 3C installed
+  SKI,   2000-09-23 - internet connection established
+  SKI,   2007-05-26 - CMG-40T disconnected from Soufriere system
+  SKI,   2007-05-26 - Nanometrics system installed at station, new vault for sensors
+  SKI,   2007-06-04 08:50 UTC - BHZ showing 10-20s single pulses, possible faulty seismometer
+  SKI,   2007-06-05 03:07 UTC - BHZ pulses stopped
+  SKI,   2007-08-19 02:03 - 22:30 UTC - Outage 
+  SKI,   2007-08-19 23:05 - 2007-08-26 20:15 UTC - Outage
+  SKI,   2007-08-27 03:50 - 2007-10-15 15:00 UTC - Outage. Faulty power supply.
+  SKI,   2007-11-06 05:05 UTC - 2007-11-11 23:00 - BHZ showing 10-20s single pulses, possible faulty seismometer
+  SKI,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SKI, TR-VSAT: ECSN, VSAT stations
+  SKI, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SKTB
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SKTB,  Turtle Beach, St. Kitts
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SKTB,  17.229136,      -62.63940,      16,   n, 2003-02   , coords from JS digitised map (Soufriere System file)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SKTB,   V SP
+
+Status
+  Code,  Date         - Status
+  SKTB,  2003-02-10 - installed
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SKTB, TR-SKI: ECSN stations from SKI (St. Kitts) node
+  SKTB, TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+  SKTB, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLB
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SLB,   Belfond, St. Lucia
+  SLB,   Belfond (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLB,   13.8258,        -61.0408,      600,   n,           , LL spreadsheet
+  SLB,   13.825830,      -61.04083,     600,   n,           , Soufriere System file
+  SLB,   13.8275667,     -61.04125,       0,   n, 2007,       GPS - Ian (13N49.654 61W02.475)
+  SLB,   13.8275667,     -61.04125,     600,   y, 2007,       GPS - Ian (13N49.654 61W02.475) - assumed 600m altitude
+  SLB,   13.8275,        -61.0412,      600.0, n,           , NEIC - TRN,Open,Belfond
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLB,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLB, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  SLB, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  SLB, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLDE
+
+Aliases / co-locations
+  SLD
+
+Name(s)
+  Code,  Name
+  SLD,   Delcer, St. Lucia
+  SLDE,  Delcer, St. Lucia
+  SLDE,  Delcer (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLD,   13.801814,      -61.05114,     800,   n, 2000-10   , GPS - Chan (elev. to be adjusted) (Soufriere System file)
+  SLDE,  13.8031,        -61.0583,      246,   n,           , LL spreadsheet
+  SLDE,  13.803083,      -61.05825,     246,   n,           , GPS - Jerome David (Garmin GPS12XL) (Soufriere System file)
+  SLDE,  13.80395,       -61.05955,       0,   n, 2007,       GPS - Ian (13N48.237 61W03.573)
+  SLDE,  13.80395,       -61.05955,     246,   y, 2007,       GPS - Ian (13N48.237 61W03.573) - assumed 246m altitude
+  SLDE,  13.8031,        -61.0582,      246.0, n,           , NEIC - TRN,Open,Delcer
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLD,   2000-10 - installed
+  SLD,   2001-04-03 - closed, renamed SLDE
+  SLDE,  2000-10 - installed (as SLD)
+  SLDE,  2001-04-05 - renamed SLDE
+  SLDE,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLD, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLD, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLD, ECSN-All: Eastern caribbean Seismic Network
+  SLDE, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLDE, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLDE, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLPA
+
+Aliases / co-locations
+  SLP
+
+Name(s)
+  Code,  Name
+  SLP,   Patience, St. Lucia
+  SLPA,  Patience, St. Lucia
+  SLPA,  Patience (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLP,   13.853670,      -60.91900,       0,   n, 2000-10   , GPS - Chan (elev. to be adjusted) 
+  SLPA,  13.8537,        -60.9190,      183,   y,           , LL spreadsheet
+  SLPA,  13.853670,      -60.91900,     183,   n,           , GPS - Jerome David (Garmin GPS12XL)
+  SLPA,  13.8537,        -60.9190,      183.0, n,           , NEIC - TRN,Open,Patience
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLP,   2000-10 - installed
+  SLP,   2001-04-03 - closed, renamed SLPA
+  SLPA,  2000-10 - installed as SLP
+  SLPA,  2001-04-03 - renamed SLPA
+  SLPA,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLP, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLP, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLP, ECSN-All: Eastern caribbean Seismic Network
+  SLPA, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLPA, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLPA, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLPE
+
+Aliases / co-locations
+  SLR
+
+Name(s)
+  Code,  Name
+  SLPE,  Piton St. Espirit, St. Lucia
+  SLPE,  Piton Saint Espirit (NEIC)
+  SLR,   Piton St. Espirit
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLPE,  13.8431,        -60.9952,      460,   y,           , LL spreadsheet
+  SLPE,  13.843133,      -60.99520,     460,   n, 2001-10-07, GPS - Chan (elev. to be revised) (Soufriere System file)
+  SLPE,  13.8431,        -60.9952,      460.0, n,           , NEIC - TRN,Open,Piton Saint Espirit
+  SLR,   13.843133,      -60.99520,       0,   n, 2001-04-07, GPS - Chan (elev. to be revised) (Soufriere System file)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLPE,  2001-07-04 - installed (as SLR)
+  SLPE,  2001-07-10 - renamed SLPE
+  SLPE,  Open (NEIC)
+  SLR,   2001-07-04 - installed
+  SLR,   2001-07-10 - closed, renamed SLPE
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLPE, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLPE, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLPE, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLTA
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SLTA,  Morne Tabac, St. Lucia
+  SLTA,  Morne Tabac (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLTA,  13.8704,        -61.0399,      550,   y,           , LL spreadsheet
+  SLTA,  13.870350,      -61.03992,     550,   n,           , GPS - Chan (elev. fixed at 1800') (Soufriere System file)
+  SLTA,  13.8704,        -61.0399,      550.0, n,           , NEIC - TRN,Open,Morne Tabac
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLTA,  2001-04-07 - installed (as SLT)
+  SLTA,  Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLTA, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLTA, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLTA, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SLW
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SLW,   Petit Monier, St. Lucia
+  SLW,   Petit Monier (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SLW,   14.0200,        -60.9360,      366,   y,           , LL spreadsheet
+  SLW,   14.020000,      -60.93600,     366,   n,           , Soufriere System file
+  SLW,   14.0202,        -60.9384,      366.0, n,           , NEIC - TRN,Open,Petit Monier
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SLW,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SLW, TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+  SLW, TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+  SLW, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SMRT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SMRT,  18.05050,       -63.07460,     260,   y, 2008-01-17, GPS - from miniseed data header
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SMRT, E-KNMI: ECSN stations from KNMI
+  SMRT, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SSPL
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SSPL, TR-GRHS: ECSN stations from GRHS (Grenada) node
+  SSPL, TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+  SSPL, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SSV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SSV,   Summit, St. Vincent
+  SSV,   Crater Summit (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SSV,   13.3270,        -61.1930,      824,   y,           , LL spreadsheet
+  SSV,   13.327000,      -61.19300,     824,   n,           , Soufriere System file
+  SSV,   13.3270,        -61.1930,      824.0, n,           , NEIC - TRN,Open,Crater Summit
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SSV,   2003-10-04 - re-installed
+  SSV,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SSV, TR-SSVW: ECSN stations from SSVW
+  SSV, ECSN-All: Eastern caribbean Seismic Network
+  SSV, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  SSV, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  SSV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SSVW
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SSVW, TR-SSVW: ECSN stations from SSVW
+  SSVW, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SVB
+
+Aliases / co-locations
+  SVBV, SVBN, SVBE
+
+Name(s)
+  Code,  Name
+  SVB,   Belmont, St. Vincent
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SVB,   13.2720,        -61.2520,      282,   n,           , LL spreadsheet
+  SVB,   13.2745555555,  -61.25041667,  239.9, n, 2007-05-20, GPS - ss time server
+  SVB,   13.27444,       -61.25037,     274.2, n, 2007-05-20, GPS - Rod (Nokia n800 hdop 0.9 pdop 1.4 vdop 1.2)
+  SVB,   13.27450,       -61.25040,     251.6, n, 2007-05-27, GPS - nmx soh log
+  SVB,   13.272000,      -61.25200,     282,   n,           , Soufriere System file
+  SVB,   13.27450,       -61.25040,     282,   y, 2007-05-27, GPS - nmx soh log (assumed 282m
+  SVB,   13.2745,        -61.2504,      255,   n, 2007-12-27, GPS - NaqsView
+  SVB,   13.274497,      -61.250403,    250.7, n, 2008-06-18, GPS - nmx soh log
+  SVB,   13.2720,        -61.2520,      282.0, n,           , NEIC - TRN,Open,Belmont
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SVB,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+  SVB,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  SVB,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SVB,   1999-09-20 - 3C BB installed
+  SVB,   2007-05-21 - CMG-40T disconnected from Soufriere system
+  SVB,   2007-05-21 - Noted that CMG-40T oriented with N towards volcano
+  SVB,   2007-05-22 - FBA - Accelerometer not bolted to plexiglass plate (no drill).
+  SVB,   2007-05-22 - FBA - No insulation installed.
+  SVB,   2007-05-22 - FBA - Plexiglass plate does not bond well to (tile) cement being used.
+  SVB,   2007-05-22 - Nanometrics system installed at station, new vault for sensors, ~10m from previous
+  SVB,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  SVB, -14.55, 2008-06-06, http://www.ngdc.noaa.gov/geomagmodels/Declination.jsp
+
+Network(s)
+  Code, Network
+  SVB, TR-VSAT: ECSN, VSAT stations
+  SVB, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SVCV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SVCV, TR-SVCV: ECSN stations from SVCV
+  SVCV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SVV
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  SVV,   Wallibou, St. Vincent
+  SVV,   Soufriere Volcano (Wallibou) (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SVV,   13.3180,        -61.2160,      243,   y,           , LL spreadsheet
+  SVV,   13.31800,       -61.21600,     243,   n,           , Soufriere System file
+  SVV,   13.3180,        -61.2160,      243.0, n,           , NEIC - TRN,Open,Soufriere Volcano (Wallibou)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  SVV,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SVV, TR-SVB: ECSN stations from SVB (St. Vincent) node
+  SVV, TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+  SVV, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TBG
+
+Aliases / co-locations
+  TBGZ
+
+Name(s)
+  Code,  Name
+  TBG,   Martinique
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TBG,   15.852,         -61.645333,     92.0, y, , TBGZ in file suppplied by station operator (stations_ovsg.en) [1551.12N 6138.72W  92]
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  TBG,   90, SP-Z,  EHZ,     100, L4C
+
+Status
+  Code,  Date         - Status
+  TBG,  2006-11-26   - opened
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TBG, E-IPGP: ECSN stations from IPGP
+  TBG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TBH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TBH,   Brigand Hill, Trinidad
+  TBH,   Brigand Hill (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TBH,   10.4840,        -61.0670,      199,   y,           , LL spreadsheet
+  TBH,   10.484000,      -61.06700,     199,   n,           , Soufriere System file
+  TBH,   10.4840,        -61.0670,      199.0, n,           , NEIC - TRN,Open,Brigand Hill
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  TBH,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TBH, TR-TRN: ECSN stations from TRN node
+  TBH, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  TBH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TCE
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TCE,   Chacachacare, Trinidad
+  TCE,   Chacachacare (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TCE,   10.6970,        -61.7530,      240,   y,           , LL spreadsheet
+  TCE,   10.69700,       -61.75300,     240,   n,           , Soufriere System file
+  TCE,   10.6970,        -61.7530,      240.0, n,           , NEIC - TRN,Open,Chacachacare
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  TCE,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TCE, TR-TRN: ECSN stations from TRN node
+  TCE, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  TCE, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TEIG
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TEIG,  Tepich, Yucatan, Mexico
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TEIG,  20.2263,        -88.2764,       69,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  TEIG,  10,  BB-3C,  BHZ/1/2,  20,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TEIG, E-USGS: ECSN stations from USGS
+  TEIG, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TGUH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TGUH,  Tegucigalpa, Honduras
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TGUH,  14.0570,        -87.2730,        0,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  TGUH,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TGUH, E-IRIS: ECSN stations from IRIS
+  TGUH, ECSN-All: Eastern caribbean Seismic Network
+  TGUH, E-USGS: ECSN stations from USGS
+  TGUH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TGUH
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TGUH,  Tegucigalpa, Honduras
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TGUH,  14.0570,        -87.2730,        0,   y,           , NEIC
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  TGUH,  --,  BB-3C,  BHZ/N/E,  40,
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TGUH, E-IRIS: ECSN stations from IRIS
+  TGUH, ECSN-All: Eastern caribbean Seismic Network
+  TGUH, E-USGS: ECSN stations from USGS
+  TGUH, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TOSP
+
+Aliases / co-locations
+  SPEY, TOBB
+
+Name(s)
+  Code,  Name
+  SPEY,  Speyside, Tobago
+  TOSP,  Speyside, Tobago
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TOSP,  11.298342,      -60.535194,    -11.3, n, 2007-05-27, GPS - nmx soh log
+  TOSP,  11.298342,      -60.535194,      5,   y, 2007-05-27, GPS - nmx soh log (assumed 5m alt)
+  TOSP,  11.29835,       -60.5352,      210,   n,           , initially used in ss, 210 km alt (11N 7.901,60W 32.112) 
+  TOSP,  11.2983,        -60.5352,      -15,   n, 2007-12-27, GPS - NaqsView
+  TOSP,  11.298342,      -60.535198,    -12.6, n, 2008-06-18, GPS - nmx soh log
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SPEY,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident 
+  SPEY,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+  SPEY,  --,  BB-3C,  HHZ/1/2,  100, CMG-40T/Trident 
+  SPEY,  --,  AC-3C,  HLZ/1/2,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SPEY,  2007-05-20 - Installed
+  SPEY,  2007-05-20 - Recorded as MTOB
+  SPEY,  2007-05-22 - Christian (Guadeloupe) thinks the alignments are wrong, 14.1 deg W of Magnetic instead of E
+  SPEY,  2007-05-27 - Code changed to SPEY
+  SPEY,  2007-09-17 21:30 UTC. No data. 
+  SPEY,  2007-09-18 19:16 UTC. Data from SPEY. Broadband looks unwell. Large DC offset and long period signals.
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  SPEY, -14.75, 2007-08-05, http://www.ngdc.noaa.gov/seg/geomag/jsp/Declination.jsp
+
+Network(s)
+  Code, Network
+  TOSP, TR-VSAT: ECSN, VSAT stations
+  TOSP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TPP
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TPP,   Point-a-Pierre, Trinidad
+  TPP,   Pointe-a-Pierre (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TPP,   10.3170,        -61.4510,       46,   y,           , LL spreadsheet
+  TPP,   10.31700,       -61.45100,      46,   n,           , Soufriere System file
+  TPP,   10.3170,        -61.4510,       46.0, n,           , NEIC - TRN,Open,Pointe-a-Pierre
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  TPP,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TPP, TR-TRN: ECSN stations from TRN node
+  TPP, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  TPP, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TPR
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TPR,   Prospect, Tobago
+  TPR,   Prospect (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TPR,   11.1860,        -60.7770,      245,   y,           , LL spreadsheet
+  TPR,   11.18600,       -60.77700,     245,   n,           , Soufriere System file
+  TPR,   11.18813,       -60.77513,       0,   n, 2007-08-28, GPS - Ian (11N11.288 60W46.508)
+  TPR,   11.1860,        -60.7770,      245.0, n,           , NEIC - TRN,Open,Prospect
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  TPR,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TPR, TR-TRN: ECSN stations from TRN node
+  TPR, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  TPR, ECSN-All: Eastern caribbean Seismic Network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TRN
+
+Aliases / co-locations
+  GTV, GTN, GTE, GLV, GLN, GLE
+
+Name(s)
+  Code,  Name
+  TRN,   St. Augustine, Trinidad
+  TRN,   Trinidad (Saint Augustine) (NEIC)
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TRN,   10.6480,        -61.4030,       24,   y,           , LL spreadsheet
+  TRN,   10.648000,      -61.40300,      24,   n,           , Soufriere System file
+  TRN,   10.6480,        -61.4030,       24.0, n,           , NEIC - TRN,Open,Trinidad (Saint Augustine)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+  TRN,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TRN, TR-SRC: ECSN stations at SRC
+  TRN, ECSN-All: Eastern caribbean Seismic Network
+  TRN, TR-TRN: ECSN stations from TRN node
+  TRN, TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+  TRN, ECSN-All: Eastern caribbean Seismic Network
+  TRN, CALIPSO: CALIPSO borehole stations
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TRNT
+
+Aliases / co-locations
+
+Name(s)
+  Code,  Name
+  TRNT,  Trants, Montserrat
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TRNT,  16.764,         -62.163,         0,   n, 2008-04-06, Supplied by CALIPSO people
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+
+Status
+  Code,  Date         - Status
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  TRNT, TR-SRC: ECSN stations at SRC
+  TRNT, ECSN-All: Eastern caribbean Seismic Network
+  TRNT, CALIPSO: CALIPSO borehole stations
+
+Notes
+  Code:  Comment
+
+==
+

@@ -1,0 +1,1272 @@
+# Seismic Stations - locations
+# Code,    Lat,            Long,     Elev, Primary,   Date, Source
+TBH,   10.4840,        -61.0670,      199,   y,           , LL spreadsheet
+TPP,   10.3170,        -61.4510,       46,   y,           , LL spreadsheet
+TCE,   10.6970,        -61.7530,      240,   y,           , LL spreadsheet
+BOT,   11.1660,        -60.7180,       30,   y,           , LL spreadsheet
+TPR,   11.1860,        -60.7770,      245,   y,           , LL spreadsheet
+TRN,   10.6480,        -61.4030,       24,   y,           , LL spreadsheet
+TPTC,  10.6800,        -61.5700,        5,   y,           , LL spreadsheet
+TWMO,  10.6700,        -61.5600,        5,   n,           , LL spreadsheet
+TTBR,  10.8600,        -61.9400,        9,   y,           , LL spreadsheet
+BUAY,  10.1072,        -61.6862,        0,   n,           , LL spreadsheet
+SIPA,  10.1429,        -61.5060,       25,   y,           , LL spreadsheet
+ALNG,  10.1814,        -61.6883,       10,   y,           , LL spreadsheet
+GRW,   12.1600,        -61.6610,      762,   y,           , LL spreadsheet
+GRCU,  12.4770,        -61.6530,      240,   n,           , LL spreadsheet
+GRSS,  12.2985,        -61.6120,       20,   n,           , LL spreadsheet
+GRHS,  12.2985,        -61.6120,       20,   n,           , LL spreadsheet
+BBSP,  13.1045,        -59.4579,       35,   y,           , LL spreadsheet
+FCV,   13.1570,        -61.2450,      194,   y,           , LL spreadsheet
+SVV,   13.3180,        -61.2160,      243,   n,           , LL spreadsheet
+SSV,   13.3270,        -61.1930,      824,   y,           , LL spreadsheet
+BHS,   13.2960,        -61.1270,       90,   n,           , LL spreadsheet
+SFAN,  13.3838,        -61.1721,       23,   n,           , LL spreadsheet
+SVB,   13.2720,        -61.2520,      282,   n,           , LL spreadsheet
+SLW,   14.0200,        -60.9360,      366,   y,           , LL spreadsheet
+SLDE,  13.8031,        -61.0583,      246,   n,           , LL spreadsheet
+SLPE,  13.8431,        -60.9952,      460,   y,           , LL spreadsheet
+SLTA,  13.8704,        -61.0399,      550,   y,           , LL spreadsheet
+SLPA,  13.8537,        -60.9190,      183,   y,           , LL spreadsheet
+SLB,   13.8258,        -61.0408,      600,   n,           , LL spreadsheet
+MCLT,  13.7096,        -60.9412,      220,   n,           , LL spreadsheet
+DBCT,  15.2708,        -61.3456,      527,   n,           , LL spreadsheet
+DFBT,  15.2402,        -61.3559,       83,   y,           , LL spreadsheet
+DLVT,  15.4365,        -61.3496,      274,   y,           , LL spreadsheet
+DPMT,  15.2609,        -61.3770,       50,   y,           , LL spreadsheet
+DSHT,  15.2136,        -61.3737,      134,   y,           , LL spreadsheet
+DSTT,  15.2467,        -61.3035,      120,   y,           , LL spreadsheet
+DVDT,  15.3105,        -61.3134,      960,   n,           , LL spreadsheet
+BBL,   15.5262,        -61.4699,      265,   n,           , LL spreadsheet
+MDN,   15.3185,        -61.3923,       99,   y,           , LL spreadsheet
+DWS,   15.5685,        -61.3113,       61,   y,           , LL spreadsheet
+ANG,   17.1550,        -61.8300,       27,   y,           , LL spreadsheet
+CPB,   17.6400,        -61.8260,        5,   y,           , LL spreadsheet
+MJHT,  17.7670,        -62.1697,      187,   n,           , LL spreadsheet
+MGH,   16.7200,        -62.2160,      351,   n,           , LL spreadsheet
+MRYT,  16.7038,        -62.1532,      355,   y,           , LL spreadsheet
+NEV,   17.1361,        -62.5710,      244,   y,           , LL spreadsheet
+BPA,   17.0460,        -61.8570,      396,   y,           , LL spreadsheet
+SKI,   17.3330,        -62.7390,      306,   n,           , LL spreadsheet
+STMA,  18.0430,        -63.1090,       28,   y,           , LL spreadsheet
+SABT,  17.6170,        -62.2330,      880,   y,           , LL spreadsheet
+STAT,  17.4852,        -62.9589,      132,   y,           , LL spreadsheet
+SJG,   18.1117,        -66.1500,      457,   y,           , NEIC
+SDV,    8.8861,        -70.6333,     1580,   y,           , NEIC
+TGUH,  14.0570,        -87.2730,        0,   y,           , NEIC
+BCIP,   9.1665,        -79.8373,       61,   y,           , NEIC
+TEIG,  20.2263,        -88.2764,       69,   y,           , NEIC
+SDDR,  18.9821,        -71.2878,      589,   y,           , NEIC
+BBSR,  32.3712,        -64.6962,      -25,   y,           , NEIC
+DWPF,  28.1103,        -81.4328,     -142,   y,           , NEIC
+HKT,   29.9500,        -95.8333,     -415,   y,           , NEIC
+SVB,   13.2745555555,  -61.25041667,  239.9, n, 2007-05-20, GPS - ss time server
+SVB,   13.27444,       -61.25037,     274.2, n, 2007-05-20, GPS - Rod (Nokia n800 hdop 0.9 pdop 1.4 vdop 1.2)
+SKI,   17.33380,       -62.73800,     274.5, n, 2007-05-27, GPS - nmx soh log
+TOSP,  11.298342,      -60.535194,    -11.3, n, 2007-05-27, GPS - nmx soh log
+TOSP,  11.298342,      -60.535194,      5,   y, 2007-05-27, GPS - nmx soh log (assumed 5m alt)
+SVB,   13.27450,       -61.25040,     251.6, n, 2007-05-27, GPS - nmx soh log
+ABG,   16.032300,      -61.66030,    1150,   n,           , Soufriere System file
+ABV,   18.732000,      -64.33700,       0,   n,           , Soufriere System file
+AECU   -0.270500,      -78.40700,    3000,   n,           , Soufriere System file
+AGP,   18.407777,      -67.14027,     220,   n,           , Soufriere System file
+ALM,   14.80450,       -61.15650,     844,   n,           , Soufriere System file
+ALNG,  10.181417,      -61.68825,       0,   n,           , Soufriere System file
+ANCC,   3.515333,      -76.86667,     540,   n,           , Soufriere System file
+ANG,   17.155000,      -61.83000,      27,   n,           , Soufriere System file
+ANGV,   9.705000,      -69.52170,     680,   n,           , Soufriere System file
+ANT,  -23.705000,      -70.41530,      80,   n,           , Soufriere System file
+ANVI,  18.740000,      -64.34000,       0,   n, 2003-04-01, Soufriere System file (estimated coordinates)
+APR,   18.442222,      -66.72472,      53,   n,           , Soufriere System file
+ATB,   -3.287800,      -52.22500,     150,   n,           , Soufriere System file
+AWI,   17.14300,       -61.83500,      23,   n,           , Soufriere System file
+B5GA,  13.076700,      -59.59550,      35,   n,           , Soufriere System file
+B5GE,  13.076720,      -59.59550,      34.5, n,           , Soufriere System file
+B5GN,  13.076720,      -59.59550,      34.5, n,           , Soufriere System file
+B5GV,  13.076720,      -59.59917,      34.5, n,           , Soufriere System file
+BAC,   11.16667,       -60.71795,      30,   n,           , Soufriere System file
+BACH, -33.352800,      -70.49170,     820,   n,           , Soufriere System file
+BAM,   14.815670,      -61.14833,     670,   n,           , Soufriere System file
+BAU,   10.506500,      -66.48200,    1976,   n,           , Soufriere System file
+BAUT,  10.506500,      -66.48200,    1976,   n,           , Soufriere System file
+BAUV,   8.943300,      -68.04150,     106,   n,           , Soufriere System file
+BBJ,   18.38300,       -77.26700,     641,   n,           , Soufriere System file
+BBL,   15.526200,      -61.46996,     365,   n,           , Soufriere System file
+BBP,   17.64000,       -61.82600,       5,   n,           , Soufriere System file
+BBSP,  13.104472,      -59.45789,      35,   n,           , Soufriere System file
+BDH,   13.202850,      -59.58900,     308,   n,           , Soufriere System file
+BDS,   13.14600,       -59.62600,     110,   n,           , Soufriere System file
+BECU,  -0.474667,      -78.42950,    3320,   n,           , Soufriere System file
+BEV,   18.45167,       -77.30000,     123,   n,           , Soufriere System file
+BHS,   13.29632,       -61.12716,      90,   n,           , Soufriere System file
+BIM,   14.51700,       -61.07083,     425,   n,           , Soufriere System file
+BIRV,  10.475600,      -66.26930,     200,   n,           , Soufriere System file
+BLV,    8.190830,      -71.82556,    1110,   n,           , Soufriere System file
+BNI,   45.052694         6.67517,       0,   n,           , Soufriere System file
+BOG,    4.62306        -74.06500,    2658,   n,           , Soufriere System file
+BOT,   11.16667,       -60.71795,      30,   n,           , Soufriere System file
+BPA,   17.046000,      -61.85700,     396,   n,           , Soufriere System file
+BRB,   13.12200,       -59.60600,      55,   n,           , Soufriere System file
+BRG,   16.085000,      -61.61967,     442,   n,           , Soufriere System file
+BRJ,   18.03333,       -77.86833,       8,   n,           , Soufriere System file
+BSF,   47.831944,        6.79222,    1200,   n,           , Soufriere System file
+BSK,   17.347000,      -62.84000,     125,   n,           , Soufriere System file
+BSP,   13.104472,      -59.45789,      35,   n,           , Soufriere System file
+BTG,   15.99000,       -61.71917,      42,   n,           , Soufriere System file
+BUAY,  10.107230,      -61.68618,       0,   n,           , Soufriere System file
+BVI,   18.410000,      -64.61000,     100,   n,           , Soufriere System file
+BVM,   14.735000,      -61.08000,     694,   n,           , Soufriere System file (elev. to be revised)
+BWI,   17.66500,       -61.79000,      10,   n,           , Soufriere System file
+CABA,   7.855800,      -71.50220,    1600,   n,           , Soufriere System file
+CAG,   16.05417,       -61.65917,    1370,   n,           , Soufriere System file
+CAGI,  10.506800,      -66.92750,    1035,   n,           , Soufriere System file
+CAIV,   7.198000,      -66.19210,      76,   n,           , Soufriere System file
+CAM,   14.75367,       -60.76550,     180,   n,           , Soufriere System file
+CAMV,  10.550500,      -63.32220,    1002,   n,           , Soufriere System file
+CANV,  11.038670,      -68.82800,     450,   n,           , Soufriere System file
+CAR,   10.504000,      -66.92817,    1075,   n,           , Soufriere System file
+CARU,  10.118500,      -63.11250,      40,   n,           , Soufriere System file
+CATA,  10.600800,      -63.07017,     360,   n,           , Soufriere System file
+CBY,   18.271670,      -65.85667,     550,   n,           , Soufriere System file
+CBYP,  18.270000,      -65.86000,     550,   n,           , Soufriere System file
+CCA,   18.069660       -66.32633,     210,   n,           , Soufriere System file
+CDF,   48.412222,        7.27611,    1068,   n,           , Soufriere System file
+CDP,   18.175000,      -66.59133,    1300,   n,           , Soufriere System file
+CECU,  -0.476167,      -77.87033,    2220,   n,           , Soufriere System file
+CEDI,   7.654000,      -71.88500,       9,   n,           , Soufriere System file
+CELP,  18.075000,      -66.57944,     195,   n,           , Soufriere System file
+CENE,   7.764000,      -71.33280,     400,   n,           , Soufriere System file
+CEOS,   9.029830,      -68.34333,     427,   n,           , Soufriere System file
+CGP,   17.76400,       -64.58400,       0,   n,           , Soufriere System file
+CGV,   18.13200,       -65.31700,       0,   n,           , Soufriere System file
+CHA,   13.858300,      -61.06430,     242,   n,           , Soufriere System file
+CLLP,  18.070500,      -66.57550,     195,   n,           , Soufriere System file
+CME,   20.06667,       -76.98333,       0,   n,           , Soufriere System file
+COAV,  10.157800,      -63.82660,    1232,   n,           , Soufriere System file
+CPA,   18.153330,      -66.08028,       0,   n,           , Soufriere System file (elev. to be revised)
+CPB,   17.640000,      -61.82600,       5,   n,           , Soufriere System file
+CPD,   18.036670,      -65.91500,     370,   n,           , Soufriere System file
+CPM,   14.81556,       -61.21050,     335,   n,           , Soufriere System file
+CRM,   14.75367,       -60.91550,     180,   n,           , Soufriere System file
+CRUV,   0.616600,      -63.18330,     608,   n,           , Soufriere System file
+CSB,   18.293060,      -66.15972,     430,   n,           , Soufriere System file
+CSJ,   18.38300,       -65.61800,       0,   n,           , Soufriere System file
+CUC,   21.19833,       -77.40689,       0,   n,           , Soufriere System file
+CUM,   10.416000,      -64.01940,      34,   n,           , Soufriere System file
+CUMV,  10.465000,      -64.16940,      24,   n,           , Soufriere System file
+CUP,   18.33500,       -65.30800,       0,   n,           , Soufriere System file
+CUPV,  10.063900,      -65.80560,     634,   n,           , Soufriere System file
+DABV,  10.921800,      -70.63660,     220,   n,           , Soufriere System file
+DBCT,  15.271500,      -61.34367,     527,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+DEG,   16.313167,      -61.06183,     275,   n,           , Soufriere System file
+DFBT,  15.239250,      -61.35335,      83,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+DGBT,  15.239230,      -61.32937,      77.5, n,           , Soufriere System file
+DHCT,  15.570000,      -61.42000,       0,   n, 2003-05-05, GPS - Chan (Soufriere System file)
+DIAC,   3.291333,      -76.19733,    1520,   n,           , Soufriere System file
+DIX,   46.080500,        7.41083,    2400,   n,           , Soufriere System file
+DLVT,  15.432250,      -61.38883,     274.3, n, 2002-12-30, GPS - Chan (Soufriere System file)
+DOG,   16.03200,       -61.61783,     460,   n,           , Soufriere System file
+DOM,   15.29600,       -61.39100,      15,   n,           , Soufriere System file
+DPMT,  15.259130,      -61.37902,      50,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+DSC,   15.208420,      -61.36517,      50,   n,           , Soufriere System file
+DSHT,  15.214100,      -61.37303,     134.4, n, 2002-12-30, GPS - Chan (Soufriere System file)
+DSTT,  15.247733,      -61.30353,     120,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+DSVT,  15.229600,      -61.37028,       5,   n,           , Soufriere System file
+DTMT,  15.232880,      -61.35245,     496,   n,           , Soufriere System file
+DURH,  15.292800,      -61.35587,     594,   n,           , Soufriere System file
+DVDT,  15.315783,      -61.30417,     960,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+DWES,  15.556250,      -61.33075,      61,   n,           , Soufriere System file
+DWS,   15.571767,      -61.31107,      61,   n, 2002-12-30, GPS - Chan (Soufriere System file)
+ECG,   16.041830,      -61.65380,    1395,   n,           , Soufriere System file
+ELMO,   8.013000,      -71.71690,    2100,   n,           , Soufriere System file
+ELPA,   7.791700,      -71.72530,    1285,   n,           , Soufriere System file
+EMS,   46.070000,        6.93100,    1800,   n,           , Soufriere System file
+ERIS,  15.263070,      -61.36127,     572,   n,           , Soufriere System file
+FBG,   15.979670,      -61.64783,     185,   n,           , Soufriere System file
+FCV,   13.15700,       -61.24500,     194,   n,           , Soufriere System file
+FDF,   14.733330,      -61.15033,     510,   y,           , Soufriere System file
+FIPE,   7.969700,      -71.25110,     600,   n,           , Soufriere System file
+FISA,  11.264800,      -69.33330,     600,   n,           , Soufriere System file
+FNG,   16.060300,      -61.69100,     825,   n,           , Soufriere System file
+GBM,   14.797330,      -61.16483,     800,   n,           , Soufriere System file
+GCM,   19.28900,       -81.38100,       5,   n,           , Soufriere System file
+GECU,  -0.317167,      -78.18967,    4350,   n,           , Soufriere System file
+GNG,   11.17700,       -60.79800,      36,   n,           , Soufriere System file
+GPV,   18.49200,       -64.40400,       0,   n,           , Soufriere System file
+GRCU,  12.477110,      -61.45295,     240,   y,           , Soufriere System file (elev. from map)
+GRE,   12.047000,      -61.74600,       0,   n,           , Soufriere System file
+GRG,   11.17700,       -60.79800,      36,   n,           , Soufriere System file
+GRHS,  12.221750,      -61.64050,      66,   y,           , Soufriere System file (elev. from 1:25k map)
+GRIC,  12.285600,      -61.58577,      46,   n,           , Soufriere System file
+GRSS,  12.298490,      -61.61233,      20,   y,           , Soufriere System file (elev. from map)
+GRW,   12.160000,      -61.66100,     762,   n,           , Soufriere System file
+GUA,    9.95750,       -65.64730,       0,   n,           , Soufriere System file
+GUAC,  10.192000,      -67.27110,    1359,   n,           , Soufriere System file
+GUAN,   9.953600,      -65.65970,     859,   n,           , Soufriere System file
+GUIV,  10.647000,      -62.22300,      50,   n,           , Soufriere System file
+GUNV,  10.161667,      -62.94260,      60,   n,           , Soufriere System file
+GUV,    7.808600,      -63.09740,     130,   n,           , Soufriere System file
+GUVO,   7.650800,      -63.15000,     130,   n,           , Soufriere System file
+GVC,    7.595900,      -62.82330,       0,   n,           , Soufriere System file
+GVG,    8.084000,      -63.25170,       0,   n,           , Soufriere System file
+GVM,    8.300000,      -62.68330,       0,   n,           , Soufriere System file
+GVT,    7.933200,      -63.07240,       0,   n,           , Soufriere System file
+GWES,  15.556250,      -61.33075,      61,   n,           , Soufriere System file
+GWJ,   18.07500,       -76.73800,    1200,   n,           , Soufriere System file
+HAU,   48.005556,        6.34806,    5770,   n,           , Soufriere System file
+HLV,   11.000000,      -63.91100,     920,   n,           , Soufriere System file
+HMG,   15.982330,      -61.70000,     420,   n,           , Soufriere System file
+HOBC,   4.354833,      -76.13550,    1180,   n,           , Soufriere System file
+HOJ,   18.00200,       -76.75000,     200,   n,           , Soufriere System file
+HOP,   18.02200,       -76.75000,     200,   n,           , Soufriere System file
+HOQC,   3.468000,      -76.63367,    2220,   n,           , Soufriere System file
+HUMP,  18.139722,      -65.84972,     178,   n,           , Soufriere System file
+IBAV,  11.821600,      -64.59760,       0,   n,           , Soufriere System file
+ICM,   17.893333,      -66.52083,      25,   n,           , Soufriere System file
+IDE,   18.385280,      -67.46667,     140,   n,           , Soufriere System file
+IECU,  -0.475000,      -78.30667,    3720,   n,           , Soufriere System file
+IMO,   18.111500,      -67.90900,      93,   n,           , Soufriere System file
+ITEV,  11.355100,      -63.13200,      13,   n,           , Soufriere System file
+JACH, -32.681900,      -70.59290,    1075,   n,           , Soufriere System file
+JKR,   10.200000,      -60.50000,     400,   n,           , Soufriere System file
+JLL,   10.500000,      -60.80000,       8,   n,           , Soufriere System file
+KEJ,   12.300400,      -61.63980,    -600,   n,           , Soufriere System file
+KIN,   17.97372,       -76.78506,      32,   n,           , Soufriere System file
+LACU,   7.876700,      -71.39060,       8,   n,           , Soufriere System file
+LADA,   7.939000,      -71.61300,    1200,   n,           , Soufriere System file
+LAGU,   9.770000,      -69.76500,     800,   n,           , Soufriere System file
+LAM,   14.81133,       -61.16850,    1240,   n,           , Soufriere System file
+LAPE,   7.558000,      -71.57560,     327,   n,           , Soufriere System file
+LAUD,  15.334020,      -61.34062,     648,   n,           , Soufriere System file
+LBF,   46.984444,        3.97722,     715,   n,           , Soufriere System file
+LGN,   10.14500,       -71.27000,      -3,   n,           , Soufriere System file
+LGNV,  10.145300,      -71.27030,      -3,   n,           , Soufriere System file
+LIMP,  15.348750,      -61.37288,     530,   n,           , Soufriere System file
+LKG,   16.044700,      -61.65830,    1380,   n,           , Soufriere System file
+LLA,   10.469670,      -66.80967,     875,   n,           , Soufriere System file
+LLAV,  10.469600,      -66.80970,     875,   n,           , Soufriere System file
+LLS,   46.682333,        9.00900,    1900,   n,           , Soufriere System file
+LNG,   10.181417,      -61.68825,       0,   n,           , Soufriere System file
+LOR,    11.78180,      -66.61820,       0,   n,           , Soufriere System file
+LORM,  47.285000,        3.85889,     520,   n,           , Soufriere System file
+LORO,  11.957800,      -66.67420,      20,   n,           , Soufriere System file
+LPLT,  13.843468,      -60.89676,     115,   n,           , Soufriere System file
+LPM,   14.574500,      -60.96630,     130,   n,           , Soufriere System file
+LPR,   18.308600,      -65.86970,     580,   n,           , Soufriere System file
+LRS,   18.291390,      -66.84472,     460,   n,           , Soufriere System file
+LSP,   18.183060,      -67.08778,     390,   n,           , Soufriere System file
+MAN,   10.561100,      -64.18880,      15,   n,           , Soufriere System file
+MANA,  10.673333,      -62.65200,     840,   n,           , Soufriere System file
+MANV,  10.561100,      -64.18880,      10,   n,           , Soufriere System file
+MAR,   10.323900,      -67.60690,       0,   n,           , Soufriere System file
+MARA,  10.323900,      -67.60790,    1200,   n,           , Soufriere System file
+MBET,  16.744000,      -62.16017,     102,   n,           , Soufriere System file
+MBGA,  16.710170,      -62.18867,     479,   n,           , Soufriere System file
+MBGB,  16.732330,      -62.22783,     253,   n,           , Soufriere System file
+MBGH,  16.722500,      -62.20866,     350,   n,           , Soufriere System file
+MBJ,   18.402700,      -77.86271,     574,   n,           , Soufriere System file
+MBLG,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+MBLY,  16.721330,      -62.19100,     355,   n,           , Soufriere System file
+MBMH,  16.776330,      -62.19250,     270,   n,           , Soufriere System file
+MBRV,  16.811273,      -62.19608,     231,   n,           , Soufriere System file
+MBRY,  16.703830,      -62.15317,     355,   n,           , Soufriere System file
+MBSS,  16.687000,      -62.16033,     395,   n,           , Soufriere System file
+MBWH,  16.742170,      -62.19083,     407,   n,           , Soufriere System file
+MCA,   13.850300,      -61.01900,     615,   n,           , Soufriere System file
+MCHV,  13.711670,      -60.94277,       0,   n,           , GPS (Soufriere System file)
+MCJ,   17.92300N,      -77.68700,     808,   n,           , Soufriere System file
+MCLT,  13.709600,      -60.94120,     220,   n,           , Soufriere System file
+MCP,   18.419000,      -67.11080,     250,   n,           , Soufriere System file
+MCPT,  16.706800,      -62.18120,     759,   n,           , Soufriere System file
+MDN,   15.318480,      -61.39228,     222.8, n, 2000-11-20, Soufriere System file (revised)
+MDNE,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+MDNN,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+MDNV,  15.315810,      -61.39996,      99,   n,           , Soufriere System file
+MDZ,  -32.883300,      -68.85000,     826,   n,           , Soufriere System file
+MECU,  -0.537500,      -78.24417,    4090,   n,           , Soufriere System file
+MEP,   18.149720,      -66.98333,     880,   n, 2003-04-01, Soufriere System file (revised)
+MERV,   9.250000,      -66.30000,     168,   n,           , Soufriere System file
+MGAT,  16.710170,      -62.18870,     479,   n,           , Soufriere System file
+MGG,   15.918000,      -61.31683,      51,   n,           , Soufriere System file
+MGH,   16.720000,      -62.21600,     351,   n,           , Soufriere System file
+MGHZ,  16.742170,      -62.20683,     325,   n,           , Soufriere System file
+MGP,   18.008333,      -67.09222,      60,   n,           , Soufriere System file
+MHRV,  16.719500,      -62.17283,     483,   n,           , Soufriere System file
+MJHT,  16.767200,      -62.16970,     149,   n,           , Soufriere System file
+MLG,   16.033556,      -61.71055,     642,   n,           , Soufriere System file
+MLGT,  16.725000,      -62.16233,     287,   n,           , Soufriere System file
+MLM,   14.781000,      -61.18383,     370,   n,           , Soufriere System file
+MLYT,  16.721330,      -62.19100,     355,   n,           , Soufriere System file
+MOG,   16.061330,      -61.71033,     640,   n,           , Soufriere System file
+MOLL,   7.735000,      -71.62900,     900,   n,           , Soufriere System file
+MONV,  11.955000,      -69.97050,     239,   n,           , Soufriere System file
+MOR,    10.87220,      -68.31600,       0,   n,           , Soufriere System file
+MORO,  10.872830,      -68.32917,     284,   n,           , Soufriere System file
+MOV,   18.282000,      -66.36667,     300,   n,           , Soufriere System file
+MP,    16.708000,      -62.22400,       7,   n,           , Soufriere System file
+MPEW,  16.708000,      -62.22366,      17,   n,           , Soufriere System file
+MPLT,  16.708000,      -62.22400,      15,   y,           , Soufriere System file
+MPNS,  16.708000,      -62.22400,       7,   n,           , Soufriere System file
+MPR,   18.213333,      -67.13972,      25,   n,           , Soufriere System file
+MPVE,  16.708000,      -62.22366,      17,   n,           , Soufriere System file
+MRA,   10.323900,      -67.60790,    1200,   n,           , Soufriere System file
+MRN,   18.01200N,      -63.06000,       0,   n,           , Soufriere System file
+MRV,   10.872200,      -68.31600,     284,   n,           , Soufriere System file
+MRYT,  16.703800,      -62.15320,     355,   n,           , Soufriere System file
+MSAT,  16.748000,      -62.22100,      72,   n,           , Soufriere System file
+MSG,   16.098667,      -61.72200,     851,   n,           , Soufriere System file
+MSPT,  16.684000,      -62.19900,     127,   n,           , Soufriere System file
+MSSZ,  16.688660,      -62.17283,     762,   n,           , Soufriere System file
+MTP,   18.097222,      -65.55250,     175,   n,           , Soufriere System file
+MVOV,  16.746500,      -62.22833,      80,   n,           , Soufriere System file
+MVPV,  16.743166,      -62.24000,      17,   n,           , Soufriere System file
+MWHT,  16.734000,      -62.19000,     350,   y,           , Soufriere System file
+MWHZ,  16.735000,      -62.19000,     405,   n,           , Soufriere System file
+MWI,   16.71300,       -62.22200,      46,   n,           , Soufriere System file
+MZF,   46.215556,        2.58389,     480,   n,           , Soufriere System file
+NCJ,   18.07500,       -76.71900,    1142,   n,           , Soufriere System file
+NEBH,  17.131746,      -62.62441,      15,   n,           , Soufriere System file
+NEV,   17.136110,      -62.57100,     244,   n,           , Soufriere System file
+NEVB,  17.131746,      -62.62441,      15,   n,           , Soufriere System file (coords. from map)
+NVBH,  17.116928,      -62.61682,      15,   n,           , Soufriere System file
+NVRH,  17.183518,      -62.60005,     305,   n,           , Soufriere System file
+OBA,   17.79200,       -61.02200,    -496,   n,           , Soufriere System file
+OBS,   14.733330,      -61.15033,     510,   n,           , Soufriere System file
+OHS,   13.31700,       -61.14800,     274,   n,           , Soufriere System file
+OLL,   10.01900,       -66.80400,       0,   n,           , Soufriere System file
+OLLA,  10.019000,      -66.80400,     947,   n,           , Soufriere System file
+OLV,   10.019000,      -66.80400,     947,   n,           , Soufriere System file
+ORIV,   9.069700,      -63.41800,     102,   n,           , Soufriere System file
+PAG,   16.02967,       -61.68000,     670,   n,           , Soufriere System file
+PAJ,   18.17000,       -76.45600,     201,   n,           , Soufriere System file
+PAL,   10.20460,       -64.43880,       0,   n,           , Soufriere System file
+PALM,  10.204600,      -64.43880,    1100,   n,           , Soufriere System file
+PALR,  11.000000,      -63.91100,     920,   n,           , Soufriere System file
+PAM,   14.613800,      -61.03630,     120,   n,           , Soufriere System file
+PARV,   8.959170,      -64.79583,     186,   n,           , Soufriere System file
+PAYV,  10.526800,      -67.54680,      91,   n,           , Soufriere System file
+PCH,  -33.620800,      -70.51390,    1010,   n,           , Soufriere System file
+PCJ,   17.742000,      -77.16900,     200,   n,           , Soufriere System file
+PCM,   14.796830,      -61.14867,     730,   n,           , Soufriere System file
+PCRV,  10.176200,      -64.63610,     400,   n,           , Soufriere System file
+PCV,   10.204600,      -64.43880,    1100,   n,           , Soufriere System file
+PECU,  -0.395000,      -78.60250,    3550,   n,           , Soufriere System file
+PEL,  -33.143600,      -70.68530,     690,   n,           , Soufriere System file
+PGV,    9.874000,      -67.50240,    1930,   n,           , Soufriere System file
+PIG,   11.16100,       -60.84100,       0,   n,           , Soufriere System file
+PLAT,   9.874000,      -67.50233,    1830,   n,           , Soufriere System file
+PLDF,  45.969833,        3.62117,     940,   n,           , Soufriere System file
+PLM,   10.20800,       -64.44000,       0,   n,           , Soufriere System file
+PLS,   10.41300,       -61.49000,       0,   n,           , Soufriere System file
+PLY,   11.21700,       -60.77900,       9,   n,           , Soufriere System file
+PMR,   11.00000,       -63.91100,       0,   n,           , Soufriere System file
+PNP,   18.058300,      -66.68360,     200,   n,           , Soufriere System file
+PORP,  18.061111,      -66.63611,     165,   n,           , Soufriere System file
+PRG,   16.036200,      -61.66217,    1070,   n,           , Soufriere System file
+PRJ,   17.93519,       -76.84383,       2,   n,           , Soufriere System file
+PRM,   34.08333,       -82.36333,     254,   n,           , Soufriere System file
+PUDO,  11.013330,      -63.88117,     634,   n,           , Soufriere System file
+PURC,   2.322167,      -76.36167,    3950,   n,           , Soufriere System file
+PWP,   18.13500,       -65.44500,       0,   n,           , Soufriere System file
+QARV,  10.206100,      -70.52550,     548,   n,           , Soufriere System file
+RCC,   19.99417,       -75.69583,     100,   n,           , Soufriere System file
+RECU,  -0.638667,      -78.40083,    4060,   n,           , Soufriere System file
+RFA,  -34.770700,      -68.46580,     850,   n,           , Soufriere System file
+RMG,   16.044300,      -61.66570,    1150,   n,           , Soufriere System file
+ROCH, -32.971900,      -71.01110,    2000,   n,           , Soufriere System file
+ROF,   47.680611,        6.90081,     500,   n,           , Soufriere System file
+RQV,   11.957800,      -66.67420,      20,   n,           , Soufriere System file
+RRD,   18.23600,       -65.61800,       0,   n,           , Soufriere System file
+RSDV,   8.886100,      -70.63330,    1580,   n,           , Soufriere System file
+RSV,   13.30700,       -61.23600,       8,   n,           , Soufriere System file
+RTOV,   9.792500,      -69.79250,     650,   n,           , Soufriere System file
+SAB,   17.617000,      -63.23333,     880,   n,           , Soufriere System file
+SABA,  17.617000,      -63.23300,     880,   n,           , Soufriere System file
+SABS,  17.620580,      -63.24300,     500,   n,           , Soufriere System file
+SABT,  17.620500,      -63.24300,     880,   n,           , GPS - ss time server (Soufriere System file)
+SAFE,  10.207000,      -64.43967,     846,   n,           , Soufriere System file
+SAM,   14.84000,       -61.16783,     510,   n,           , Soufriere System file
+SANV,   9.501000,      -69.53650,    1083,   n,           , Soufriere System file
+SBN,   17.63700,       -63.23778,     870,   n,           , Soufriere System file
+SCG,   16.02889,       -61.68100,     646,   n,           , Soufriere System file
+SCRV,   7.788900,      -72.19170,     818,   n,           , Soufriere System file
+SCV,   17.78200,       -64.78900,       0,   n,           , Soufriere System file
+SCVI,  17.782000,      -64.78900,       0,   n,           , Soufriere System file (coordinates of SCV)
+SDD,   18.45789,       -69.91342,      10,   n,           , Soufriere System file
+SDV,    8.886100,      -70.63333,    1580,   n,           , Soufriere System file
+SEG,   16.402830,      -61.50517,      60,   n,           , Soufriere System file
+SFAN,  13.383796,      -61.17211,     229,   n,           , Soufriere System file
+SFG,   16.25333,       -61.19650,      10,   n,           , Soufriere System file
+SIG,   11.17135,       -60.77079,      80,   n,           , Soufriere System file
+SIH,   11.17135,      -136.91408,      80,   n,           , Soufriere System file
+SIP,   10.142900,      -61.50603,      60,   n,           , Soufriere System file (elev. to be revised)
+SIPA,  10.142900,      -61.50603,      60,   n,           , Soufriere System file (elev. to be revised)
+SIQV,  10.648030,      -69.80783,     400,   n,           , Soufriere System file
+SJG,   18.108333,      -66.15083,     457,   n,           , Soufriere System file
+SJP,   18.38167,       -66.11833,      80,   n,           , Soufriere System file
+SJS,    9.93917,       -84.05417,    1196,   n,           , Soufriere System file
+SJV,   18.345550,      -64.75555,     280,   n,           , Soufriere System file
+SKDB,  17.396900,      -62.80833,      10,   n,           , Soufriere System file
+SKI,   17.333330,      -62.73900,     306,   n,           , Soufriere System file
+SKTB,  17.229136,      -62.63940,      16,   n, 2003-02   , coords from JS digitised map (Soufriere System file)
+SLB,   13.825830,      -61.04083,     600,   n,           , Soufriere System file
+SLD,   13.801814,      -61.05114,     800,   n, 2000-10   , GPS - Chan (elev. to be adjusted) (Soufriere System file)
+SLDE,  13.803083,      -61.05825,     246,   n,           , GPS - Jerome David (Garmin GPS12XL) (Soufriere System file)
+SLE,   47.766167,        8.49333,     600,   n,           , Soufriere System file
+SLI,   14.02800,       -61.00800,      30,   n,           , Soufriere System file
+SLP,   13.853670,      -60.91900,       0,   n, 2000-10   , GPS - Chan (elev. to be adjusted) 
+SLPA,  13.853670,      -60.91900,     183,   n,           , GPS - Jerome David (Garmin GPS12XL)
+SLPE,  13.843133,      -60.99520,     460,   n, 2001-10-07, GPS - Chan (elev. to be revised) (Soufriere System file)
+SLR,   13.843133,      -60.99520,       0,   n, 2001-04-07, GPS - Chan (elev. to be revised) (Soufriere System file)
+SLT,   13.870350,      -61.03992,       0,   n,           , GPS - Chan (elev. to be revised) (Soufriere System file)
+SLTA,  13.870350,      -61.03992,     550,   n,           , GPS - Chan (elev. fixed at 1800') (Soufriere System file)
+SLW,   14.020000,      -60.93600,     366,   n,           , Soufriere System file
+SMF,   46.645278,        3.84111,     459,   n,           , Soufriere System file
+SOA,   13.37347,       -61.14861,      40,   y,           , Soufriere System file
+SOR,   22.79167,       -83.00778,     206,   n,           , Soufriere System file
+SPJ,   17.993000,      -77.55500,     800,   n,           , Soufriere System file
+SRH,   13.18600,       -61.25400,     274,   n,           , Soufriere System file
+SSLP,  13.853670,      -60.91900,       0,   n,           , Soufriere System file
+SSV,   13.327000,      -61.19300,     824,   n,           , Soufriere System file
+STAT,  17.495000,      -62.97870,      50,   n,           , GPS - ss time server (Soufriere System file)
+STAT,  17.485190,      -62.95886,     132,   n, 1992-06   , Soufriere System file (in comments)
+STG,   16.088670,      -61.67883,    1210,   n,           , Soufriere System file
+STH,   18.07800,       -76.81400,     427,   n,           , Soufriere System file
+STM,   18.012000,      -63.06000,       0,   n,           , Soufriere System file
+STMA,  18.042778,      -63.10886,      28.2, n,           , GPS - ss time server (Soufriere System file)
+STMT,  18.042550,      -63.07778,     316,   n,           , Soufriere System file
+STVI,  18.353333,      -64.96222,     300,   n,           , Soufriere System file
+SVB,   13.272000,      -61.25200,     282,   n,           , Soufriere System file
+SVG,   13.24500,       -61.27800,      46,   n,           , Soufriere System file
+SVI,   13.17000,       -61.25800,      10,   n,           , Soufriere System file
+SVL,   13.36800,       -61.20400,      91,   n,           , Soufriere System file
+SVSV,  13.272000,      -61.25200,     282,   n,           , Soufriere System file
+SVT,   13.16800,       -61.24500,      38,   y,           , Soufriere System file
+SVV,   13.31800,       -61.21600,     243,   n,           , Soufriere System file
+SWA,   17.40000,       -83.93333,       0,   n,           , Soufriere System file
+SWI,   18.59800,       -63.42600,       0,   n,           , Soufriere System file
+TACH, -33.653200,      -70.93760,     440,   n,           , Soufriere System file
+TAG,   16.042000,      -61.66417,    1182,   n,           , Soufriere System file
+TBH,   10.484000,      -61.06700,     199,   n,           , Soufriere System file
+TBRC,  10.750000,      -60.95000,       5,   n,           , Soufriere System file
+TBVI,  18.410000,      -64.61000,     100,   n,           , Soufriere System file
+TCA,  -31.338600,      -64.59080,     910,   n,           , Soufriere System file
+TCE,   10.69700,       -61.75300,     240,   n,           , Soufriere System file
+TCF,   46.288056,        2.21000,     593,   n,           , Soufriere System file
+TCGO,  18.145833,      -66.98117,     880,   n,           , Soufriere System file
+TCHG,  10.680000,      -61.66000,      21,   n,           , Soufriere System file
+TEST,  10.469000,      -66.80900,     875,   n,           , Soufriere System file
+TGR,    8.846600,      -64.18940,       0,   n,           , Soufriere System file
+TGRH,   8.840000,      -64.16830,       0,   n,           , Soufriere System file
+TGRV,   8.840000,      -64.16830,     293,   n,           , Soufriere System file
+TGV,   10.908400,      -65.31390,      40,   n,           , Soufriere System file
+TKL,   35.65806,       -83.77417,     350,   n,           , Soufriere System file
+TLL,  -30.167200,      -70.80450,    2200,   n,           , Soufriere System file
+TMD,   10.674000,      -61.06600,      46,   n,           , Soufriere System file
+TOB,   11.14100,       -60.84100,      15,   n,           , Soufriere System file
+TOCO,  10.833300,      -60.91400,     100,   n,           , Soufriere System file (coords. from map)
+TOR,   10.90840,       -65.31390,       0,   n,           , Soufriere System file
+TORT,  10.908400,      -65.31390,      40,   n,           , Soufriere System file
+TOV,    9.792500,      -69.79250,     650,   n,           , Soufriere System file
+TPP,   10.31700,       -61.45100,      46,   n,           , Soufriere System file
+TPR,   11.18600,       -60.77700,     245,   n,           , Soufriere System file
+TPTC,  10.680000,      -61.57000,      49,   n,           , Soufriere System file
+TRGV,   8.840000,      -64.16830,     200,   n,           , Soufriere System file
+TRM,   14.536330,      -61.05117,      78,   n,           , Soufriere System file
+TRN,   10.648000,      -61.40300,      24,   n,           , Soufriere System file
+TRPT,  11.193055,      -60.79752,       5,   n,           , Soufriere System file
+TTR,   10.674000,      -61.06600,      46,   n,           , Soufriere System file
+TWMO,  10.670000,      -61.56000,       0,   n,           , Soufriere System file
+UAV,    8.61000,       -71.14500,    1600,   n,           , Soufriere System file
+ULAV,   8.610000,      -71.14470,    1600,   n,           , Soufriere System file
+UPA,    8.981500,      -79.53400,      41,   n,           , Soufriere System file
+VAI,   45.866667,        8.77083,       0,   n,           , Soufriere System file
+VGU,    9.95750,       -65.64780,       0,   n,           , Soufriere System file
+VGV,    9.957500,      -65.64780,    1107,   n,           , Soufriere System file
+VGVI,  18.440000,      -64.43000,      20,   n,           , Soufriere System file
+VIRV,  10.500000,      -72.41000,     148,   n,           , Soufriere System file
+VOLV,  10.420000,      -66.84980,     148,   n,           , Soufriere System file
+VST,   18.35400,       -64.95700,       0,   n,           , Soufriere System file
+YHJ,   17.89200,       -76.49300,     300,   n,           , Soufriere System file
+ZAM,   14.572700,      -61.02870,      25,   n,           , Soufriere System file
+ZON,  -31.545800,      -68.67860,     730,   n,           , Soufriere System file
+ZUL,   47.481333,        8.39033,     700,   n,           , Soufriere System file
+TOSP,  11.29835,       -60.5352,      210,   n,           , initially used in ss, 210 km alt (11N 7.901,60W 32.112) 
+SRU,   10.65290,       -61.39985,      80.2, n, 2007-06-06, GPS - Rod (Nokia n800 hdop 3.4 pdop 4.9 vdop 3.6)
+SRU,   10.652833,      -61.400433,      0,   n, 2007-06-11, GPS - netDAS output (no alt given)
+DVDT,  15.31576,       -61.30417,     984,   y, 2007-06-06, GPS - Nico
+BOT,   11.1702,        -60.71668,       0,   n, 2007-08-28, GPS - Ian (11N10.212 60W43.001)
+TPR,   11.18813,       -60.77513,       0,   n, 2007-08-28, GPS - Ian (11N11.288 60W46.508)
+SVB,   13.27450,       -61.25040,     282,   y, 2007-05-27, GPS - nmx soh log (assumed 282m
+SKI,   17.33380,       -62.73800,     306,   y, 2007-05-27, GPS - nmx soh log (assumed 306m alt)
+SIPA,  10.14305,       -61.50586667,    0,   n, 2007-09-18, GPS - Ian (10N08.583 61W30.352)
+BUAY,  10.10776667,    -61.68598333,    0,   n, 2007-09-18, GPS - Ian (10N06.446 61W41.159)
+TCHG,  10.682653,      -61.663360,     50,   n, 2007-09-28, GPS - Rod (Garmin ETrex, avg of 3)
+TWMO,  10.675880,      -61.560692,     10,   n, 2007-09-28, GPS - Rod (Garmin ETrex, avg of 5)
+TCHG,  10.682653,      -61.663360,     21,   y, 2007-09-28, GPS - Rod (using existing altitude)
+TWMO,  10.675880,      -61.560692,      5,   y, 2007-09-28, GPS - Rod (using existing altitide)
+MGH,   16.72166,       -62.20679,     370,   y, 2007-10-11, GPS - Rod (Garmin ETrex)
+MJHT,  16.76725,       -62.16977,     185,   y, 2007-10-12, GPS - Rod (Garmin ETrex)
+ANWB,  17.6685,        -61.7856,       39.0, y,           , NEIC TRN
+M01,   16.81183,       -62.19225,       0,   n, 2007-10, GPS - Alan's list
+M02,   16.80849,       -62.20446,       0,   n, 2007-10, GPS - Alan's list
+M03,   16.78856,       -62.21336,       0,   n, 2007-10, GPS - Alan's list
+M04,   16.79247,       -62.19440,       0,   n, 2007-10, GPS - Alan's list
+M05,   16.79377,       -62.18493,       0,   n, 2007-10, GPS - Alan's list
+M06,   16.77659,       -62.21387,       0,   n, 2007-10, GPS - Alan's list
+M07,   16.77466,       -62.20421,       0,   n, 2007-10, GPS - Alan's list
+M08,   16.77443,       -62.19325,       0,   n, 2007-10, GPS - Alan's list
+M09,   16.77962,       -62.17775,       0,   n, 2007-10, GPS - Alan's list
+M10,   16.76928,       -62.21442,       0,   n, 2007-10, GPS - Alan's list
+M11,   16.76244,       -62.22003,       0,   n, 2007-10, GPS - Alan's list
+M12,   16.75660,       -62.22633,       0,   n, 2007-10, GPS - Alan's list
+M13,   16.75109,       -62.23054,       0,   n, 2007-10, GPS - Alan's list
+M14,   16.74896,       -62.21281,       0,   n, 2007-10, GPS - Alan's list
+M15,   16.74125,       -62.21508,       0,   n, 2007-10, GPS - Alan's list
+M16,   16.73630,       -62.23145,       0,   n, 2007-10, GPS - Alan's list
+M17,   16.72844,       -62.22045,       0,   n, 2007-10, GPS - Alan's list
+M18,   16.71909,       -62.20630,       0,   n, 2007-10, GPS - Alan's list
+M19,   16.72216,       -62.19792,       0,   n, 2007-10, GPS - Alan's list
+M20,   16.72540,       -62.23579,       0,   n, 2007-10, GPS - Alan's list
+M21,   16.71760,       -62.22098,       0,   n, 2007-10, GPS - Alan's list
+M22,   16.69578,       -62.21176,       0,   n, 2007-10, GPS - Alan's list
+M23,   16.68269,       -62.19819,       0,   n, 2007-10, GPS - Alan's list
+M24,   16.67694,       -62.17917,       0,   n, 2007-10, GPS - Alan's list
+M27,   16.76716,       -62.16986,       0,   n, 2007-10, GPS - Alan's list
+M28,   16.76152,       -62.15981,       0,   n, 2007-10, GPS - Alan's list
+DLPL,  15.3324,        -61.2467,       38,   n, 2007-12-27, GPS - NaqsView
+MCLT,  13.7115,        -60.9426,      161,   n, 2007-12-27, GPS - NaqsView
+SKI,   17.3338,        -62.7380,      277,   n, 2007-12-27, GPS - NaqsView
+TOSP,  11.2983,        -60.5352,      -15,   n, 2007-12-27, GPS - NaqsView
+SVB,   13.2745,        -61.2504,      255,   n, 2007-12-27, GPS - NaqsView
+M01,   16.81183,       -62.19225,     384,   y, 2008-01-07, GPS - Alan's final list
+M02,   16.80849,       -62.20446,      15,   y, 2008-01-07, GPS - Alan's final list
+M03,   16.78856,       -62.21336,      62,   y, 2008-01-07, GPS - Alan's final list
+M04,   16.79247,       -62.19440,     174,   y, 2008-01-07, GPS - Alan's final list
+M05,   16.79377,       -62.18493,     166,   y, 2008-01-07, GPS - Alan's final list
+M06,   16.77659,       -62.21387,     159,   y, 2008-01-07, GPS - Alan's final list
+M07,   16.77466,       -62.20421,     298,   y, 2008-01-07, GPS - Alan's final list
+M08,   16.77443,       -62.19325,     292,   y, 2008-01-07, GPS - Alan's final list
+M09,   16.77962,       -62.17775,     139,   y, 2008-01-07, GPS - Alan's final list
+M10,   16.76928,       -62.21442,     227,   y, 2008-01-07, GPS - Alan's final list
+M11,   16.76244,       -62.22003,     112,   y, 2008-01-07, GPS - Alan's final list
+M12,   16.75660,       -62.22633,      66,   y, 2008-01-07, GPS - Alan's final list
+M13,   16.75109,       -62.23054,      50,   y, 2008-01-07, GPS - Alan's final list
+M14,   16.74896,       -62.21281,     257,   y, 2008-01-07, GPS - Alan's final list
+M15,   16.74125,       -62.21508,     118,   y, 2008-01-07, GPS - Alan's final list
+M16,   16.73630,       -62.23145,      60,   y, 2008-01-07, GPS - Alan's final list
+M17,   16.72844,       -62.22045,      79,   y, 2008-01-07, GPS - Alan's final list
+M18,   16.71909,       -62.20630,     279,   y, 2008-01-07, GPS - Alan's final list
+M19,   16.72216,       -62.19792,     218,   y, 2008-01-07, GPS - Alan's final list
+M20,   16.72540,       -62.23579,       9,   y, 2008-01-07, GPS - Alan's final list
+M21,   16.71760,       -62.22098,      63,   y, 2008-01-07, GPS - Alan's final list
+M22,   16.69578,       -62.21176,       9,   y, 2008-01-07, GPS - Alan's final list
+M23,   16.68269,       -62.19819,       4,   y, 2008-01-07, GPS - Alan's final list
+M24,   16.67694,       -62.17917,      14,   y, 2008-01-07, GPS - Alan's final list
+M25,   16.67612,       -62.16229,      14,   y, 2008-01-07, GPS - Alan's final list
+M26,   16.70686,       -62.14968,      13,   y, 2008-01-07, GPS - Alan's final list
+M27,   16.76716,       -62.16986,     193,   y, 2008-01-07, GPS - Alan's final list
+M28,   16.76152,       -62.15981,       9,   y, 2008-01-07, GPS - Alan's final list
+M30,   16.68784,       -62.16142,     451,   y, 2008-01-07, GPS - Alan's final list
+M31,   16.74178,       -62.15800,      99,   y, 2008-01-07, GPS - Alan's final list
+M32,   16.73134,       -62.15961,     186,   y, 2008-01-07, GPS - Alan's final list
+FB01,  16.72218,       -62.19792,     219,   y, 2008-01-07, GPS - Alan's final list
+FB02,  16.72263,       -62.19859,     213,   y, 2008-01-07, GPS - Alan's final list
+FB03,  16.72283,       -62.19984,     219,   y, 2008-01-07, GPS - Alan's final list
+FB04,  16.72356,       -62.20003,     220,   y, 2008-01-07, GPS - Alan's final list
+FB05,  16.72469,       -62.20054,     238,   y, 2008-01-07, GPS - Alan's final list
+FB06,  16.72479,       -62.20173,     279,   y, 2008-01-07, GPS - Alan's final list
+FB07,  16.72528,       -62.20250,     302,   y, 2008-01-07, GPS - Alan's final list
+FB08,  16.72589,       -62.20329,     312,   y, 2008-01-07, GPS - Alan's final list
+FB09,  16.72619,       -62.20418,     307,   y, 2008-01-07, GPS - Alan's final list
+FB10,  16.72673,       -62.20479,     298,   y, 2008-01-07, GPS - Alan's final list
+FB11,  16.72765,       -62.20571,     259,   y, 2008-01-07, GPS - Alan's final list
+FB12,  16.72775,       -62.20669,     251,   y, 2008-01-07, GPS - Alan's final list
+FB13,  16.72755,       -62.20755,     242,   y, 2008-01-07, GPS - Alan's final list
+FB14,  16.72902,       -62.20770,     183,   y, 2008-01-07, GPS - Alan's final list
+FB15,  16.72938,       -62.20856,     173,   y, 2008-01-07, GPS - Alan's final list
+FB16,  16.72983,       -62.20937,     158,   y, 2008-01-07, GPS - Alan's final list
+FB17,  16.73069,       -62.21011,     137,   y, 2008-01-07, GPS - Alan's final list
+FB18,  16.73109,       -62.21093,     129,   y, 2008-01-07, GPS - Alan's final list
+FB19,  16.73154,       -62.21161,     117,   y, 2008-01-07, GPS - Alan's final list
+FB20,  16.73148,       -62.21283,     110,   y, 2008-01-07, GPS - Alan's final list
+FB21,  16.73249,       -62.21326,      96,   y, 2008-01-07, GPS - Alan's final list
+FB22,  16.73306,       -62.21412,     104,   y, 2008-01-07, GPS - Alan's final list
+FB23,  16.73346,       -62.21512,      89,   y, 2008-01-07, GPS - Alan's final list
+FB24,  16.73260,       -62.21635,      83,   y, 2008-01-07, GPS - Alan's final list
+FB25,  16.73288,       -62.21730,      93,   y, 2008-01-07, GPS - Alan's final list
+FB26,  16.73352,       -62.21796,      99,   y, 2008-01-07, GPS - Alan's final list
+FB27,  16.73428,       -62.21867,      87,   y, 2008-01-07, GPS - Alan's final list
+FB28,  16.73573,       -62.21875,      81,   y, 2008-01-07, GPS - Alan's final list
+FB29,  16.73687,       -62.21901,      72,   y, 2008-01-07, GPS - Alan's final list
+FB30,  16.73667,       -62.22022,      49,   y, 2008-01-07, GPS - Alan's final list
+FB31,  16.73892,       -62.21977,      40,   y, 2008-01-07, GPS - Alan's final list
+FB32,  16.73960,       -62.22025,      35,   y, 2008-01-07, GPS - Alan's final list
+FB33,  16.74094,       -62.22029,      33,   y, 2008-01-07, GPS - Alan's final list
+FB34,  16.74143,       -62.22117,      24,   y, 2008-01-07, GPS - Alan's final list
+FB35,  16.74202,       -62.22184,      32,   y, 2008-01-07, GPS - Alan's final list
+FB36,  16.74231,       -62.22281,      29,   y, 2008-01-07, GPS - Alan's final list
+FB37,  16.74258,       -62.22381,      22,   y, 2008-01-07, GPS - Alan's final list
+FB38,  16.74286,       -62.22479,      23,   y, 2008-01-07, GPS - Alan's final list
+FB39,  16.74355,       -62.22546,      27,   y, 2008-01-07, GPS - Alan's final list
+FB40,  16.74369,       -62.22650,      34,   y, 2008-01-07, GPS - Alan's final list
+FB41,  16.74457,       -62.22696,      38,   y, 2008-01-07, GPS - Alan's final list
+FB42,  16.74503,       -62.22782,      43,   y, 2008-01-07, GPS - Alan's final list
+FB43,  16.74523,       -62.22889,      43,   y, 2008-01-07, GPS - Alan's final list
+FB44,  16.74542,       -62.22985,      32,   y, 2008-01-07, GPS - Alan's final list
+FB45,  16.74576,       -62.23071,      33,   y, 2008-01-07, GPS - Alan's final list
+FB46,  16.74579,       -62.23197,      33,   y, 2008-01-07, GPS - Alan's final list
+FB94,  16.71735,       -62.19023,     438,   y, 2008-01-07, GPS - Alan's final list
+FB95,  16.71994,       -62.19390,     304,   y, 2008-01-07, GPS - Alan's final list
+FB96,  16.72030,       -62.19473,     283,   y, 2008-01-07, GPS - Alan's final list
+FB97,  16.72097,       -62.19532,     269,   y, 2008-01-07, GPS - Alan's final list
+FB98,  16.72157,       -62.19614,     243,   y, 2008-01-07, GPS - Alan's final list
+FB99,  16.72207,       -62.19681,     234,   y, 2008-01-07, GPS - Alan's final list
+FC01,  16.76722,       -62.16982,     190,   y, 2008-01-07, GPS - Alan's final list
+FC02,  16.76736,       -62.17093,     217,   y, 2008-01-07, GPS - Alan's final list
+FC03,  16.76706,       -62.17172,     227,   y, 2008-01-07, GPS - Alan's final list
+FC04,  16.76668,       -62.17265,     252,   y, 2008-01-07, GPS - Alan's final list
+FC05,  16.76670,       -62.17381,     249,   y, 2008-01-07, GPS - Alan's final list
+FC06,  16.76631,       -62.17460,     253,   y, 2008-01-07, GPS - Alan's final list
+FC07,  16.76562,       -62.17541,     284,   y, 2008-01-07, GPS - Alan's final list
+FC08,  16.76540,       -62.17617,     297,   y, 2008-01-07, GPS - Alan's final list
+FC09,  16.76504,       -62.17707,     311,   y, 2008-01-07, GPS - Alan's final list
+FC10,  16.76489,       -62.17807,     350,   y, 2008-01-07, GPS - Alan's final list
+FC11,  16.76473,       -62.17911,     421,   y, 2008-01-07, GPS - Alan's final list
+FC12,  16.76480,       -62.18006,     451,   y, 2008-01-07, GPS - Alan's final list
+FC13,  16.76456,       -62.18097,     488,   y, 2008-01-07, GPS - Alan's final list
+FC14,  16.76306,       -62.18160,     502,   y, 2008-01-07, GPS - Alan's final list
+FC15,  16.76305,       -62.18242,     475,   y, 2008-01-07, GPS - Alan's final list
+FC16,  16.76271,       -62.18333,     480,   y, 2008-01-07, GPS - Alan's final list
+FC17,  16.76289,       -62.18439,     497,   y, 2008-01-07, GPS - Alan's final list
+FC18,  16.76235,       -62.18504,     508,   y, 2008-01-07, GPS - Alan's final list
+FC19,  16.76099,       -62.18540,     494,   y, 2008-01-07, GPS - Alan's final list
+FC20,  16.76039,       -62.18625,     548,   y, 2008-01-07, GPS - Alan's final list
+FC21,  16.75874,       -62.18643,     637,   y, 2008-01-07, GPS - Alan's final list
+FC22,  16.75771,       -62.18683,     619,   y, 2008-01-07, GPS - Alan's final list
+FC23,  16.75718,       -62.18766,     621,   y, 2008-01-07, GPS - Alan's final list
+FC24,  16.75615,       -62.18802,     647,   y, 2008-01-07, GPS - Alan's final list
+FC25,  16.75535,       -62.18862,     624,   y, 2008-01-07, GPS - Alan's final list
+FC26,  16.75522,       -62.18971,     653,   y, 2008-01-07, GPS - Alan's final list
+FC27,  16.75557,       -62.19109,     677,   y, 2008-01-07, GPS - Alan's final list
+FC28,  16.75575,       -62.19218,     738,   y, 2008-01-07, GPS - Alan's final list
+FC29,  16.75539,       -62.19301,     747,   y, 2008-01-07, GPS - Alan's final list
+FC30,  16.75503,       -62.19387,     702,   y, 2008-01-07, GPS - Alan's final list
+FC31,  16.75496,       -62.19498,     630,   y, 2008-01-07, GPS - Alan's final list
+FC32,  16.75554,       -62.19615,     684,   y, 2008-01-07, GPS - Alan's final list
+FC33,  16.75740,       -62.19824,     731,   y, 2008-01-07, GPS - Alan's final list
+FC34,  16.75741,       -62.19937,     665,   y, 2008-01-07, GPS - Alan's final list
+FC35,  16.75761,       -62.20047,     641,   y, 2008-01-07, GPS - Alan's final list
+FC36,  16.75832,       -62.20185,     626,   y, 2008-01-07, GPS - Alan's final list
+FC37,  16.75824,       -62.20285,     689,   y, 2008-01-07, GPS - Alan's final list
+FC38,  16.75789,       -62.20357,     681,   y, 2008-01-07, GPS - Alan's final list
+FC39,  16.75686,       -62.20407,     656,   y, 2008-01-07, GPS - Alan's final list
+FC40,  16.75557,       -62.20460,     670,   y, 2008-01-07, GPS - Alan's final list
+FC41,  16.75544,       -62.20550,     634,   y, 2008-01-07, GPS - Alan's final list
+FC42,  16.75484,       -62.20628,     579,   y, 2008-01-07, GPS - Alan's final list
+FC43,  16.75426,       -62.20712,     521,   y, 2008-01-07, GPS - Alan's final list
+FC44,  16.75370,       -62.20781,     494,   y, 2008-01-07, GPS - Alan's final list
+FC45,  16.75295,       -62.20853,     434,   y, 2008-01-07, GPS - Alan's final list
+FC46,  16.75253,       -62.20910,     390,   y, 2008-01-07, GPS - Alan's final list
+FC47,  16.75184,       -62.21000,     357,   y, 2008-01-07, GPS - Alan's final list
+FC48,  16.75125,       -62.21074,     333,   y, 2008-01-07, GPS - Alan's final list
+FC49,  16.75069,       -62.21155,     305,   y, 2008-01-07, GPS - Alan's final list
+FC50,  16.75003,       -62.21232,     263,   y, 2008-01-07, GPS - Alan's final list
+FC51,  16.74894,       -62.21284,     258,   y, 2008-01-07, GPS - Alan's final list
+FG01,  16.74823,       -62.21339,     218,   y, 2008-01-07, GPS - Alan's final list
+FG02,  16.74759,       -62.21391,     198,   y, 2008-01-07, GPS - Alan's final list
+FG03,  16.74783,       -62.21552,     169,   y, 2008-01-07, GPS - Alan's final list
+FG04,  16.74761,       -62.21670,     157,   y, 2008-01-07, GPS - Alan's final list
+FG05,  16.74758,       -62.21806,     157,   y, 2008-01-07, GPS - Alan's final list
+FG06,  16.74696,       -62.21850,     128,   y, 2008-01-07, GPS - Alan's final list
+FG07,  16.74616,       -62.21938,     121,   y, 2008-01-07, GPS - Alan's final list
+FG08,  16.74554,       -62.21970,     104,   y, 2008-01-07, GPS - Alan's final list
+FG09,  16.74453,       -62.21997,      97,   y, 2008-01-07, GPS - Alan's final list
+FG10,  16.74413,       -62.22107,      79,   y, 2008-01-07, GPS - Alan's final list
+FG11,  16.74371,       -62.22186,      50,   y, 2008-01-07, GPS - Alan's final list
+FG12,  16.74301,       -62.22266,      43,   y, 2008-01-07, GPS - Alan's final list
+FG13,  16.74259,       -62.22379,      12,   y, 2008-01-07, GPS - Alan's final list
+FG14,  16.74254,       -62.22469,      15,   y, 2008-01-07, GPS - Alan's final list
+FG15,  16.74161,       -62.22521,      21,   y, 2008-01-07, GPS - Alan's final list
+FG16,  16.74152,       -62.22639,      18,   y, 2008-01-07, GPS - Alan's final list
+FG17,  16.74104,       -62.22720,      27,   y, 2008-01-07, GPS - Alan's final list
+FG18,  16.74069,       -62.22823,      28,   y, 2008-01-07, GPS - Alan's final list
+FG19,  16.73999,       -62.22903,      23,   y, 2008-01-07, GPS - Alan's final list
+FG20,  16.73982,       -62.23003,      28,   y, 2008-01-07, GPS - Alan's final list
+FG21,  16.73909,       -62.23049,      39,   y, 2008-01-07, GPS - Alan's final list
+FG22,  16.73717,       -62.22963,      41,   y, 2008-01-07, GPS - Alan's final list
+FG23,  16.73719,       -62.23127,      53,   y, 2008-01-07, GPS - Alan's final list
+FG24,  16.73632,       -62.23141,      57,   y, 2008-01-07, GPS - Alan's final list
+FG25,  16.73518,       -62.23167,      72,   y, 2008-01-07, GPS - Alan's final list
+FG26,  16.73444,       -62.23229,      97,   y, 2008-01-07, GPS - Alan's final list
+FG27,  16.73394,       -62.23267,      89,   y, 2008-01-07, GPS - Alan's final list
+FG28,  16.73138,       -62.23142,      79,   y, 2008-01-07, GPS - Alan's final list
+FG29,  16.73085,       -62.23240,     104,   y, 2008-01-07, GPS - Alan's final list
+FG30,  16.72992,       -62.23266,     110,   y, 2008-01-07, GPS - Alan's final list
+FG31,  16.72919,       -62.23305,     126,   y, 2008-01-07, GPS - Alan's final list
+FG32,  16.72834,       -62.23318,     105,   y, 2008-01-07, GPS - Alan's final list
+FG33,  16.72736,       -62.23382,      51,   y, 2008-01-07, GPS - Alan's final list
+FG34,  16.72662,       -62.23449,      33,   y, 2008-01-07, GPS - Alan's final list
+FG35,  16.72611,       -62.23517,      20,   y, 2008-01-07, GPS - Alan's final list
+FG36,  16.72541,       -62.23577,       9,   y, 2008-01-07, GPS - Alan's final list
+FS01,  16.75588,       -62.19248,     733,   y, 2008-01-07, GPS - Alan's final list
+FS02,  16.75696,       -62.19238,     735,   y, 2008-01-07, GPS - Alan's final list
+FS03,  16.75769,       -62.19244,     731,   y, 2008-01-07, GPS - Alan's final list
+FS04,  16.75872,       -62.19271,     728,   y, 2008-01-07, GPS - Alan's final list
+FS05,  16.75980,       -62.19281,     726,   y, 2008-01-07, GPS - Alan's final list
+FS06,  16.76054,       -62.19317,     731,   y, 2008-01-07, GPS - Alan's final list
+FS07,  16.76147,       -62.19355,     741,   y, 2008-01-07, GPS - Alan's final list
+FS08,  16.76228,       -62.19437,     721,   y, 2008-01-07, GPS - Alan's final list
+FS09,  16.76320,       -62.19501,     637,   y, 2008-01-07, GPS - Alan's final list
+FS10,  16.76412,       -62.19507,     625,   y, 2008-01-07, GPS - Alan's final list
+FS11,  16.76501,       -62.19463,     574,   y, 2008-01-07, GPS - Alan's final list
+FS12,  16.76595,       -62.19378,     480,   y, 2008-01-07, GPS - Alan's final list
+FS13,  16.76685,       -62.19330,     475,   y, 2008-01-07, GPS - Alan's final list
+FS14,  16.76792,       -62.19166,     434,   y, 2008-01-07, GPS - Alan's final list
+FS15,  16.76865,       -62.19063,     410,   y, 2008-01-07, GPS - Alan's final list
+FS16,  16.76947,       -62.19069,     409,   y, 2008-01-07, GPS - Alan's final list
+FS17,  16.77050,       -62.19091,     389,   y, 2008-01-07, GPS - Alan's final list
+FS18,  16.77126,       -62.18975,     400,   y, 2008-01-07, GPS - Alan's final list
+FS19,  16.77214,       -62.18986,     376,   y, 2008-01-07, GPS - Alan's final list
+FS20,  16.77286,       -62.18990,     369,   y, 2008-01-07, GPS - Alan's final list
+FS21,  16.77400,       -62.19026,     357,   y, 2008-01-07, GPS - Alan's final list
+FS22,  16.77484,       -62.18962,     318,   y, 2008-01-07, GPS - Alan's final list
+FS23,  16.77578,       -62.18983,     313,   y, 2008-01-07, GPS - Alan's final list
+FS24,  16.77679,       -62.18974,     302,   y, 2008-01-07, GPS - Alan's final list
+FS25,  16.77757,       -62.18965,     292,   y, 2008-01-07, GPS - Alan's final list
+FS26,  16.77840,       -62.18980,     282,   y, 2008-01-07, GPS - Alan's final list
+FS27,  16.77945,       -62.19008,     273,   y, 2008-01-07, GPS - Alan's final list
+FS28,  16.78040,       -62.19128,     247,   y, 2008-01-07, GPS - Alan's final list
+FS29,  16.78114,       -62.19112,     239,   y, 2008-01-07, GPS - Alan's final list
+FS30,  16.78207,       -62.19111,     225,   y, 2008-01-07, GPS - Alan's final list
+FS31,  16.78311,       -62.19227,     229,   y, 2008-01-07, GPS - Alan's final list
+FS32,  16.78395,       -62.19283,     229,   y, 2008-01-07, GPS - Alan's final list
+FS33,  16.78455,       -62.19286,     222,   y, 2008-01-07, GPS - Alan's final list
+FS34,  16.78579,       -62.19261,     224,   y, 2008-01-07, GPS - Alan's final list
+FS35,  16.78648,       -62.19269,     221,   y, 2008-01-07, GPS - Alan's final list
+FS36,  16.78741,       -62.19265,     211,   y, 2008-01-07, GPS - Alan's final list
+FS37,  16.78841,       -62.19320,     202,   y, 2008-01-07, GPS - Alan's final list
+FS38,  16.78899,       -62.19387,     192,   y, 2008-01-07, GPS - Alan's final list
+FS39,  16.79036,       -62.19457,     184,   y, 2008-01-07, GPS - Alan's final list
+FS40,  16.79099,       -62.19561,     167,   y, 2008-01-07, GPS - Alan's final list
+FS41,  16.79197,       -62.19551,     159,   y, 2008-01-07, GPS - Alan's final list
+FS42,  16.79275,       -62.19445,     169,   y, 2008-01-07, GPS - Alan's final list
+FS43,  16.79382,       -62.19433,     170,   y, 2008-01-07, GPS - Alan's final list
+FS44,  16.79472,       -62.19430,     172,   y, 2008-01-07, GPS - Alan's final list
+FS45,  16.79557,       -62.19426,     168,   y, 2008-01-07, GPS - Alan's final list
+FS46,  16.79658,       -62.19459,     160,   y, 2008-01-07, GPS - Alan's final list
+FS47,  16.79725,       -62.19461,     147,   y, 2008-01-07, GPS - Alan's final list
+FS48,  16.79824,       -62.19436,     145,   y, 2008-01-07, GPS - Alan's final list
+FS49,  16.79915,       -62.19466,     147,   y, 2008-01-07, GPS - Alan's final list
+FS50,  16.80004,       -62.19442,     166,   y, 2008-01-07, GPS - Alan's final list
+FS51,  16.80093,       -62.19404,     181,   y, 2008-01-07, GPS - Alan's final list
+FS52,  16.80197,       -62.19460,     190,   y, 2008-01-07, GPS - Alan's final list
+FS53,  16.80277,       -62.19466,     216,   y, 2008-01-07, GPS - Alan's final list
+FS54,  16.80371,       -62.19326,     259,   y, 2008-01-07, GPS - Alan's final list
+FS55,  16.80466,       -62.19312,     268,   y, 2008-01-07, GPS - Alan's final list
+FS56,  16.80548,       -62.19349,     264,   y, 2008-01-07, GPS - Alan's final list
+FS57,  16.80646,       -62.19320,     267,   y, 2008-01-07, GPS - Alan's final list
+FS58,  16.80728,       -62.19269,     273,   y, 2008-01-07, GPS - Alan's final list
+FS59,  16.80820,       -62.19234,     288,   y, 2008-01-07, GPS - Alan's final list
+FS60,  16.80919,       -62.19304,     294,   y, 2008-01-07, GPS - Alan's final list
+FS61,  16.81001,       -62.19189,     332,   y, 2008-01-07, GPS - Alan's final list
+FS62,  16.81087,       -62.19216,     374,   y, 2008-01-07, GPS - Alan's final list
+FS63,  16.81190,       -62.19219,     388,   y, 2008-01-07, GPS - Alan's final list
+MBGB,  16.736,         -62.2278,        0,   n, 2008-01-13, plot_stations script
+MBGH,  16.726,         -62.2087,        0,   n, 2008-01-13, MVO plot_stations script
+MBJH,  16.77,          -62.1698,        0,   y, 2008-01-13, MVO plot_stations script
+MBLG,  16.728,         -62.1623,        0,   n, 2008-01-13, MVO plot_stations script
+MBLY,  16.724,         -62.191,         0,   n, 2008-01-13, MVO plot_stations script
+MBRV,  16.814,         -62.196,         0,   n, 2008-01-13, MVO plot_stations script
+MBRY,  16.707,         -62.1532,        0,   n, 2008-01-13, MVO plot_stations script
+MBSS,  16.69,          -62.1602,        0,   n, 2008-01-13, MVO plot_stations script
+MBWH   16.745,         -62.1908,        0,   n, 2008-01-13, MVO plot_stations script
+MBGH,  16.7217,        -62.2068,      351,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MGHZ1643302N 6212408W)
+MGLY,  16.72133,       -62.191,       355,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MLYT1643.28N06211.46W)
+MGJH,  16.7671667,     -62.3198333,   149,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MJHT1646.03N06210.19W)
+MBMW,  16.7421667,     -62.1908333,   407,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MWEH1644.53N06211.45W)
+MBRY,  16.7038333,     -62.1531667,   355,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MRYT1642.23N06209.19W)
+MBLG,  16.725,         -62.1623333,   287,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MLGT1643.50N06209.74W)
+MVO,   16.7465,        -62.2283333,    80,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MVOV1644.79N06213.70W)
+MBGB,  16.7320667,     -62.2277667,   253,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGB1643942N 6213666W)
+MBGH,  16.7225667,     -62.2086333,   350,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGH1643354N 6212518W)
+MBGA,  16.7101833,     -62.1886167,   478,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGA1642611N 6211317W)
+MBGE,  16.6900667,     -62.1937333,   183,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBGE1641404N 6211624W)
+MBBY,  16.6976833,     -62.20255,     161,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBBY1641861N 6212153W)
+MBBE,  16.74355,       -62.16015,     102,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBBE1644613N 62 9609W)
+MBWH,  16.7421833,     -62.1909333,   407,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBWH1644531N 6211456W)
+MBLG,  16.725,         -62.16225,     287,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLG1643500N 62 9735W)
+MBSS,  16.6870833,     -62.1602667,   395,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBSS1641225N 62 9616W)
+MBRY,  16.7039,        -62.1531667,   355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRY1642234N 62 9190W)
+MBMH,  16.77633333,    -62.1925,      270,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBMH1646.58N 6211.55W)
+MBRV,  16.8113333,     -62.196,       231,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBRV1648.68N 6211.76W)
+MBLY,  16.7213333,     -62.191,       355,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBLY1643.28N 6211.46W)
+MBHA,  16.7398333,     -62.1713333,   291,   n, 2008-01-13, MVO SEISAN STATION0.HYP (MBHA1644.39N 6210.28W)
+MBFR,  16.693,         -62.178,       541,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFR1641.58N 6210.68W)
+MBFL,  16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+SABA,  17.62050,       -63.24260,     261,   y, 2008-01-17, GPS - from miniseed data header
+SMRT,  18.05050,       -63.07460,     260,   y, 2008-01-17, GPS - from miniseed data header
+SEUS,  17.49280,       -62.98140,     460,   y, 2008-01-17, GPS - from miniseed data header
+AIRS,  16.741,         -62.214,         0,   n, 2008-04-06, Supplied by CALIPSO people
+TRNT,  16.764,         -62.163,         0,   n, 2008-04-06, Supplied by CALIPSO people
+OLVT,  16.750,         -62.228,         0,   n, 2008-04-06, Supplied by CALIPSO people
+GERS,  16.795,         -62.194,         0,   n, 2008-04-06, Supplied by CALIPSO people
+AIRS,  16.74079,       -62.21375,     129,   n, 2008-04-06, GPS - Garmin Etrex Vista
+GERS,  16.79481,       -62.19426,     166,   n, 2008-04-06, GPS - Garmin Etrex Vista
+DBCT,  15.2700667,     -61.3431167,     0,   n, 2007,       GPS - Ian (15N16.204 61W20.587)
+DBCT,  15.2700667,     -61.3431167,   527,   y, 2007,       GPS - Ian (15N16.204 61W20.587) - assumed 527m altitude
+SLB,   13.8275667,     -61.04125,       0,   n, 2007,       GPS - Ian (13N49.654 61W02.475)
+SLB,   13.8275667,     -61.04125,     600,   y, 2007,       GPS - Ian (13N49.654 61W02.475) - assumed 600m altitude
+SFAN,  13.3825833,     -61.1655667,     0,   n, 2007,       GPS - Ian (13N22.955 61W09.934)
+SFAN,  13.3825833,     -61.1655667,   229,   n, 2007,       GPS - Ian (13N22.955 61W09.934) - assumed 229m altitude
+BHS,   13.3149,        -61.12135,       0,   n, 2007,       GPS - Ian (13N18.894 61W07.281)
+BHS,   13.3149,        -61.12135,      90,   y, 2007,       GPS - Ian (13N18.894 61W07.281) - assumed 90m altitude
+SLDE,  13.80395,       -61.05955,       0,   n, 2007,       GPS - Ian (13N48.237 61W03.573)
+SLDE,  13.80395,       -61.05955,     246,   y, 2007,       GPS - Ian (13N48.237 61W03.573) - assumed 246m altitude
+DLPL,  15.332419,      -61.246788,     40.9, y, 2008-06-18, GPS - nmx soh log
+MCLT,  13.711493,      -60.942603,    165.1, n, 2008-06-18, GPS - nmx soh log
+MCLT,  13.711493,      -60.942603,    220,   y, 2008-06-18, GPS - nmx soh log - assumed 220m altitude
+SKI,   17.333800,      -62.737997,    273.2, n, 2008-06-18, GPS - nmx soh log
+TOSP,  11.298342,      -60.535198,    -12.6, n, 2008-06-18, GPS - nmx soh log
+SVB,   13.274497,      -61.250403,    250.7, n, 2008-06-18, GPS - nmx soh log
+DTRR,  15.3185,        -61.3923,       99,   n, ,           Found in nano setup file
+AOPR,  18.3466111,     -66.7538889,   355.1, y, ,           NEIC (18.182047.8N 664514.0W  355.1Arecibo Observatory)
+MWP,   16.6854,        -62.1965,        0,   y, , Taken  from Fig 2, Shepherd1971
+MWI,   16.7137,        -62.2195,        0,   y, , Taken  from Fig 2, Shepherd1971
+MWF,   16.7346,        -62.1804,        0,   y, , Taken  from Fig 2, Shepherd1971
+MWL,   16.7485,        -62.22,          0,   y, , Taken  from Fig 2, Shepherd1971
+MBWW,  16.738383,      -62.212050,    152.0, y, 2009-03, GPS - Locko (16N44.303 62W12.722)
+MBW2,  16.738383,      -62.212033,    151.0, y, 2009-03, GPS - Locko (16N44.303 62W12.723)
+MBW1,  16.738483,      -62.212167,    154.0, y, 2009-03, GPS - Locko (16N44.309 62W12.730)
+MBW3,  16.738283,      -62.211883,    150.0, y, 2009-03, GPS - Locko (16N44.297 62W12.713)  
+PSDMZ, 15.577,         -61.456,         1.0, n, 2009-11-23, Wayne Abraham
+PSDMZ, 15.57699,       -61.45523,       1.0, n, 2009-11-27, GPS - Reftek DAS
+MDCT,  15.6168,        -61.4629,       77.0, y, 2009-12-04, GPS - Reftek DAS
+MDPM,  15.5756,        -61.4517,        8.0, y, 2009-12-04, GPS - Reftek DAS
+MDVC,  15.6142,        -61.4055,       84.0, y, 2009-12-04, GPS - Reftek DAS
+GUSW,   2.692767917,   -59.644367583, 147.8, y, 2010-05-05, GCF file
+GUSW,   2.69621,       -59.64296,         0, n, 2010-05-05, Location provided by Guyana Govt.
+LUEV,   5.84,          -61.46,       1380.3, y, 2010-05-05, IRIS
+MPG,    5.11,          -52.64,        147,   y, 2010-05-05, IRIS
+PTGA,  -0.73,          -59.97,        237,   y, 2010-05-05, IRIS
+TOCV,   7.76,          -63.09,        157,   y, 2010-05-05, IRIS
+MDPV,  15.62753,       -61.42221,     282,   y, 2010-05-12, from Machel
+MDMP,  15.5958,        -61.41151,     177,   y, 2010-05-12, from Machel
+MBGB,  16.732333,      -62.227833,    253,   n, 2010-06-18, MVO scientific Report 60 [16:43.94N 62:13.67W 253]
+MBGH,  16.7225,        -62.208667,    350,   n, 2010-06-18, MVO scientific Report 60 [16:43.35N 62:12.52W 350]
+MBGA,  16.7101667,     -62.188667,    479,   n, 2010-06-18, MVO scientific Report 60 [16:42.61N 62:11.32W 479]
+MBGE,  16.69,          -62.193667,    183,   n, 2010-06-18, MVO scientific Report 60 [16:41.40N 62:11.62W 183]
+MBBE,  16.7435,        -62.1601667,   102,   n, 2010-06-18, MVO scientific Report 60 [16:44.61N 62:09.61W 102]
+MBWH,  16.7421667,     -62.1908333,   407,   n, 2010-06-18, MVO scientific Report 60 [16:44.53N 62:11.45W 407]
+MBLG,  16.725,         -62.129,       287,   n, 2010-06-18, MVO scientific Report 60 [16:43.50N 62:07.74W 287]
+MBRY,  16.7038333,     -62.1531667,   355,   n, 2010-06-18, MVO scientific Report 60 [16:42.23N 72:09.19W 355]
+MBET,  17.73817,       -62.15783,     107,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+MGH,   16.72,          -62.216,       351,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+MWI,   16.713,         -62.222,        46,   n, 1994,       Listed in SRU Seismological Bulletin Jan - Dec 1994
+MBHA,  16.742000,      -62.1682000,     0,   n, ,           Location used by French when they put data together for MVO Webobs.
+MCLT,  13.71129,       -60.94257,     176,   n, 2010-07-22, GPS - Rod (Garmin ETrex)
+MBHA,  16.741167,      -62.168333,    343  , n, 2009-01-15, GPS - Rod (Nikon) photo hovering above station 2009_001_237 [16:44:28.20N 62:10:06.00W 343]
+MBET,  16.741,         -62.1627,       99,   y,           , Roman2008 [16N44.460 62W9.762 99]
+MCPT,  16.7086833,     -62.1811667,   759,   y,           , Roman2008 [16N42.41  62W10.87 759]
+MGAT,  16.7101667,     -62.1886667,   479,   y,           , Roman2008 [16N42.61 62W11.32 479]
+MGHZ,  16.7217,        -62.2068,      351,   y,           , Roman2008 [16N43.302 62W12.408 351]
+MHRV,  16.7208,        -62.1705,      382,   y,           , Roman2008 [16N43.248 62W10.230 382]
+MJHT,  16.7671667,     -62.1698333,   149,   n,           , Roman2008 [16N46.03 62W10.19 149]
+MLGT,  16.725,         -62.1623333,   287,   y,           , Roman2008 [16N43.50 62W9.74 287]
+MLYT,  16.7213333,     -62.191,       355,   y,           , Roman2008 [16N43.28 62W11.46 355]
+MPVE,  16.7067,        -62.2232,       17,   y,           , Roman2008 [16N42.402 62W13.392 17]
+MRYT,  16.7038333,     -62.1531667,   355,   n,           , Roman2008 [16N42.23 62W9.19 355]
+MSAT,  16.7478,        -62.2248,      185,   y,           , Roman2008 [16N44.868 62W13.488 185]
+MSPT,  16.6835,        -62.1991667,   127,   y,           , Roman2008 [16N41.01 62W11.95 127]
+MSSZ,  16.69,          -62.172,       665,   y,           , Roman2008 [16N41.400 62W10.320 665]
+MVPV,  16.7435,        -62.2357,       23,   y,           , Roman2008 [16N44.610 62W14.142 23]
+MWHZ,  16.7421667,     -62.1908333,   407,   y,           , Roman2008 [16N44.53 62W11.45 407]
+MWH2,  16.7398,        -62.1932,      411,   y,           , Roman2008 [16N44.388 62W11.592 411]
+MBBE,  16.74355,       -62.16015,     102,   n,           , Roman2008 [16N44.613 62W9.609 102]
+MBBY,  16.6976833,     -62.20255,     161,   n,           , Roman2008 [16N41.861 62W12.153 161]
+MBFL,  16.7485,        -62.2125,      243,   n,           , Roman2008 [16N44.91 62W12.75 243]
+MBFR,  16.693,         -62.178,       541,   n,           , Roman2008 [16N41.58 62W10.68 541]
+MBGA,  16.7101833,     -62.1886167,   478,   n,           , Roman2008 [16N42.611 62W11.317 478]
+MBGB,  16.7323667,     -62.2277667,   253,   n,           , Roman2008 [16N43.942 62W13.666 253]
+MBGE,  16.6900667,     -62.1937333,   183,   n,           , Roman2008 [16N41.404 62W11.624 183]
+MBGH,  16.7225667,     -62.2086333,   350,   n,           , Roman2008 [16N43.354 62W12.518 350]
+MBHA,  16.7398333,     -62.1713333,   291,   n,           , Roman2008 [16N44.39 62W10.28 291]
+MBLG,  16.725,         -62.16225,     287,   n,           , Roman2008 [16N43.500 62W9.735 287]
+MBLY,  16.7213333,     -62.191,       355,   n,           , Roman2008 [16N43.28 62W11.46 355]
+MBMH,  16.7763333,     -62.1925,      270,   n,           , Roman2008 [16N46.58 62W11.55 270]
+MBRV,  16.8113333,     -62.196,       231,   n,           , Roman2008 [16N48.68 62W11.76 231]
+MBRY,  16.7039,        -62.1531667,   355,   n,           , Roman2008 [16N42.234 62W9.190 355]
+MBSS,  16.6870833,     -62.1602667,   395,   n,           , Roman2008 [16N41.225 62W9.616 395]
+MBWH,  16.7421833,     -62.1909333,   407,   n,           , Roman2008 [16N44.531 62W11.456 407]
+MBBY,  16.6977,        -62.2025,      160.0, n,           , NEIC - MVOV,Open,
+MBGA,  16.7102,        -62.1887,      479.0, n,           , NEIC - MVOV,Open,
+MBGB,  16.7323,        -62.2278,      253.0, n,           , NEIC - MVOV,Open,
+MBGE,  16.6900,        -62.1937,      183.0, n,           , NEIC - MVOV,Reserved,
+MBMH,  16.7763,        -62.1925,      270.0, n,           , NEIC - MVOV,Open,
+MBSS,  16.6870,        -62.1603,      395.0, n,           , NEIC - MVOV,Open,
+MBWH,  16.7422,        -62.1908,      407.0, n,           , NEIC - MVOV,Open,
+MCPZ,  16.7068,        -62.1812,      759.0, n,           , NEIC - MVOV,Reserved,
+MDUM,  16.7000,        -62.1667,     1000.0, n,           , NEIC - MVOV,Reserved,
+MJHT,  16.7672,        -62.1698,      149.0, n,           , NEIC - MVOV,Open,Jackboy Hill
+MLGT,  16.7250,        -62.1623,      287.0, n,           , NEIC - MVOV,Open,Long Ground
+MLYT,  16.7213,        -62.1910,      355.0, n,           , NEIC - MVOV,Open,
+MRYT,  16.7038,        -62.1532,      355.0, n,           , NEIC - MVOV,Open,
+MSPT,  16.6835,        -62.1992,      127.0, n,           , NEIC - MVOV,Reserved,Saint Patrick
+MVOV,  16.7465,        -62.2283,       80.0, n,           , NEIC - MVOV,Open,Montserrat Volcano Observatory
+ALNG,  10.1814,        -61.6882,        0.0, n,           , NEIC - TRN,Open,Atlantic Liquefied Natural Gas
+ANG,   17.1550,        -61.8300,       27.0, n,           , NEIC - TRN,Open,Antigua (Friars Hill)
+AWI,   17.1430,        -61.8350,       23.0, n,           , NEIC - TRN,Closed,Antigua
+B5GA,  13.0670,        -59.5955,       35.0, n,           , NEIC - TRN,Closed,5 Glenshane Apartments
+BBGH,  13.1434,        -59.5588,      180.0, y,           , NEIC - TRN,Open,Gun Hill
+BBL,   15.5262,        -61.4700,      365.0, n,           , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+BBSP,  13.1045,        -59.4579,       35.0, n,           , NEIC - TRN,Open,Saint Philip
+BDH,   13.2030,        -59.5890,      308.0, n,           , NEIC - TRN,Open,Highclere
+BDS,   13.1460,        -59.6260,      110.0, n,           , NEIC - TRN,Open,Barbados (Husbands)
+BHS,   13.2963,        -61.1272,       90.0, n,           , NEIC - TRN,Open,Barnard House
+BOT,   11.1667,        -60.7179,       30.0, n,           , NEIC - TRN,Open,Bacolet
+BPA,   17.0460,        -61.8570,      396.0, n,           , NEIC - TRN,Open,Boggy Peak
+BRB,   13.1220,        -59.6060,       55.0, n,           , NEIC - TRN,Closed,Barbados (Codrington)
+BSK,   17.3470,        -62.8400,      125.0, n,           , NEIC - TRN,Open,Brimstone Hill
+BUAY,  10.1072,        -61.6862,        0.0, n,           , NEIC - TRN,Open,Buenos Aires
+CPB,   17.6400,        -61.8260,        5.0, n,           , NEIC - TRN,Open,Codrington
+DBCT,  15.2708,        -61.3456,      527.0, n,           , NEIC - TRN,Open,Belle View Chopil
+DFBT,  15.2401,        -61.3559,       83.0, n,           , NEIC - TRN,Open,Forest Bistro
+DGBT,  15.2390,        -61.3290,       70.0, n,           , NEIC - TRN,Closed,Grand Bay
+DLVT,  15.4365,        -61.3946,      274.3, n,           , NEIC - TRN,Open,Layou Valley
+DOM,   15.2960,        -61.3910,       15.0, n,           , NEIC - TRN,Closed,Dominica (Roseau)
+DPMT,  15.2609,        -61.3770,       50.0, n,           , NEIC - TRN,Open,Pointe Michel
+DSC,   15.2084,        -61.3652,       50.0, n,           , NEIC - TRN,Closed,Scotts Head
+DSHT,  15.2136,        -61.3737,      133.4, n,           , NEIC - TRN,Open,Scott's Head
+DSTT,  15.2467,        -61.3035,      120.0, n,           , NEIC - TRN,Open,Stowe
+DSVT,  15.2290,        -61.3700,        5.0, n,           , NEIC - TRN,Closed,Soufri&egrave;re Village
+DTMT,  15.2330,        -61.3520,      496.0, n,           , NEIC - TRN,Open,Tete Morne
+DVDT,  15.3104,        -61.3134,      960.0, n,           , NEIC - TRN,Open,Valley of Desolation
+DWS,   15.5685,        -61.3113,       61.0, n,           , NEIC - TRN,Open,Wesley
+FCV,   13.1570,        -61.2450,      194.0, n,           , NEIC - TRN,Open,Fort Charlotte
+GNG,   11.1770,        -60.7980,       36.0, n,           , NEIC - TRN,Open,Grange
+GRCU,  12.4711,        -61.4529,      240.0, n,           , NEIC - TRN,Open,Cariacou
+GRE,   12.0470,        -61.7460,       15.0, n,           , NEIC - TRN,Open,Grenada (Saint George's)
+GRGR,  12.1324,        -61.6540,      195.0, y,           , NEIC - TRN,Open,Grenville
+GRHS,  12.2239,        -61.6413,       66.0, n,           , NEIC - TRN,Open,Sauteurs
+GRSS,  12.2985,        -61.6123,       20.0, n,           , NEIC - TRN,Open,Sisters
+GRW,   12.1600,        -61.6610,      762.0, n,           , NEIC - TRN,Open,Mount Saint Catherine
+MBET,  16.7414,        -62.1631,      350.0, n,           , NEIC - TRN,Open,Bethel
+MCLT,  13.7096,        -60.9412,      220.0, n,           , NEIC - TRN,Open,Moule a Chique
+MDN,   15.3185,        -61.3923,       99.0, n,           , NEIC - TRN,Open,Morne Daniel
+MGH,   16.7200,        -62.2160,      351.0, n,           , NEIC - TRN,Open,Saint George's Hill
+MWI,   16.7130,        -62.2220,       46.0, n,           , NEIC - TRN,Closed,Montserrat (Grove)
+NEV,   17.1361,        -62.5710,      244.0, n,           , NEIC - TRN,Open,Hard Times Estate
+O6A,   17.7920,        -61.0220,     -496.0, n,           , NEIC - TRN,Reserved,East Barbuda O.B.S.
+OHS,   13.3170,        -61.1480,      274.0, n,           , NEIC - TRN,Reserved,Orange Hill
+PIG,   11.1610,        -60.8410,        0.0, n,           , NEIC - TRN,Open,Pigeon Point
+PLS,   10.4130,        -61.4900,        0.0, n,           , NEIC - TRN,Closed,Point Lisas
+PLY,   11.2170,        -60.7790,        9.0, n,           , NEIC - TRN,Open,Plymouth
+RSV,   13.3070,        -61.2360,        8.0, n,           , NEIC - TRN,Open,Radio Antilles
+SABS,  17.6206,        -63.2430,      500.0, n,           , NEIC - TRN,Open,Saba (Government School)
+SFAN,  13.3838,        -61.1721,      229.0, n,           , NEIC - TRN,Open,Fancy Village
+SIH,   11.1714,        -60.7708,       80.0, n,           , NEIC - TRN,Reserved,Signal Hill
+SIPA,  10.1429,        -61.5060,       60.0, n,           , NEIC - TRN,Open,Siparia
+SKDB,  17.3969,        -62.8083,        0.0, n,           , NEIC - TRN,Open,Saint Kitts 2
+SKI,   17.3333,        -62.7390,      306.0, n,           , NEIC - TRN,Open,Saint Kitts (Bayfords)
+SLB,   13.8275,        -61.0412,      600.0, n,           , NEIC - TRN,Open,Belfond
+SLDE,  13.8031,        -61.0582,      246.0, n,           , NEIC - TRN,Open,Delcer
+SLI,   14.0280,        -61.0080,       30.0, n,           , NEIC - TRN,Closed,Saint Lucia (Vigie Point)
+SLPA,  13.8537,        -60.9190,      183.0, n,           , NEIC - TRN,Open,Patience
+SLPE,  13.8431,        -60.9952,      460.0, n,           , NEIC - TRN,Open,Piton Saint Espirit
+SLTA,  13.8704,        -61.0399,      550.0, n,           , NEIC - TRN,Open,Morne Tabac
+SLW,   14.0202,        -60.9384,      366.0, n,           , NEIC - TRN,Open,Petit Monier
+SOA,   13.3735,        -61.1486,       40.0, n,           , NEIC - TRN,Open,Owia
+SRH,   13.1860,        -61.2540,      274.0, n,           , NEIC - TRN,Reserved,Rilland Hill
+SSV,   13.3270,        -61.1930,      824.0, n,           , NEIC - TRN,Open,Crater Summit
+STAT,  17.4950,        -62.9787,       50.0, n,           , NEIC - TRN,Open,Sint Eustatius (Agricultural Station)
+STMA,  18.0428,        -63.1089,       28.2, n,           , NEIC - TRN,Open,St. Maarten; Airport
+SVB,   13.2720,        -61.2520,      282.0, n,           , NEIC - TRN,Open,Belmont
+SVG,   13.2450,        -61.2780,       46.0, n,           , NEIC - TRN,Reserved,Indian Gallows
+SVI,   13.1700,        -61.2580,       10.0, n,           , NEIC - TRN,Closed,Saint Vincent (Questelles Point)
+SVL,   13.3680,        -61.2040,       91.0, n,           , NEIC - TRN,Reserved,Baleine
+SVT,   13.1680,        -61.2450,       38.0, n,           , NEIC - TRN,Open,Saint Vincent (Camden Park)
+SVV,   13.3180,        -61.2160,      243.0, n,           , NEIC - TRN,Open,Soufriere Volcano (Wallibou)
+TBH,   10.4840,        -61.0670,      199.0, n,           , NEIC - TRN,Open,Brigand Hill
+TBVI,  18.4100,        -64.6100,      100.0, n,           , NEIC - TRN,Open,Tortola
+TCE,   10.6970,        -61.7530,      240.0, n,           , NEIC - TRN,Open,Chacachacare
+TCHG,  10.6800,        -61.6600,       21.0, n,           , NEIC - TRN,Open,Chaguaramas
+TOB,   11.1410,        -60.8410,       15.0, n,           , NEIC - TRN,Open,Tobago (Crown Point)
+TPP,   10.3170,        -61.4510,       46.0, n,           , NEIC - TRN,Open,Pointe-a-Pierre
+TPR,   11.1860,        -60.7770,      245.0, n,           , NEIC - TRN,Open,Prospect
+TRN,   10.6480,        -61.4030,       24.0, n,           , NEIC - TRN,Open,Trinidad (Saint Augustine)
+TTR,   10.6740,        -61.0660,       46.0, n,           , NEIC - TRN,Open,Matura
+VGVI,  18.4400,        -64.4300,       20.0, n,           , NEIC - TRN,Closed,Virgin Gorda
+MBHA,  16.74201,       -62.16822,     250.0, y, 2010-08-11, Barry Voight
+MBGH,  16.7225,        -62.2087,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBWH,  16.7422,        -62.1909,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBGB,  16.7323,        -62.2278,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBFR,  16.6930,        -62.1780,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBRY,  16.7039,        -62.1532,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBBY,  16.6977,        -62.2025,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBHA,  16.7420,        -62.1682,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBLG,  16.7250,        -62.1622,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBFL,  16.7485,        -62.2125,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBRV,  16.8113,        -62.1960,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+MBLY,  16.7213,        -62.1910,        0.0, n, 2008-02-29, S. de Angelis email to RCS
+BBL,   15.5262,        -61.4700,      365.0, n,           , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+DEG,   16.3132,        -61.0598,      575.0, n,           , NEIC - FDF,Open,La Desirade
+MGG,   15.9180,        -61.3170,       51.0, n,           , NEIC - FDF,Open,Marie Galante
+ATG,   16.098667,      -61.72200,     851.0, n,           , Nisha's spreadsheet
+DEG,   16.313167,      -61.06183,     275.0, n,           , Nisha's spreadsheet
+MGG,   15.918000,      -61.31683,      51.0, n,           , Nisha's spreadsheet
+TBG    15.851930,      -61.64536,      92.0, n, 2004-11-27, GPS - Nisha's spreadsheet
+ATG,   16.094333,      -61.726333,    865.0, y, , ATGZ in file suppplied by station operator (stations_ovsg.en) [1605.77N 6143.58W 865]
+BBL,   15.526167,      -61.47,        365.0, y, , BBLZ in file suppplied by station operator (stations_ovsg.en) [1531.57N 6128.20W 365]
+MGG,   15.915,         -61.3205,       88.0, y, , MGGZ in file suppplied by station operator (stations_ovsg.en) [1554.90N 6119.23W  88]
+TBG,   15.852,         -61.645333,     92.0, y, , TBGZ in file suppplied by station operator (stations_ovsg.en) [1551.12N 6138.72W  92]
+DEG,   16.3111667,     -61.064,       279.0, y, , DEGZ in file suppplied by station operator (stations_ovsg.en) [1618.67N 6103.84W 279]
+MML,   16.0445,        -61.669,      1197.0, y, , MMLL in file suppplied by station operator (stations_ovsg.en) [1602.67N 6140.14W1197]
+BBL,   15.5262,        -61.4700,      365.0, n, , NEIC - TRN,Open,Barbers Block (Morne Espagnol)
+FDF,   14.7333,        -61.1503,      510.0, n, , NEIC - FDF,Open,Fort de France (Morne des Cadets)
+MBBY,  16.69766,       -62.20256,     168.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBFL,  16.74843,       -62.21255,     251.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBFR,  16.69278,       -62.17772,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBGB,  16.73239,       -62.22778,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBGH,  16.72259,       -62.20865,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBLG,  16.72502,       -62.16223,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBLY,  16.72116,       -62.19076,     370.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBRY,  16.70395,       -62.15318,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBWH,  16.74220,       -62.19095,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBWW,  16.73838,       -62.21202,       0.0, n, 2010-10-13, GPS 1 month average from digitiser log files. PJS
+MBFL,  16.74843,       -62.21257,     246.0, n, 2011-01-17, GPS - Rod (Garmin GPSmap 60CSX, ave of 150, accuracy 1.9m)
+HARR,  16.74132,       -62.16775,     244.0, y, 2011-01-17, GPS - from webobs
+MVO1,  16.77669,       -62.19285,     244.0, y, 2011-01-17, GPS - from webobs
+SSOU,  16.68787,       -62.16139,     407.0, y, 2011-01-17, GPS - from webobs
+SPRI,  16.70134,       -62.19424,     253.0, y, 2011-01-17, GPS - from webobs
+WTYD,  16.73174,       -62.16013,     151.0, y, 2011-01-17, GPS - from webobs
+BR,    16.69048,       -62.20905,      36.0, y, 2011-01-17, GPS - from webobs
+LL,    16.71451,       -62.21794,      62.0, y, 2011-01-17, GPS - from webobs
+MVOT,  16.74862,       -62.21261,     243.0, y, 2011-01-18, GPS - from webobs
+MVOW,  16.74862,       -62.21261,     243.0, y, 2011-01-18, GPS - from webobs
+MVOR,  16.74862,       -62.21261,     243.0, y, 2011-01-18, GPS - from webobs
+FERG,  16.69282,       -62.17737,     591.0, y, 2011-01-18, GPS - from webobs
+GARI,  16.73241,       -62.22754,     264.0, y, 2011-01-18, GPS - from webobs
+JACK,  16.76723,       -62.16975,     187.0, y, 2011-01-18, GPS - from webobs
+SILV,  16.81137,       -62.19265,     300.0, y, 2011-01-18, GPS - from webobs
+AIRS,  16.74083,       -62.21386,      84.0, y, 2011-01-18, GPS - from webobs
+GERS,  16.79481,       -62.19430,     126.0, y, 2011-01-18, GPS - from webobs
+OLVT,  16.75040,       -62.22773,      41.0, y, 2011-01-18, GPS - from webobs
+OLV1,  16.75040,       -62.22773,      41.0, y, 2022-09-14, Copy of OLVT
+TRNT,  16.76428,       -62.16330,      23.0, y, 2011-01-18, GPS - from webobs
+UEA12, 16.7485,        -62.2125,      243,   y, 2008-01-13, MVO SEISAN STATION0.HYP (MBFL1644.91N 6212.75W)
+DT1,   16.69323,       -62.20882,       2,   y, 2011-01-19, GPS - from webobs
+DT2,   16.78841,       -62.21093,       3,   y, 2011-01-19, GPS - from webobs
+DT3,   16.78786,       -62.19231,       0,   y, 2011-01-19, GPS - from webobs
+DT4,   16.76721,       -62.16981,       2,   y, 2011-01-19, GPS - from webobs
+DT5,   16.70959,       -62.22262,       1,   y, 2011-01-19, GPS - from webobs
+DT6,   16.71771,       -62.22086,       2,   y, 2011-01-19, GPS - from webobs
+DT7,   16.76857,       -62.21869,       1,   y, 2011-01-19, GPS - from webobs
+DT8,   16.75160,       -62.21959,       1,   y, 2011-01-19, GPS - from webobs
+DT9,   16.72286,       -62.20838,       2,   y, 2011-01-19, GPS - from webobs
+DT10,  16.74580,       -62.23266,       5,   y, 2011-01-19, GPS - from webobs
+DT11,  16.72942,       -62.21025,       2,   y, 2011-01-19, GPS - from webobs
+SAUG,  16.76849,       -62.21827,      73,   y, 2011-01-19, GPS - from webobs
+SCLN,  16.75167,       -62.23267,      43,   y, 2011-01-19, GPS - from webobs
+EDJH,  16.76729,       -62.16975,     193,   y, 2011-01-19, GPS - from webobs
+EDWR,  16.69993,       -62.18411,     489,   y, 2011-01-19, GPS - from webobs
+MIC3,  16.74909,       -62.21273,       0,   n, 2011-01-26, GPS - Mike? (Garmin GPSmap 60CSxi, ave of 170, accuracy 2.6m)
+MIC4,  16.74775,       -62.21253,       0,   n, 2011-01-26, GPS - Mike? (Garmin GPSmap 60CSxi, ave of 155, accuracy 2.2m)
+MIC3,  16.74911,       -62.21273,     248,   y, 2011-01-28, GPS - Andy (Garmin GPSmap 60CSxi, ave of 200, accuracy 1.8m)
+MIC4,  16.74774,       -62.21254,     220,   y, 2011-01-28, GPS - Andy (Garmin GPSmap 60CSxi, ave of 200, accuracy 1.8m)
+REDO,  16.937132,      -62.344914,      0,   y, 2012-04-14, Google Earth
+MSIL,  16.813044,      -62.193043,      0,   y, 2012-04-14, Google Earth
+MBOL,  16.75040,       -62.22773,      41.0, y, 2012-04-14, CALIPSO location
+MBHE,  16.72155,       -62.16977,     437,   y, 2012-04-14, GPS location
+MBGL,  16.703697,      -62.168193,      0,   y, 2012-04-14, Google Earth
+MROD,  16.73873874,    -62.22459513,   69,   n, 2020-01-21, Shakenet KML file
+MROD,  16.745151,      -62.225863,      0,   y, 2023-04-10, Google Earth
+R8282, 15.58558559,    -61.44984519,  111,   y, 2020-01-21, Shakenet KML file
+S2625, 15.24324324,    -61.31987935,  166,   y, 2020-01-21, Shakenet KML file
+R3E0C, 15.33333333,    -61.3280325,   604,   y, 2020-01-21, Shakenet KML file
+RBA2A, 15.31531532,    -61.33162383,  333,   y, 2020-01-21, Shakenet KML file
+RBC24, 15.30630631,    -61.34933775,  114,   y, 2020-01-21, Shakenet KML file
+RDCDD, 15.20720721,    -61.35747063,   86,   y, 2020-01-21, Shakenet KML file
+RC13E, 15.23423423,    -61.31824633,  160,   y, 2020-01-21, Shakenet KML file
+R569B, 15.20720721,    -61.35828614,    5,   y, 2020-01-21, Shakenet KML file
+PSDMA, 15.23500,       -61.35700,      60.0, y, 2020-01-21, ISC
+PSDMB, 15.58500,       -61.45700,      40.0, y, 2020-01-21, ISC
+PSDMZ, 15.57700,       -61.45631,       0.0, y, 2020-01-21, ISC
+MSS1,  16.72182,       -62.1780,      488,   y, 2020-02-03, Webobs
+ABD,   16.47430,       -61.48810,      12,   y, 2020-02-03, ISC
+GRFF,  12.04920,       -61.73760,     223.0, y, 2020-05-21, ISC
+SVGT,  13.2805,        -61.1193,       25.3, y, 2020-01-09, Chan, SRC
+GCMP,  12.486,         -61.426,        39.9, y, 2020-05-21, ISC
+TDBA,  15.855,         -61.6354,      159.0, y, 2021-01-16, FDSN
+MOG,   16.05804,       -61.71545,       0.0, y, 2021-01-16, FDSN
+DHS,   16.28868,       -61.765236,      0.0, y, 2021-01-16, FDSN
+DSD,   16.31277,       -61.06605,       0.0, y, 2021-01-16, FDSN
+NEMO,  13.162204,      -61.228364,      0.0, y, 2021-01-17, Michal, SRC (13o09'43.9345"N 61o13'42.1091"W)
+SSVA,  13.323083,      -61.182508,    787.0, y, 2021-01-19, Chan (digitiser GPS)
+CBE,   16.06970,       -61.60710,     380.0, y, 2021-01-25, ISC
+SFAN,  13.38381,       -61.17211,     229.0, n, 2021-02-06, ISC
+SOA,   13.37350,       -61.14860,      40.0, n, 2021-02-06, ISC
+SVB,   13.27200,       -61.25200,     202.0, n, 2021-02-06, ISC
+SVGT,  13.28040,       -61.11940,      18.8, n, 2021-02-06, ISC
+SVT,   13.16977,       -61.24181,      49.0, n, 2021-02-06, ISC
+SVV,   13.31800,       -61.21600,     243.0, n, 2021-02-06, ISC
+SSVA,  13.322875160,   -61.18255834,  798.2, n, 2021-02-06, ISC
+SFAN,  13.381502,      -61.165876,     40.0, y, 2021-01-22, Chan (digitiser GPS)
+SVWL,  13.316220,      -61.152760,    353.0, y, 2021-02-28, Chan (digitiser GPS)
+SLBI,  14.023000,      -60.97400,      60,   y, 2021-03-24, Nisha
+SVV,   13.319594,      -61.212551,    207,   y, 2021-09-05, Chan (digitiser GPS)
+MBRV,  16.81128,       -62.19609,     228,   n, 2021-09-15, Marlon (handheld GPS)
+MBRV,  16.81127,       -62.19608,     231,   n, 2021-10-12, ISC
+MBRY,  16.70383,       -62.15317,     355,   n, 2021-10-12, ISC
+MSCS,  16.70338,       -62.18823,     457,   y, 2021-10-14, Webobs (location of ash bucket)
+MSGS,  16.70665,       -62.17086,     781,   n, 2021-10-14, Webobs (location of temperature logger)
+MSUH,  16.71900,       -62.1702,      515,   n, 2021-10-14, Webobs
+MSCP,  16.70935,       -62.1809,      876,   y, 2021-10-14, Webobs
+MBWH,  16.74217,       -62.19083,     407,   n, 2021-10-12, ISC
+42060, 16.433,         -63.331,         0,   y, 2021-10-17, https://www.ndbc.noaa.gov/
+41040, 14.541,         -53.137,         0,   y, 2023-10-05, https://www.ndbc.noaa.gov/
+41044, 21.582,         -58.630,         0,   y, 2023-10-05, https://www.ndbc.noaa.gov/
+MSMX,  16.73075,       -62.20287,     135.3, y, 2016-12-11, Webobs
+SVFH,  13.29690,       -61.23120,     57.0,  y, 2023-02-20, ISC
+SVGM,  13.21510,       -61.17460,    367.0,  y, 2023-02-20, ISC
+MBWR,  16.68576,       -62.19120,      0.0,  y, 2023-03-31, Google Earth
+MSRE,  16.699647,      -62.183419,     0.0,  n, 2023-03-31, Google Earth
+CDRO,  38.62917,       -28.69919,     195.0, y, 2023-09-12, ISC                      
+CMLA,  37.76369,       -25.52431,     332.0, y, 2023-09-12, ISC                      
+EOSO,  28.07181,       -15.55250,     760.0, y, 2023-09-12, ISC                      
+MACI,  28.25019,       -16.50819,    1674.0, y, 2023-09-12, ISC                      
+MESC,  37.79310,       -25.44560,     790.0, y, 2023-09-12, ISC
+ROSA,  38.71950,       -28.24150,     310.0, y, 2023-09-12, ISC
+SACV,  14.97019,       -23.60850,     387.0, y, 2023-09-12, ISC                      
+SET3,  37.89180,       -25.78200,     300.0, y, 2023-09-12, ISC
+SVMA,  16.84000,       -24.92000,    197.0, y, 2023-09-12, ISC
+BIM,  14.51700,        -61.07080,     425.0, y, 2023-09-12, ISC
+DDOJ, 15.37300,        -61.40390,      35.0, y, 2023-09-12, ISC
+DMLD, 15.55050,        -61.30140,      50.0, y, 2023-09-12, ISC
+DSLB, 15.43800,        -61.42100,     279.0, y, 2023-09-12, ISC
+ILAM, 14.77470,        -60.87360,      38.0, y, 2023-09-12, ISC
+MAGL, 15.94940,        -61.28220,     159.0, y, 2023-09-12, ISC
+MPOM, 14.44470,        -60.85880,      40.0, y, 2023-09-12, ISC
+SBLM, 17.91500,        -62.85070,     110.0, y, 2023-09-12, ISC
+SKDB, 17.413154,       -62.811835,     21.0, y, 2023-12-04, Nisha, SRC
+MAA1, 16.711239,       -62.207601,      0.0, y, 2024-04-03, Google Earth
+MAA2, 16.707224,       -62.206354,      0.0, y, 2024-04-03, Google Earth
+MAA3, 16.700606,       -62.216215,      0.0, y, 2024-04-03, Google Earth
+MAB,  16.722685,       -62.193153,      0.0, y, 2024-04-03, Google Earth
+MAC1, 16.755690,       -62.160910,      0.0, y, 2024-04-03, Google Earth
+MAC2, 16.762408,       -62.158823,      0.0, y, 2024-04-03, Google Earth
+MAC3, 16.744876,       -62.160938,      0.0, y, 2024-04-03, Google Earth
+MAD,  16.733223,       -62.180659,      0.0, y, 2024-04-03, Google Earth
+SGHWx, 16.72457,       -62.20392,     333.0, y, 2024-06-11, Webobs
+LeesWx, 16.72119,      -62.19078,     363.0, y, 2024-06-11, Webobs
+HermWx, 16.72161,      -62.16976,     460.0, y, 2024-06-11, Webobs
+TRPG,  16.7914,        -62.1933,        0.0, y, 2024-06-11, meteostat.net
+MSA1,  16.711527,      -62.207545,      0.0, y, 2024-06-11, Handheld GPS
+MSA2,  16.759317,      -62.156935,      0.0, y, 2024-06-11, Handheld GPS
+MA1A0, 16.711527,      -62.207545,      0.0, y, 2024-06-11, Handheld GPS
+MA1A1, 16.711898,      -62.207613,      0.0, y, 2024-06-11, Handheld GPS
+MA1A2, 16.711786,      -62.207175,      0.0, y, 2024-06-11, Handheld GPS
+MA1A3, 16.711460,      -62.207082,      0.0, y, 2024-06-11, Handheld GPS
+MA1A4, 16.711073,      -62.207381,      0.0, y, 2024-06-11, Handheld GPS
+MA1A5, 16.711185,      -62.207824,      0.0, y, 2024-06-11, Handheld GPS
+MA1A6, 16.711576,      -62.207949,      0.0, y, 2024-06-11, Handheld GPS
+MA1B1, 16.712344,      -62.207212,      0.0, y, 2024-06-11, Handheld GPS
+MA1B2, 16.712131,      -62.206720,      0.0, y, 2024-06-11, Handheld GPS
+MA1B3, 16.711420,      -62.206572,      0.0, y, 2024-06-11, Handheld GPS
+MA1B4, 16.710907,      -62.206804,      0.0, y, 2024-06-11, Handheld GPS
+MA1B5, 16.710581,      -62.207335,      0.0, y, 2024-06-11, Handheld GPS
+MA1B6, 16.710664,      -62.207981,      0.0, y, 2024-06-11, Handheld GPS
+MA1B7, 16.711008,      -62.208333,      0.0, y, 2024-06-11, Handheld GPS
+MA1B8, 16.711815,      -62.208411,      0.0, y, 2024-06-11, Handheld GPS
+MA1B9, 16.712335,      -62.207977,      0.0, y, 2024-06-11, Handheld GPS
+MA2A0, 16.759317,      -62.156935,      0.0, y, 2024-06-11, Handheld GPS
+MA2A1, 16.759670,      -62.157106,      0.0, y, 2024-06-11, Handheld GPS
+MA2A2, 16.759537,      -62.156642,      0.0, y, 2024-06-11, Handheld GPS
+MA2A3, 16.759109,      -62.156469,      0.0, y, 2024-06-11, Handheld GPS
+MA2A4, 16.758805,      -62.156920,      0.0, y, 2024-06-11, Handheld GPS
+MA2A5, 16.758955,      -62.157285,      0.0, y, 2024-06-11, Handheld GPS
+MA2A6, 16.759281,      -62.157402,      0.0, y, 2024-06-11, Handheld GPS
+MA2B1, 16.760193,      -62.157070,      0.0, y, 2024-06-11, Handheld GPS
+MA2B2, 16.759953,      -62.156272,      0.0, y, 2024-06-11, Handheld GPS
+MA2B3, 16.759421,      -62.155945,      0.0, y, 2024-06-11, Handheld GPS
+MA2B4, 16.758510,      -62.156371,      0.0, y, 2024-06-11, Handheld GPS
+MA2B5, 16.758328,      -62.156942,      0.0, y, 2024-06-11, Handheld GPS
+MA2B6, 16.758452,      -62.157365,      0.0, y, 2024-06-11, Handheld GPS
+MA2B7, 16.758872,      -62.157795,      0.0, y, 2024-06-11, Handheld GPS
+MA2B8, 16.759446,      -62.157836,      0.0, y, 2024-06-11, Handheld GPS
+MA2B9, 16.759923,      -62.157797,      0.0, y, 2024-06-11, Handheld GPS
+MSGS,  16.706257,      -62.171417,    797.4, y, 2024-06-06, Handheld GPS
+MSRE,  16.701062,      -62.181244,    594.7, y, 2024-06-06, Handheld GPS
+MSGA,  16.710260,      -62.190447,    474.1, y, 2024-06-06, Handheld GPS
+MBAM,  16.707576,      -62.206538,      0.0, y, 2024-06-06, Handheld GPS
+MBMO,  16.7747,        -62.1932,      288.0, y, 2024-06-03, Handheld GPS
+MSUH,  16.719058,      -62.170247,    543.3, y, 2024-06-06, Handheld GPS
+ON001, 16.7324690055102, -62.2136889863759, 120.689148, 2024-05-29T17:19:12Z, y, Handheld GPS
+ON002, 16.7320560291409, -62.2143140248954, 116.725037, 2024-05-29T17:24:43Z, y, Handheld GPS
+ON005, 16.7314910050481, -62.2146769613027, 110.579041, 2024-05-29T17:33:02Z, y, Handheld GPS
+ON006, 16.7310959659516, -62.2150219604372, 105.033957999999, 2024-05-29T17:36:44Z, y, Handheld GPS
+ON007, 16.7305560037493, -62.2153549734503, 99.2003629999999, 2024-05-29T17:44:31Z, y, Handheld GPS
+ON008, 16.7301580309867, -62.215718999505, 95.4366299999999, 2024-05-29T17:48:42Z, y, Handheld GPS
+ON009, 16.729712029919, -62.216052012518, 92.3531949999999, 2024-05-29T17:52:54Z, y, Handheld GPS
+ON010, 16.7293390352278, -62.2164020407944, 90.465805, 2024-05-29T17:55:40Z, y, Handheld GPS
+ON011, 16.7288070358335, -62.2168170288205, 85.904846, 2024-05-29T18:01:21Z, y, Handheld GPS
+ON012, 16.7283099889755, -62.2170789632946, 85.6452259999999, 2024-05-29T18:06:18Z, y, Handheld GPS
+ON013, 16.7280570231378, -62.2178169898688, 80.730553, 2024-05-29T18:12:45Z, y, Handheld GPS
+ON014, 16.7276309709995, -62.2178790159523, 81.6124109999999, 2024-05-29T18:15:58Z, y, Handheld GPS
+ON015, 16.7270380351692, -62.2182800062, 80.9854739999999, 2024-05-29T18:19:58Z, y, Handheld GPS
+ON016, 16.7264630366116, -62.2186039667576, 80.4695739999999, 2024-05-29T18:23:32Z, y, Handheld GPS
+ON017, 16.7257250100374, -62.2190750297158, 76.75457, 2024-05-29T18:27:28Z, y, Handheld GPS
+ON018, 16.7250039987266, -62.219270998612, 73.538071, 2024-05-29T18:32:48Z, y, Handheld GPS
+ON019, 16.7243600171059, -62.2195460088551, 71.952072, 2024-05-29T18:37:10Z, y, Handheld GPS
+ON020, 16.723606986925, -62.2196259722113, 69.470146, 2024-05-29T18:42:47Z, y, Handheld GPS
+ON021, 16.7228220216929, -62.2196950390934, 66.5535809999999, 2024-05-29T18:47:43Z, y, Handheld GPS
+ON022, 16.7220720089972, -62.2197240404784, 67.231689, 2024-05-29T18:49:41Z, y, Handheld GPS
+ON023, 16.7213299591094, -62.2195210307836, 67.914482, 2024-05-29T18:52:50Z, y, Handheld GPS
+ON024, 16.7206230293959, -62.2195310052484, 69.7093959999999, 2024-05-29T18:55:54Z, y, Handheld GPS
+ON025, 16.7197760380804, -62.2196279838681, 71.0374529999999, 2024-05-29T18:58:11Z, y, Handheld GPS
+ON026, 16.7188619915395, -62.2196819633245, 71.749008, 2024-05-29T19:00:57Z, y, Handheld GPS
+ON027, 16.7181460093706, -62.2194780316203, 70.2449799999999, 2024-05-29T19:04:02Z, y, Handheld GPS
+ON028, 16.7169749736785, -62.2200169879943, 64.2290119999999, 2024-05-30T18:42:09Z, y, Handheld GPS
+ON029, 16.7157860007137, -62.2199930157512, 58.910038, 2024-05-30T18:46:20Z, y, Handheld GPS
+ON030, 16.7144080158323, -62.2197630163282, 54.1870079999999, 2024-05-30T18:50:52Z, y, Handheld GPS
+ON031, 16.713180989027, -62.2205729596316, 44.67345, 2024-05-30T18:54:47Z, y, Handheld GPS
+ON032, 16.7098559718579, -62.221980029717, 32.0182689999999, 2024-05-30T19:02:33Z, y, Handheld GPS
+ON033, 16.7622000351548, -62.2232769615948, 16.9403189999999, 2024-05-30T22:15:22Z, y, Handheld GPS
+ON034, 16.8002240359783, -62.2021239716559, 40.905106, 2024-06-01T15:14:05Z, y, Handheld GPS
+ON036, 16.8116410262882, -62.1922709606587, 398.458800999999, 2024-06-01T15:42:05Z, y, Handheld GPS
+ON037, 16.803503036499, -62.1934409905225, 261.399138999999, 2024-06-01T15:53:17Z, y, Handheld GPS
+ON038, 16.7777440231293, -62.1950749587267, 209.557083, 2024-06-01T16:13:22Z, y, Handheld GPS
+ON040, 16.7970819957554, -62.1832650247961, 29.524673, 2024-06-01T16:34:21Z, y, Handheld GPS
+ON041, 16.780896037817, -62.1787559799849, 169.858870999999, 2024-06-01T16:52:32Z, y, Handheld GPS
+ON042, 16.7673969827592, -62.1710919868201, 226.823882999999, 2024-06-01T17:08:23Z, y, Handheld GPS
+ON043, 16.77048, -62.189654, 403.004852, 2024-06-02T17:26:10Z, y, Handheld GPS
+ON045, 16.772175, -62.207671, 264.746033, 2024-06-02T17:55:13Z, y, Handheld GPS
+ON047, 16.739053, -62.231978, 11.959907, 2024-06-02T18:50:32Z, y, Handheld GPS
+ON048, 16.712335, -62.22192, 50.578033, 2024-06-03T17:46:23Z, y, Handheld GPS
+ON049, 16.708563, -62.22254, 38.256241, 2024-06-03T17:51:49Z, y, Handheld GPS
+ON052, 16.707178, -62.222235, 35.071724, 2024-06-03T17:57:08Z, y, Handheld GPS
+ON053, 16.70602, -62.221816, 30.714756, 2024-06-03T18:01:55Z, y, Handheld GPS
+ON054, 16.704478, -62.221644, 23.15563, 2024-06-03T18:12:18Z, y, Handheld GPS
+ON055, 16.704389, -62.220809, 22.656982, 2024-06-03T18:24:22Z, y, Handheld GPS
+ON056, 16.729335, -62.208588, 163.623993, 2024-06-03T18:53:56Z, y, Handheld GPS
+ON057, 16.729176, -62.210861, 144.966675, 2024-06-03T18:57:54Z, y, Handheld GPS
+ON058, 16.7386670038104, -62.2097290400415, 150.551299999999, 2024-06-04T16:07:05Z, y, Handheld GPS
+ON059, 16.740828026086, -62.2138960193842, 135.988601999999, 2024-06-04T16:29:13Z, y, Handheld GPS
+ON060, 16.726944996044, -62.208622964099, 262.497131, 2024-06-04T19:19:52Z, y, Handheld GPS
+ON061, 16.7233589664101, -62.2052120324224, 326.129517, 2024-06-04T19:27:25Z, y, Handheld GPS
+ON062, 16.7217619623988, -62.2072609886527, 370.215729, 2024-06-04T19:34:28Z, y, Handheld GPS
+ON063, 16.7249480076134, -62.2041119914501, 342.510131999999, 2024-06-04T19:43:40Z, y, Handheld GPS
+ON064, 16.7245569918304, -62.2039600275456, 343.001526, 2024-06-04T19:47:31Z, y, Handheld GPS
+ON065, 16.724177962169, -62.2058860212564, 325.086853, 2024-06-04T19:58:37Z, y, Handheld GPS
+ON066, 16.7296260315924, -62.2073690313845, 194.943161, 2024-06-04T20:09:39Z, y, Handheld GPS
+ON067, 16.7318909894675, -62.2101229894906, 140.974166999999, 2024-06-04T20:16:57Z, y, Handheld GPS
+ON069, 16.7313879914581, -62.1599629987031, 196.847915999999, 2024-06-05T17:03:08Z, y, Handheld GPS
+ON077, 16.7528750002384, -62.2085419949144, 452.354736, 2024-06-10T10:52:33Z, y, Handheld GPS
+ON078, 16.7554889805614, -62.2046180069446, 702.204162999999, 2024-06-10T12:12:43Z, y, Handheld GPS
+ON080, 16.7276039812713, -62.2171709965914, 113.977378999999, 2024-06-11T12:31:39Z, y, Handheld GPS
+ON082, 16.7278400156646, -62.217244002968, 115.937538, 2024-06-11T12:34:21Z, y, Handheld GPS
+ON083, 16.7281059734523, -62.2171630337834, 114.80513, 2024-06-11T12:35:27Z, y, Handheld GPS
+ON084, 16.7286170180886, -62.2169819846749, 110.415253, 2024-06-11T12:37:04Z, y, Handheld GPS
+ON085, 16.7287269886583, -62.2189120016992, 91.0965419999999, 2024-06-11T12:44:04Z, y, Handheld GPS
+ON086, 16.7274810187518, -62.2173740062862, 100.142944, 2024-06-11T12:52:44Z, y, Handheld GPS
+ON121, 16.768813021481, -62.2183080017566, 52.1593319999999, 2024-06-12T13:59:17Z, y, Handheld GPS
+ON122, 16.789080966264, -62.1876500174403, 195.450606999999, 2024-06-12T15:07:55Z, y, Handheld GPS

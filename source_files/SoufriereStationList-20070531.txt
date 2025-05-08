@@ -1,0 +1,981 @@
+
+Page  1
+
+Station  Latitude    Longitude   Height
+  ABG    16.032300N   61.66030W    1.15
+Abri du Galion, Guadeloupe                                                      
+  ABV    18.732000N   64.33700W   0.000
+Anegada, Virgin Is. Opened, 1975/01/01. Closed, 1999/08/25.                     
+  AECU    0.270500S   78.40700W   3.000
+Anegada, Virgin Is. Opened, 1975/01/01. Closed, 1999/08/25.                     
+  AGP    18.407777N   67.14027W   0.220
+Aguadilla, PR. (CMG-T3e). Updated at SRU Apr. 01, 2003.                         
+  ALM     14.80450N   61.15650W   0.844
+Aguadilla, PR. (CMG-T3e). Updated at SRU Apr. 01, 2003.                         
+  ALNG   10.181417N   61.68825W    0.00
+Atlantic Liquified Natural Gas, Trinidad.March, 2000 (C.Ramsingh). Three-comp. B
+roadband).Also LNG, ALNG code approved 3\04\01.                                 
+  ANCC    3.515333N   76.86667W    0.54
+Atlantic Liquified Natural Gas, Trinidad.March, 2000 (C.Ramsingh). Three-comp. B
+roadband).Also LNG, ALNG code approved 3\04\01.                                 
+  ANG    17.155000N   61.83000W   0.027
+Frias Hill. Antigua                                                             
+  ANGV    9.705000N   69.52170W    0.68
+Angostura, Venezuela. Opened, 1984/01/01. Closed, 1999/08/25.                   
+  ANT    23.705000S   70.41530W    .080
+Angostura, Venezuela. Opened, 1984/01/01. Closed, 1999/08/25.                   
+  ANVI   18.740000N   64.34000W     0.0
+Anegada. Coordinates estimated. 01/04/2003                                      
+  APR    18.442222N   66.72472W   0.053
+Arecibo,PR.(SP, S-13). Updated at SRU 1st Apr.2003.                             
+  ATB     3.287800S   52.22500W    0.15
+Para, Brazil                                                                    
+  AWI     17.14300N   61.83500W   0.023
+Para, Brazil                                                                    
+  B5GA   13.076700N   59.59550W   0.035
+99/08/27; Glenshane Apts., Barbados. Closed 03\04\01, renamed BBSP.             
+  B5GE   13.076720N   59.59550W  0.0345
+99/08/27; Glenshane Apts., Barbados. Closed 03\04\01, renamed BBSP.             
+  B5GN   13.076720N   59.59550W  0.0345
+99/08/27; Glenshane Apts., Barbados. Closed 03\04\01, renamed BBSP.             
+  B5GV   13.076720N   59.59917W  0.0345
+Glenshane, Barbados. Three- component installed, 27/08/99 (Lynch and Ramsingh)  
+  BAC     11.16667N   60.71795W   0.030
+Glenshane, Barbados. Three- component installed, 27/08/99 (Lynch and Ramsingh)  
+  BACH   33.352800S   70.49170W    .820
+Glenshane, Barbados. Three- component installed, 27/08/99 (Lynch and Ramsingh)  
+  BAM    14.815670N   61.14833W   0.670
+Morne Balai, Martinique. (1997)                                                 
+  BAU    10.506500N   66.48200W   1.976
+Venezuela                                                                       
+  BAUT   10.506500N   66.48200W   1.976
+Venezuela                                                                       
+  BAUV    8.943300N   68.04150W   0.106
+El Baul, Venezuela.                                                             
+  BBJ     18.38300N   77.26700W   0.641
+El Baul, Venezuela.                                                             
+  BBL    15.526200N   61.46996W   0.365
+Barbers Block (French stn. Dominica,1980).Reconnected 20/11/2000.               
+  BBP     17.64000N   61.82600W   0.005
+Barbers Block (French stn. Dominica,1980).Reconnected 20/11/2000.               
+
+Page  2
+
+Station  Latitude    Longitude   Height
+  BBSP   13.104472N   59.45789W   0.035
+St. Philip, Barbados. 24\10\00 (J. Latchman). 3-comp.(Broadband).Formally B5GA r
+enamed BBSP 5\04\2001.                                                          
+  BDH    13.202850N   59.58900W   0.308
+HUSBANDS, BARBADOS                                                              
+  BDS     13.14600N   59.62600W   0.110
+HUSBANDS, BARBADOS                                                              
+  BECU    0.474667S   78.42950W   3.320
+HUSBANDS, BARBADOS                                                              
+  BEV     18.45167N   77.30000W   0.123
+HUSBANDS, BARBADOS                                                              
+  BHS     13.29632N   61.12716W   0.090
+HUSBANDS, BARBADOS                                                              
+  BIM     14.51700N   61.07083W   0.425
+HUSBANDS, BARBADOS                                                              
+  BIRV   10.475600N   66.26930W   0.200
+Birongo, Venezuela. CMG-40T(BB).                                                
+  BLV     8.190830N   71.82556W   1.110
+Bailadores, Venezuela                                                           
+  BNI    45.052694N    6.67517E       0
+Bailadores, Venezuela                                                           
+  BOG      4.62306N   74.06500W   2.658
+Bailadores, Venezuela                                                           
+  BOT     11.16667N   60.71795W   0.030
+Bailadores, Venezuela                                                           
+  BPA    17.046000N   61.85700W   0.396
+Boggy Peak. Antigua                                                             
+  BRB     13.12200N   59.60600W   0.055
+Boggy Peak. Antigua                                                             
+  BRG    16.085000N   61.61967W   0.442
+Bois Riant, Guadeloupe                                                          
+  BRJ     18.03333N   77.86833W   0.008
+Bois Riant, Guadeloupe                                                          
+  BSF    47.831944N    6.79222E    1.20
+Bois Riant, Guadeloupe                                                          
+  BSK    17.347000N   62.84000W   0.125
+Brimstone Hill. St. Kitts. Single comp. opened, 1980/07/09, (Benoit).           
+  BSP    13.104472N   59.45789W   0.035
+St. Peter's (Mr. Lorde's House), Barbados, installed by Joan Latchman 2/10/2000.
+  BTG     15.99000N   61.71917W   0.042
+St. Peter's (Mr. Lorde's House), Barbados, installed by Joan Latchman 2/10/2000.
+  BUAY   10.107230N   61.68618W    0.00
+Buenos Aires, Trinidad. Installed, 27/3/00. Elev. to be revised.                
+  BVI    18.410000N   64.61000W   0.100
+Tortola, K2 installed J. Shepherd 26\10\2001.                                   
+  BVM    14.735000N   61.08000W   0.694
+Morne Bellevue, Martinique                                                      
+  BWI     17.66500N   61.79000W   0.010
+Morne Bellevue, Martinique                                                      
+  CABA    7.855800N   71.50220W     1.6
+Morne Bellevue, Martinique                                                      
+  CAG     16.05417N   61.65917W   1.370
+Morne Bellevue, Martinique                                                      
+  CAGI   10.506800N   66.92750W   1.035
+Morne Bellevue, Martinique                                                      
+
+Page  3
+
+Station  Latitude    Longitude   Height
+  CAIV    7.198000N   66.19210W   0.076
+Caicara, Venezuela. CMT-40t (BB).                                               
+  CAM     14.75367N   60.76550W   0.180
+Caicara, Venezuela. CMT-40t (BB).                                               
+  CAMV   10.550500N   63.32220W   1.002
+Campeare, Venezuela.                                                            
+  CANV   11.038670N   68.82800W   0.450
+Cerro Antonio, Venezuela. S-13(SP).                                             
+  CAR    10.504000N   66.92817W   1.075
+Caracas, Venezuela. S-13(SP).                                                   
+  CARU   10.118500N   63.11250W   0.040
+Caripito, Venezuela.                                                            
+  CATA   10.600800N   63.07017W   0.360
+Catuaro Arriba, Venezuela.                                                      
+  CBY    18.271670N   65.85667W   0.550
+Cubuy,Canovanas, PR. 3-comp (CMG-40T,BB). Updated at SRU, 2003/04/01.           
+  CBYP   18.270000N   65.86000W   0.550
+Canovaanas, PR.                                                                 
+  CCA    18.069660N   66.32633W   0.210
+Canovaanas, PR.                                                                 
+  CDF    48.412222N    7.27611E   1.068
+Canovaanas, PR.                                                                 
+  CDP    18.175000N   66.59133W   1.300
+Canovaanas, PR.                                                                 
+  CECU    0.476167S   77.87033W   2.220
+Canovaanas, PR.                                                                 
+  CEDI    7.654000N   71.88500W     0.9
+Canovaanas, PR.                                                                 
+  CELP   18.075000N   66.57944W   0.195
+Cerrillos Dam Site, Ponce,PR. (SP, S-13).Updated at SRU, 2003/04/01.            
+  CENE    7.764000N   71.33280W      .4
+Cerrillos Dam Site, Ponce,PR. (SP, S-13).Updated at SRU, 2003/04/01.            
+  CEOS    9.029830N   68.34333W   0.427
+Cerro El Oso, Venezuela. S-13(SP).                                              
+  CGP     17.76400N   64.58400W   0.000
+Cerro El Oso, Venezuela. S-13(SP).                                              
+  CGV     18.13200N   65.31700W   0.000
+Cerro El Oso, Venezuela. S-13(SP).                                              
+  CHA    13.858300N   61.06430W   0.242
+Chastenay, STE LUCIE                                                            
+  CLLP   18.070500N   66.57550W   0.195
+Chastenay, STE LUCIE                                                            
+  CME     20.06667N   76.98333W   0.000
+Chastenay, STE LUCIE                                                            
+  COAV   10.157800N   63.82660W   1.232
+Cumanacoa, Venezuela.                                                           
+  CPA    18.153330N   66.08028W     0.0
+Cerro Las Pinas, Caguas, PR. (Repeater). 01/04/2003. Elev. to adjusted          
+  CPB    17.640000N   61.82600W   0.005
+Codrington. Barbuda                                                             
+  CPD    18.036670N   65.91500W   0.370
+Cerro La Pandura, Yabucoa, PR. (S-13, MG-40t). Updated at SRU 2003/04/01. Opened
+, 1975/07/30.                                                                   
+  CPM     14.81556N   61.21050W   0.335
+Cerro La Pandura, Yabucoa, PR. (S-13, MG-40t). Updated at SRU 2003/04/01. Opened
+, 1975/07/30.                                                                   
+
+Page  4
+
+Station  Latitude    Longitude   Height
+  CRM     14.75367N   60.91550W   0.180
+Cerro La Pandura, Yabucoa, PR. (S-13, MG-40t). Updated at SRU 2003/04/01. Opened
+, 1975/07/30.                                                                   
+  CRUV   10.616600N   63.18330W   0.608
+Carupano, Venezuela. CMG-40T (BB).                                              
+  CSB    18.293060N   66.15972W   0.430
+Colonia, Sabana, Bayamon,PR. (SP, S-13). Updated at SR, 2003/04/01.             
+  CSJ     18.38300N   65.61800W   0.000
+Colonia, Sabana, Bayamon,PR. (SP, S-13). Updated at SR, 2003/04/01.             
+  CUC     21.19833N   77.40689W   0.000
+Colonia, Sabana, Bayamon,PR. (SP, S-13). Updated at SR, 2003/04/01.             
+  CUM    10.416000N   64.01940W   0.034
+Cumana, Venezuela.                                                              
+  CUMV   10.465000N   64.16940W    .024
+Cumana, Venezuela.                                                              
+  CUP     18.33500N   65.30800W   0.000
+Cumana, Venezuela.                                                              
+  CUPV   10.063900N   65.80560W   0.634
+Cupira, Venezuela. CMT-40T (BB).                                                
+  DABV   10.921800N   70.63660W   0.220
+Dabajuro, Venezuela. CMG-40T(BB).                                               
+  DBCT   15.271500N   61.34367W   0.527
+Bell Vieu, Choppin - Dominica, 1987. GPS by C. Ramsingh 30/12/02.               
+  DEG    16.313167N   61.06183W   0.275
+Bell Vieu, Choppin - Dominica, 1987. GPS by C. Ramsingh 30/12/02.               
+  DFBT   15.239250N   61.35335W   0.083
+Forest Bistro, Dominica. Installed Oct, 1998. GPS by C. Ramsingh 30/12/02.      
+  DGBT   15.239230N   61.32937W   .0775
+Grand Bay Dominica                                                              
+  DHCT   15.570000N   61.42000W     0.0
+Hollcrest Estate House, Morne aux Diables, Dominica.(K2). GPS coordinates. Insta
+lled by C. Ramsingh 5th May, 2003.                                              
+  DIAC    3.291333N   76.19733W    1.52
+Hollcrest Estate House, Morne aux Diables, Dominica.(K2). GPS coordinates. Insta
+lled by C. Ramsingh 5th May, 2003.                                              
+  DIX    46.080500N    7.41083E    2.40
+Hollcrest Estate House, Morne aux Diables, Dominica.(K2). GPS coordinates. Insta
+lled by C. Ramsingh 5th May, 2003.                                              
+  DLVT   15.432250N   61.38883W  0.2743
+Carholm Est.Dominica.GPS, 30/12/02 by C. Ramsingh.                              
+  DOG     16.03200N   61.61783W   0.460
+Carholm Est.Dominica.GPS, 30/12/02 by C. Ramsingh.                              
+  DOM     15.29600N   61.39100W   0.015
+Carholm Est.Dominica.GPS, 30/12/02 by C. Ramsingh.                              
+  DPMT   15.259130N   61.37902W    .050
+Point Michel Dominica. GPS by C. Ramsingh 30/12/02.                             
+  DSC    15.208420N   61.36517W   0.050
+Point Michel Dominica. GPS by C. Ramsingh 30/12/02.                             
+  DSHT   15.214100N   61.37303W  0.1344
+Scotts Head, December 1998. GPS by C. Ramsingh 30/12/02.                        
+  DSTT   15.247733N   61.30353W   0.120
+Stowe, installed Oct.1998. GPS by C. Ramsingh 30/12/02.                         
+  DSVT   15.229600N   61.37028W   0.005
+Soufriere Dominica                                                              
+  DTMT   15.232880N   61.35245W   0.496
+Tete Morne Dominica                                                             
+
+Page  5
+
+Station  Latitude    Longitude   Height
+  DURH   15.292800N   61.35587W   0.594
+Temporary 1974                                                                  
+  DVDT   15.315783N   61.30417W   0.960
+West of valley of desolation (ridge crest). GPS by C. Ramsingh 30/12/02.        
+  DWES   15.556250N   61.33075W   0.061
+Wesley, Dominica. Installed, 12/5/00 by C. Ramsingh, 3-component(low gain and hi
+gh gain), 16bit Broadband station.                                              
+  DWS    15.571767N   61.31107W   0.061
+Wesley, Dominica. Installed by C. Ramsingh 12/5/00. (3 comp. Low and High gain, 
+16bit BB). GPS, 30/12/02 by C. Ramsingh.                                        
+  ECG    16.041830N   61.65380W   1.395
+Echelle,Guadeloupe.                                                             
+  ELMO    8.013000N   71.71690W   2.100
+Echelle,Guadeloupe.                                                             
+  ELPA    7.791700N   71.72530W   1.285
+Echelle,Guadeloupe.                                                             
+  EMS    46.070000N    6.93100E    1.80
+Echelle,Guadeloupe.                                                             
+  ERIS   15.263070N   61.36127W   0.572
+(1974)                                                                          
+  FBG    15.979670N   61.64783W   0.185
+Faubourg, Guadeloupe                                                            
+  FCV     13.15700N   61.24500W   0.194
+Faubourg, Guadeloupe                                                            
+  FDF    14.733330N   61.15033W   0.510
+Faubourg, Guadeloupe                                                            
+  FIPE    7.969700N   71.25110W      .6
+Faubourg, Guadeloupe                                                            
+  FISA   11.264800N   69.33330W     0.6
+Faubourg, Guadeloupe                                                            
+  FNG    16.060300N   61.69100W   0.825
+Fond-Bernard, Guadeloupe                                                        
+  GBM    14.797330N   61.16483W   0.800
+Grand Be', Martinique.                                                          
+  GCM     19.28900N   81.38100W   0.005
+Grand Be', Martinique.                                                          
+  GECU    0.317167S   78.18967W   4.350
+Grand Be', Martinique.                                                          
+  GNG     11.17700N   60.79800W   0.036
+Grand Be', Martinique.                                                          
+  GPV     18.49200N   64.40400W   0.000
+Grand Be', Martinique.                                                          
+  GRCU   12.477110N   61.45295W   0.240
+Carricou. Short period, single comp. KEJ project by Lynch and Juman 10\05\2001. 
+Internet file transfer established 23\07\01. Elev. from map.                    
+  GRE    12.047000N   61.74600W   0.000
+Grenada. Opened, 1952/12/21.                                                    
+  GRG     11.17700N   60.79800W   0.036
+Grenada. Opened, 1952/12/21.                                                    
+  GRHS   12.221750N   61.64050W   0.066
+Sauteurs, Grenada. Broadband 3-comp. high gain. KEJ project,installed by Lynch a
+nd Juman 10\05\2001. Internet file transfer established 23\07\2001. Elev. from 1
+:25k map.                                                                       
+  GRIC   12.285600N   61.58577W   0.046
+Caille Island, Grenadines. Single component, short period stn. installed by Mr. 
+Lynch on May 23rd, 2002.                                                        
+
+Page  6
+
+Station  Latitude    Longitude   Height
+  GRSS   12.298490N   61.61233W   0.020
+The Sisters. Single comp. high gain. KEJ project by Mr. Lynch and Juman 10\05\01
+. Internet file transfer established 23\07\01. Elev. taken from map.            
+  GRW    12.160000N   61.66100W   0.762
+Grenada                                                                         
+  GUA      9.95750N   65.64730W   0.000
+Grenada                                                                         
+  GUAC   10.192000N   67.27110W   1.359
+Guacamaya, Venezuela. S-13(SP).                                                 
+  GUAN    9.953600N   65.65970W   0.859
+Valle De Guanape, Venezuela. S-13(SP)                                           
+  GUIV   10.647000N   62.22300W   0.050
+Guiria, Venezuela. CMT-40T(BB).                                                 
+  GUNV   10.161667N   62.94260W   0.060
+Guanoco, Venezuela. CMG-40T(BB).                                                
+  GUV     7.808600N   63.09740W   0.130
+Guanoco, Venezuela. CMG-40T(BB).                                                
+  GUVO    7.650800N   63.15000W   0.130
+El Guri, Venezuela.                                                             
+  GVC     7.595900N   62.82330W     0.0
+Las Caratas (Lago de Guri), Venezuela.                                          
+  GVG     8.084000N   63.25170W     0.0
+Guaimire (Caseta de Comunicaciones), Venezuela.                                 
+  GVM     8.300000N   62.68330W     0.0
+Misiones, Venezuela.                                                            
+  GVT     7.933200N   63.07240W     0.0
+Tocoma, Venezuela.                                                              
+  GWES   15.556250N   61.33075W   0.061
+Wesley, Dominica: 3-component, broadband, 16bit installed by Chan Ramsingh 12/5/
+00                                                                              
+  GWJ     18.07500N   76.73800W   1.200
+Wesley, Dominica: 3-component, broadband, 16bit installed by Chan Ramsingh 12/5/
+00                                                                              
+  HAU    48.005556N    6.34806E    5.77
+Wesley, Dominica: 3-component, broadband, 16bit installed by Chan Ramsingh 12/5/
+00                                                                              
+  HLV    11.000000N   63.91100W   0.920
+Wesley, Dominica: 3-component, broadband, 16bit installed by Chan Ramsingh 12/5/
+00                                                                              
+  HMG    15.982330N   61.70000W   0.420
+Houelmont, Guadeloupe                                                           
+  HOBC    4.354833N   76.13550W    1.18
+Houelmont, Guadeloupe                                                           
+  HOJ     18.00200N   76.75000W   0.200
+Houelmont, Guadeloupe                                                           
+  HOP     18.02200N   76.75000W   0.200
+Houelmont, Guadeloupe                                                           
+  HOQC    3.468000N   76.63367W   2.220
+Houelmont, Guadeloupe                                                           
+  HUMP   18.139722N   65.84972W   0.178
+Humacao,PR.(CMG-3T). Updated at SRU, 2003/04/01.                                
+  IBAV   11.821600N   64.59760W   0.010
+Isla la blanquilla, Venezuela. CMT-40T(BB)                                      
+  ICM    17.893333N   66.52083W   0.025
+Isla Caja de Muerto, PR. (CMG-40T). Updated at SRU, 2003/04/01.                 
+
+Page  7
+
+Station  Latitude    Longitude   Height
+  IDE    18.385280N   67.46667W   0.140
+Desecheo Island, PR.(SP, L-4). Opened, 1977/02/15. Updated at SRU, 2003/04/01.  
+  IECU    0.475000S   78.30667W   3.720
+Desecheo Island, PR.(SP, L-4). Opened, 1977/02/15. Updated at SRU, 2003/04/01.  
+  IMO    18.111500N   67.90900W   0.093
+Desecheo Island, PR.(SP, L-4). Opened, 1977/02/15. Updated at SRU, 2003/04/01.  
+  ITEV   11.355100N   63.13200W   0.013
+Isla los Testigos, Venezuela. CMT-40T (BB).                                     
+  JACH   32.681900S   70.59290W   1.075
+Isla los Testigos, Venezuela. CMT-40T (BB).                                     
+  JKR    10.200000N   60.50000W     0.4
+Isla los Testigos, Venezuela. CMT-40T (BB).                                     
+  JLL    10.500000N   60.80000W     0.8
+Isla los Testigos, Venezuela. CMT-40T (BB).                                     
+  KEJ    12.300400N   61.63980W   -0.60
+Kick em Jenny                                                                   
+  KIN     17.97372N   76.78506W   0.032
+Kick em Jenny                                                                   
+  LACU    7.876700N   71.39060W     0.8
+Kick em Jenny                                                                   
+  LADA    7.939000N   71.61300W     1.2
+Kick em Jenny                                                                   
+  LAGU    9.770000N   69.76500W   0.800
+Laguneta, Venezuela.                                                            
+  LAM     14.81133N   61.16850W   1.240
+Laguneta, Venezuela.                                                            
+  LAPE    7.558000N   71.57560W   0.327
+Laguneta, Venezuela.                                                            
+  LAUD   15.334020N   61.34062W   0.648
+Temporary 1974                                                                  
+  LBF    46.984444N    3.97722E   0.715
+Temporary 1974                                                                  
+  LGN     10.14500N   71.27000W  -0.003
+Temporary 1974                                                                  
+  LGNV   10.145300N   71.27030W  -0.003
+Temporary 1974                                                                  
+  LIMP   15.348750N   61.37288W    0.53
+Temporary 1974                                                                  
+  LKG    16.044700N   61.65830W   1.380
+Breislack, Guadeloupe                                                           
+  LLA    10.469670N   66.80967W   0.875
+Breislack, Guadeloupe                                                           
+  LLAV   10.469600N   66.80970W   0.875
+El Llanito, Venezuela. S-13(SP).                                                
+  LLS    46.682333N    9.00900E    1.90
+El Llanito, Venezuela. S-13(SP).                                                
+  LNG    10.181417N   61.68825W    0.00
+Atlantic Liquified Natural Gas installed March, 2000 (C. Ramsingh). Closed 03\04
+\01, renamed ALNG.                                                              
+  LOR     11.78180N   66.61820W   0.000
+Atlantic Liquified Natural Gas installed March, 2000 (C. Ramsingh). Closed 03\04
+\01, renamed ALNG.                                                              
+  LORM   47.285000N    3.85889E    0.52
+Atlantic Liquified Natural Gas installed March, 2000 (C. Ramsingh). Closed 03\04
+\01, renamed ALNG.                                                              
+
+Page  8
+
+Station  Latitude    Longitude   Height
+  LORO   11.957800N   66.67420W     .02
+Atlantic Liquified Natural Gas installed March, 2000 (C. Ramsingh). Closed 03\04
+\01, renamed ALNG.                                                              
+  LPLT   13.843468N   60.89676W   0.115
+Atlantic Liquified Natural Gas installed March, 2000 (C. Ramsingh). Closed 03\04
+\01, renamed ALNG.                                                              
+  LPM    14.574500N   60.96630W    .130
+Morne Lapointe, Martinique                                                      
+  LPR    18.308600N   65.86970W   0.580
+La Peregrina, Puerto Rico.                                                      
+  LRS    18.291390N   66.84472W   0.460
+Lares, PR. (SP, S-13).Opened, 1977/02/15. Updated at SRU, 2003/04/01.           
+  LSP    18.183060N   67.08778W   0.390
+Las Mesas, Mayaguez, PR. (SP, L-4). Updated at SRU Apr. 01, 2003.               
+  MAN    10.561100N   64.18880W   0.015
+Manicuare, Venezuela.                                                           
+  MANA   10.673333N   62.65200W   0.840
+Manacal, Venezuela.                                                             
+  MANV   10.561100N   64.18880W   0.010
+Manacal, Venezuela.                                                             
+  MAR    10.323900N   67.60690W   0.000
+Manacal, Venezuela.                                                             
+  MARA   10.323900N   67.60790W     1.2
+Manacal, Venezuela.                                                             
+  MBET   16.744000N   62.16017W   0.102
+Bethel. Montserrat                                                              
+  MBGA   16.710170N   62.18867W   0.479
+GAGES, MONTSERRAT                                                               
+  MBGB   16.732330N   62.22783W   0.253
+Garibalda Hill, MONTSERRAT (MVO).                                               
+  MBGH   16.722500N   62.20866W   0.350
+St. Georges Hill, Montserrat. (MVO BB).                                         
+  MBJ    18.402700N   77.86271W   0.574
+Jamaica                                                                         
+  MBLG   16.725000N   62.16233W   0.287
+Long Ground, Montserrat. (MVO).                                                 
+  MBLY   16.721330N   62.19100W    .355
+Lee's Yard, Broadband, Montserrat.                                              
+  MBMH   16.776330N   62.19250W   0.270
+Mongo Hill, Montserrat, (MVO).                                                  
+  MBRV   16.811273N   62.19608W   0.231
+Oct. 2003                                                                       
+  MBRY   16.703830N   62.15317W   0.355
+Roches Yard, Montserrat. Broadband (MVO).                                       
+  MBSS   16.687000N   62.16033W   0.395
+South Soufriere Hills, Montserrat. (MVO)                                        
+  MBWH   16.742170N   62.19083W   0.407
+WINDY HILL, MONTSERRAT                                                          
+  MCA    13.850300N   61.01900W   0.615
+Morne Casteau, STE LUCIE                                                        
+  MCHV   13.711670N   60.94277W     0.0
+Moule a Chique, St. Lucia. (GPS coordinates)                                    
+  MCJ     17.92300N   77.68700W   0.808
+Moule a Chique, St. Lucia. (GPS coordinates)                                    
+  MCLT   13.709600N   60.94120W   0.220
+Moule a Chique, St. Lucia                                                       
+
+Page  9
+
+Station  Latitude    Longitude   Height
+  MCP    18.419000N   67.11080W   0.250
+Moca, Puerto Rico.                                                              
+  MCPT   16.706800N   62.18120W   0.759
+Chances Peak. Montserrat.                                                       
+  MDN    15.318480N   61.39228W  0.2228
+Morne Daniel Dominica (DEC.98). Revised 20/11/00                                
+  MDNE   15.315810N   61.39996W   0.099
+Morne Daniel Dominica (DEC.98). Revised 20/11/00                                
+  MDNN   15.315810N   61.39996W   0.099
+Morne Daniel Dominica (DEC.98). Revised 20/11/00                                
+  MDNV   15.315810N   61.39996W   0.099
+Morne Daniel, Dominica                                                          
+  MDZ    32.883300S   68.85000W   0.826
+Morne Daniel, Dominica                                                          
+  MECU    0.537500S   78.24417W   4.090
+Morne Daniel, Dominica                                                          
+  MEP    18.149720N   66.98333W   0.880
+Cerro de Santa Ana, Maricao, PR. (Repeater). Updated 01/04/2003.                
+  MERV    9.250000N   66.30000W   0.168
+Las Mercedes, Venezuela. CMG-40T(BB).                                           
+  MGAT   16.710170N   62.18870W   0.479
+Gages. Montserrat                                                               
+  MGG    15.918000N   61.31683W   0.051
+Marie Galante                                                                   
+  MGH    16.720000N   62.21600W   0.351
+St.Georges Hill. Montserrat (1995)                                              
+  MGHZ   16.742170N   62.20683W   0.325
+Georges Hill                                                                    
+  MGP    18.008333N   67.09222W   0.060
+Maguayo, Lajas, PR. (S-13, CMG-40T). Opened, 1975/11/14. Updated at SRU, 2003/04
+/01.                                                                            
+  MHRV   16.719500N   62.17283W   0.483
+Hermitage. Montserrat.                                                          
+  MJHT   16.767200N   62.16970W   0.149
+Jackboy Hill, Montserrat (August 1997)                                          
+  MLG    16.033556N   61.71055W   0.642
+Mont-d'dor, Guadeloupe                                                          
+  MLGT   16.725000N   62.16233W   0.287
+Long Ground. Montserrat.                                                        
+  MLM    14.781000N   61.18383W   0.370
+Martinique                                                                      
+  MLYT   16.721330N   62.19100W    .355
+Lees Yard, Montserrat. (August) 1997.                                           
+  MOG    16.061330N   61.71033W   0.640
+Guadeloupe                                                                      
+  MOLL    7.735000N   71.62900W     0.9
+Venezuela                                                                       
+  MONV   11.955000N   69.97050W   0.239
+Montecano, Venezuela. CMG-40T(BB).                                              
+  MOR     10.87220N   68.31600W   0.000
+Montecano, Venezuela. CMG-40T(BB).                                              
+  MORO   10.872830N   68.32917W   0.284
+Morocoy, Venezuela. S-13(SP).                                                   
+  MOV    18.282000N   66.36667W   0.300
+Morocoy, Venezuela. S-13(SP).                                                   
+
+Page 10
+
+Station  Latitude    Longitude   Height
+  MP     16.708000N   62.22400W   0.007
+3-component station; Montserrat; 1994                                           
+  MPEW   16.708000N   62.22366W   0.017
+Montserrat                                                                      
+  MPLT   16.708000N   62.22400W   0.015
+Installed around 30/11/94                                                       
+  MPNS   16.708000N   62.22400W   0.007
+Montserrat                                                                      
+  MPR    18.213333N   67.13972W   0.025
+UPR/RUM, Mayaguez, PR. (CMG-3T). Updated at SRU, 2003/04/01.                    
+  MPVE   16.708000N   62.22366W   0.017
+Montserrat                                                                      
+  MRA    10.323900N   67.60790W   1.200
+Montserrat                                                                      
+  MRN     18.01200N   63.06000W   0.000
+Montserrat                                                                      
+  MRV    10.872200N   68.31600W   0.284
+Montserrat                                                                      
+  MRYT   16.703800N   62.15320W   0.355
+Roches Yard. Montserrat                                                         
+  MSAT   16.748000N   62.22100W   0.072
+Temp.; Salem, Montserrat; 1994                                                  
+  MSG    16.098667N   61.72200W   0.851
+Temp.; Salem, Montserrat; 1994                                                  
+  MSPT   16.684000N   62.19900W   0.127
+Temp.; St. Patrick, Montserrat; 1994                                            
+  MSSZ   16.688660N   62.17283W   0.762
+South Soufriere Hills. Montserrat.                                              
+  MTP    18.097222N   65.55250W   0.175
+Monte Pirata, Vieques, PR. (CMG-40T). Opened, 1975/04/01. Updated at SRU, 2003/0
+4/01.                                                                           
+  MVM     14.55450N   60.89550W   0.361
+Monte Pirata, Vieques, PR. (CMG-40T). Opened, 1975/04/01. Updated at SRU, 2003/0
+4/01.                                                                           
+  MVOV   16.746500N   62.22833W   0.080
+Montserrat Observatory. Montserrat                                              
+  MVPV   16.743166N   62.24000W   0.017
+Vieux Pointe. Montserrat                                                        
+  MWHT   16.734000N   62.19000W   0.350
+Temp.; Windy Hill, Montserrat, 1994                                             
+  MWHZ   16.735000N   62.19000W   0.405
+Windy Hill, Montsrrrat.                                                         
+  MWI     16.71300N   62.22200W   0.046
+Windy Hill, Montsrrrat.                                                         
+  MZF    46.215556N    2.58389E   0.480
+Windy Hill, Montsrrrat.                                                         
+  NCJ     18.07500N   76.71900W   1.142
+Windy Hill, Montsrrrat.                                                         
+  NEBH   17.131746N   62.62441W   0.015
+Barth Hotel, Nevis. Single component installed by Mr. Lynch 2002/05/02          
+  NEV    17.136110N   62.57100W   0.244
+Gingerland, Nevis                                                               
+  NEVB   17.131746N   62.62441W   0.015
+Bath Hotel, Nevis. Single comp. installed by Mr. Lynch 2002/05/06.Coordinates ta
+ken from map.                                                                   
+
+Page 11
+
+Station  Latitude    Longitude   Height
+  NVBH   17.116928N   62.61682W   0.015
+Bath Hotel, Nevis. Single comp. installed by Mr. Lynch 2002/05/02.              
+  NVRH   17.183518N   62.60005W   0.305
+Round Hill, Nevis. Single comp. installed by Mr. Lynch 2002/05/06.              
+  OBA     17.79200N   61.02200W  -0.496
+Round Hill, Nevis. Single comp. installed by Mr. Lynch 2002/05/06.              
+  OBS    14.733330N   61.15033W   0.510
+Observatory. Martinique.                                                        
+  OHS     13.31700N   61.14800W   0.274
+Observatory. Martinique.                                                        
+  OLL     10.01900N   66.80400W   0.000
+Observatory. Martinique.                                                        
+  OLLA   10.019000N   66.80400W   0.947
+las Ollas, Venezuela. S-13(SP).                                                 
+  OLV    10.019000N   66.80400W   0.947
+las Ollas, Venezuela. S-13(SP).                                                 
+  ORIV    9.069700N   63.41800W   0.102
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PAG     16.02967N   61.68000W   0.670
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PAJ     18.17000N   76.45600W   0.201
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PAL     10.20460N   64.43880W   0.000
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PALM   10.204600N   64.43880W     1.1
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PALR   11.000000N   63.91100W    0.92
+Oritupan, Venezuela. CMT-40T(BB).                                               
+  PAM    14.613800N   61.03630W    .120
+Morne Pavillon, Martinique                                                      
+  PARV    8.959170N   64.79583W   0.186
+Pariaguan, Venezuela. CMG-40T(BB).                                              
+  PAYV   10.526800N   67.54680W   0.091
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PCH    33.620800S   70.51390W   1.010
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PCJ    17.742000N   77.16900W   0.200
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PCM    14.796830N   61.14867W   0.730
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PCRV   10.176200N   64.63610W    .400
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PCV    10.204600N   64.43880W   1.100
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PECU    0.395000S   78.60250W   3.550
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PEL    33.143600S   70.68530W    .690
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PGV     9.874000N   67.50240W    1.93
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PIG     11.16100N   60.84100W   0.000
+Puerto Ayacucho, Venezuela. CMG-40T(BB).                                        
+  PLAT    9.874000N   67.50233W   1.830
+Platillon, Venezuela. S-13(SP).                                                 
+  PLDF   45.969833N    3.62117E   0.940
+Platillon, Venezuela. S-13(SP).                                                 
+
+Page 12
+
+Station  Latitude    Longitude   Height
+  PLM     10.20800N   64.44000W   0.000
+Platillon, Venezuela. S-13(SP).                                                 
+  PLS     10.41300N   61.49000W   0.000
+Platillon, Venezuela. S-13(SP).                                                 
+  PLY     11.21700N   60.77900W   0.009
+Platillon, Venezuela. S-13(SP).                                                 
+  PMR     11.00000N   63.91100W   0.000
+Platillon, Venezuela. S-13(SP).                                                 
+  PNP    18.058300N   66.68360W   0.200
+Penuelas, Puerto rico.                                                          
+  PORP   18.061111N   66.63611W   0.165
+Portuges Dam Site, Ponce, PR.(SP, S-13). Opened 1989/08/01. Updated atSRU, 2003/
+04/01.                                                                          
+  PRG    16.036200N   61.66217W   1.070
+Pas du Roy, Guadeloupe                                                          
+  PRJ     17.93519N   76.84383W   0.002
+Pas du Roy, Guadeloupe                                                          
+  PRM     34.08333N   82.36333W   0.254
+Pas du Roy, Guadeloupe                                                          
+  PUDO   11.013330N   63.88117W   0.634
+Palma Real, Venezuela.                                                          
+  PURC    2.322167N   76.36167W    3.95
+Palma Real, Venezuela.                                                          
+  PWP     18.13500N   65.44500W   0.000
+Palma Real, Venezuela.                                                          
+  QARV   10.206100N   70.52550W   0.548
+Quebrada, Venezuela. CMG-40T(BB).                                               
+  RCC     19.99417N   75.69583W   0.100
+Quebrada, Venezuela. CMG-40T(BB).                                               
+  RECU    0.638667S   78.40083W   4.060
+Quebrada, Venezuela. CMG-40T(BB).                                               
+  RFA    34.770700S   68.46580W    .850
+Quebrada, Venezuela. CMG-40T(BB).                                               
+  RMG    16.044300N   61.66570W   1.150
+Ravine Marchand, Guadeloupe                                                     
+  ROCH   32.971900S   71.01110W     2.0
+Ravine Marchand, Guadeloupe                                                     
+  ROF    47.680611N    6.90081E     .50
+Ravine Marchand, Guadeloupe                                                     
+  RQV    11.957800N   66.67420W   0.020
+Ravine Marchand, Guadeloupe                                                     
+  RRD     18.23600N   65.61800W   0.000
+Ravine Marchand, Guadeloupe                                                     
+  RSDV    8.886100N   70.63330W   1.580
+Ravine Marchand, Guadeloupe                                                     
+  RSV     13.30700N   61.23600W   0.008
+Ravine Marchand, Guadeloupe                                                     
+  RTOV    9.792500N   69.79250W   0.650
+Ravine Marchand, Guadeloupe                                                     
+  SAB    17.617000N   63.23333W   0.880
+Saba, original stn.                                                             
+  SABA   17.617000N   63.23300W   0.880
+Saba. 3-comp. BB installed 2000/01/20 by Ramsingh and Shepherd.                 
+  SABS   17.620580N   63.24300W   0.500
+Installed January 2000, near Senior Secondary School (Mt. Scenery).             
+
+Page 13
+
+Station  Latitude    Longitude   Height
+  SABT   17.620500N   63.24300W   0.880
+Saba. Installed by John Shepherd and Chan Ramsingh 22/01/2000.GPS co-ordinates f
+rom time server.                                                                
+  SAFE   10.207000N   64.43967W   0.846
+Santa Fe, venezuela.                                                            
+  SAM     14.84000N   61.16783W   0.510
+Santa Fe, venezuela.                                                            
+  SANV    9.501000N   69.53650W   1.083
+Sanarito, Venezuela. CMG-40T(BB).                                               
+  SBN     17.63700N   63.23778W   0.870
+Sanarito, Venezuela. CMG-40T(BB).                                               
+  SCG     16.02889N   61.68100W   0.646
+Sanarito, Venezuela. CMG-40T(BB).                                               
+  SCRV    7.788900N   72.19170W   0.818
+Venezuela.                                                                      
+  SCV     17.78200N   64.78900W   0.000
+Venezuela.                                                                      
+  SCVI   17.782000N   64.78900W     0.0
+St. Croix. Using coordinates of SCV                                             
+  SDD     18.45789N   69.91342W   0.010
+St. Croix. Using coordinates of SCV                                             
+  SDV     8.886100N   70.63333W   1.580
+Santo Domingo, Venezuela. S-13(SP).                                             
+  SEG    16.402830N   61.50517W   0.060
+Port Louis, Guadeloupe                                                          
+  SFAN   13.383796N   61.17211W   0.229
+Fancy Village, St. Vincent installed by L.Lynch and C.Ramsingh 20/08/99.        
+  SFG    16.253330N   61.19650W   0.010
+St. Francois, Guadeloupe                                                        
+  SIG     11.17135N   60.77079W   0.080
+St. Francois, Guadeloupe                                                        
+  SIH     11.17135N  136.91408W   0.080
+St. Francois, Guadeloupe                                                        
+  SIP    10.142900N   61.50603W   0.060
+Siparia, Trinidad. Installed, April,2000. Elev. to be revised.Closed 03\04\01, r
+enamed SIPA.                                                                    
+  SIPA   10.142900N   61.50603W   0.060
+Siparia, Trinidad. 4\2000, (C. Ramsingh). (Elev. to be revised). Formally SIP, r
+enamed SIPA 05\04\01.                                                           
+  SIQV   10.648030N   69.80783W   0.400
+Siquisique, Venezuela. CMT-40T(BB).                                             
+  SJG    18.108333N   66.15083W   0.457
+Cayey, PR. Updated 01/04/2003                                                   
+  SJP     18.38167N   66.11833W   0.080
+Cayey, PR. Updated 01/04/2003                                                   
+  SJS      9.93917N   84.05417W   1.196
+Cayey, PR. Updated 01/04/2003                                                   
+  SJV    18.345550N   64.75555W   0.280
+St. Johns, USVI. (3 comp. L4). Opened, 1975/06/01. Updated at SRU, 2003/04/01.  
+  SKDB   17.396900N   62.80833W   0.010
+Dieppe, St. Kitts. Single comp. opened 1988/01/01. Reactivated, 2003/02/06.     
+  SKI    17.333330N   62.73900W   0.306
+Bayfords. St.Kitt (1956). 3-comp BB, installed by Ramsingh and Shepherd,2000\01\
+26. Internet connection established 2000\09\23.                                 
+  SKTB   17.229136N   62.63940W   0.016
+Turtle Beach, St. Kitts installed by L. Lynch and I. Juman 10th Feb. 2003. Singl
+e comp. short period. Coordinates from JS digitised map.                        
+
+Page 14
+
+Station  Latitude    Longitude   Height
+  SLB    13.825830N   61.04083W   0.600
+Belfond, St. Lucia                                                              
+  SLD    13.801814N   61.05114W   0.800
+Delcer, St. Lucia, Installed (W.Balgobin), Oct. 2000.(GPS coordinates)Closed 03\
+04\01, renamed SLDA.                                                            
+  SLDE   13.803083N   61.05825W   0.246
+Delcer, St.Lucia. 10\2000, (W. Balgobin). Formally SLD, renamed SLDE 5\04\2001. 
+GPS coordinates (Garmin GPS12XL handheld, done by Dr. Jerome David).            
+  SLE    47.766167N    8.49333E     0.6
+Delcer, St.Lucia. 10\2000, (W. Balgobin). Formally SLD, renamed SLDE 5\04\2001. 
+GPS coordinates (Garmin GPS12XL handheld, done by Dr. Jerome David).            
+  SLI     14.02800N   61.00800W   0.030
+Delcer, St.Lucia. 10\2000, (W. Balgobin). Formally SLD, renamed SLDE 5\04\2001. 
+GPS coordinates (Garmin GPS12XL handheld, done by Dr. Jerome David).            
+  SLP    13.853670N   60.91900W     0.0
+Patience, St. Lucia. (GPS coordinates); Oct. 2000,(C. Ramsingh). (Ele v. to be a
+djusted). Closed 03\04\01, renamed SLPA.                                        
+  SLPA   13.853670N   60.91900W   0.183
+Patience, St. Lucia. 3\2001, (C. Ramsingh). Formally SLP renamed SLPA 05\04\01. 
+GPS coordinates, (Garmin GPS 12XL handheld, done by Dr. Jerome David).          
+  SLPE   13.843133N   60.99520W   0.460
+Piton St. Espirit(Microwave reflector, Cable & Wireless), St. Lucia. Formally SL
+R. Installed, 7/10/01 C. Ramsingh. GPS coordinates.                             
+  SLR    13.843133N   60.99520W     0.0
+Piton St. Espirit, St. Lucia. Installed, 7/04/01 by C. Ramsingh.(GPS cordinates.
+ Elev. to be revised)                                                           
+  SLT    13.870350N   61.03992W     0.0
+Morne Tabac, St. Lucia. Installed, 7/04/01 by C. Ramsingh. GPS coordinates. Elev
+. to be revised.                                                                
+  SLTA   13.870350N   61.03992W   0.550
+Morne Tabac (Cable & Wireless old site), St. Lucia. Formally SLT. Installed, 7/4
+/01 by C. Ramsingh. GPS coordinates. Elev.(1800')                               
+  SLW    14.020000N   60.93600W   0.366
+Petit Monier, St. Lucia.                                                        
+  SMF    46.645278N    3.84111E   0.459
+Petit Monier, St. Lucia.                                                        
+  SOA     13.37347N   61.14861W   0.040
+Petit Monier, St. Lucia.                                                        
+  SOR     22.79167N   83.00778W   0.206
+Petit Monier, St. Lucia.                                                        
+  SPJ    17.993000N   77.55500W   0.800
+Petit Monier, St. Lucia.                                                        
+  SRH     13.18600N   61.25400W   0.274
+Petit Monier, St. Lucia.                                                        
+  SSLP   13.853670N   60.91900W     0.0
+Patience, St. Lucia                                                             
+  SSV    13.327000N   61.19300W   0.824
+Reinstalled, 4th Oct. 2003.(Lynch and Balgobin).                                
+  STAT   17.495000N   62.97870W   0.050
+Statia.( June, 1992 17.485190N 62.95886W 0.132).3-comp. BB upgraded January 2000
+. Coordinates from GPS server.                                                  
+  STG    16.088670N   61.67883W   1.210
+Sans Toucher, Guadeloupe                                                        
+  STH     18.07800N   76.81400W   0.427
+Sans Toucher, Guadeloupe                                                        
+
+Page 15
+
+Station  Latitude    Longitude   Height
+  STM    18.012000N   63.06000W   00000
+St. Maarten, 1980/07/09.                                                        
+  STMA   18.042778N   63.10886W  0.0282
+Airport, St. Maarten. 3-comp. BB (high and low gain) installed, 2004\03\07 by Ra
+msingh and Juman.Coordinates from GPS server.                                   
+  STMT   18.042550N   63.07778W   0.316
+St. Maarten, June 1992                                                          
+  STVI   18.353333N   64.96222W   0.300
+St. Thomas, USVI. (3-comp. L-4).Updated at SRU 2003/04/01.                      
+  SVB    13.272000N   61.25200W   0.282
+Belmont, St. Vincent.                                                           
+  SVBE   13.272000N   61.25200W   0.282
+Belmont, St. Vincent.                                                           
+  SVBN   13.272000N   61.25200W   0.282
+Belmont, St. Vincent.                                                           
+  SVBV   13.272000N   61.25200W   0.282
+Belmont, St. Vincent. Three-comp. seismometer installed 20/9/99                 
+  SVG     13.24500N   61.27800W   0.046
+Belmont, St. Vincent. Three-comp. seismometer installed 20/9/99                 
+  SVI     13.17000N   61.25800W   0.010
+Belmont, St. Vincent. Three-comp. seismometer installed 20/9/99                 
+  SVL     13.36800N   61.20400W   0.091
+Belmont, St. Vincent. Three-comp. seismometer installed 20/9/99                 
+  SVSV   13.272000N   61.25200W   0.282
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  SVT     13.16800N   61.24500W   0.038
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  SVV     13.31800N   61.21600W   0.243
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  SWA     17.40000N   83.93333W   0.000
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  SWI     18.59800N   63.42600W   0.000
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  TACH   33.653200S   70.93760W    .440
+Belmont, St. Vincent (Strong Motion).Installed by Lynch, 28/8/99.               
+  TAG    16.042000N   61.66417W   1.182
+Tarade, Guadeloupe                                                              
+  TBH    10.484000N   61.06700W   0.199
+Tarade, Guadeloupe                                                              
+  TBRC   10.750000N   60.95000W   0.005
+Toco, Trinidad, K2 at Rose Cottage (JS), (2001)                                 
+  TBVI   18.410000N   64.61000W   0.100
+Tortola, British Virgin Is. K2 installed by Proff. John Shepherd 2001/10/26. Sto
+pped, Apr. 2003.                                                                
+  TCA    31.338600S   64.59080W    .910
+Tortola, British Virgin Is. K2 installed by Proff. John Shepherd 2001/10/26. Sto
+pped, Apr. 2003.                                                                
+  TCE     10.69700N   61.75300W   0.240
+Tortola, British Virgin Is. K2 installed by Proff. John Shepherd 2001/10/26. Sto
+pped, Apr. 2003.                                                                
+  TCF    46.288056N    2.21000E   0.593
+Tortola, British Virgin Is. K2 installed by Proff. John Shepherd 2001/10/26. Sto
+pped, Apr. 2003.                                                                
+  TCGO   18.145833N   66.98117W   0.880
+Tortola, British Virgin Is. K2 installed by Proff. John Shepherd 2001/10/26. Sto
+pped, Apr. 2003.                                                                
+
+Page 16
+
+Station  Latitude    Longitude   Height
+  TCHG   10.680000N   61.66000W   0.021
+Chaguaramas, Trinidad. K2 installed 2003/07/03 as part of The British Gas Projec
+t.                                                                              
+  TEST   10.469000N   66.80900W   0.875
+Llanito, Venezuela. CMT-40T(BB).                                                
+  TGR     8.846600N   64.18940W     0.0
+Del Tigre, Venezuela.                                                           
+  TGRH    8.840000N   64.16830W     0.0
+Del Tigre, Venezuela.                                                           
+  TGRV    8.840000N   64.16830W   0.293
+El Tigre, Venezuela. S-13(SP).                                                  
+  TGV    10.908400N   65.31390W   0.040
+El Tigre, Venezuela. S-13(SP).                                                  
+  TKL     35.65806N   83.77417W   0.350
+El Tigre, Venezuela. S-13(SP).                                                  
+  TLL    30.167200S   70.80450W    2.20
+El Tigre, Venezuela. S-13(SP).                                                  
+  TMD    10.674000N   61.06600W   0.046
+Matura, Trinidad. Single comp. short period installed July 1984.Renamed TTR Dec.
+ 1984.                                                                          
+  TOB     11.14100N   60.84100W   0.015
+Matura, Trinidad. Single comp. short period installed July 1984.Renamed TTR Dec.
+ 1984.                                                                          
+  TOCO   10.833300N   60.91400W   0.100
+Toco Light House. Approx. coordinates from map.                                 
+  TOR     10.90840N   65.31390W   0.000
+Toco Light House. Approx. coordinates from map.                                 
+  TORT   10.908400N   65.31390W    0.04
+Toco Light House. Approx. coordinates from map.                                 
+  TOV     9.792500N   69.79250W   0.650
+El Tocuyo, Venezuela. S-13(SP).                                                 
+  TPP     10.31700N   61.45100W   0.046
+El Tocuyo, Venezuela. S-13(SP).                                                 
+  TPR     11.18600N   60.77700W   0.245
+El Tocuyo, Venezuela. S-13(SP).                                                 
+  TPTC   10.680000N   61.57000W   0.049
+Pt. Cumana, K2 (2000).                                                          
+  TRGV    8.840000N   64.16830W  0.2000
+Pt. Cumana, K2 (2000).                                                          
+  TRM    14.536330N   61.05117W    .078
+Trois Llets, Martinique                                                         
+  TRN    10.648000N   61.40300W   0.024
+St.Augustine. Trinidad.                                                         
+  TRPT   11.193055N   60.79752W    .005
+Temporary 05 Feburary 1990.                                                     
+  TTR    10.674000N   61.06600W   0.046
+Matura, Trinidad. Single comp. short period, previously TMD, renamed TTR 10th De
+c. 1984.                                                                        
+  TWMO   10.670000N   61.56000W    0.00
+Westmoortings, K2 (2000).                                                       
+  UAV      8.61000N   71.14500W   1.600
+Westmoortings, K2 (2000).                                                       
+  ULAV    8.610000N   71.14470W     1.6
+Westmoortings, K2 (2000).                                                       
+  UPA     8.981500N   79.53400W   0.041
+Univ. of Panama, Panama.                                                        
+
+Page 17
+
+Station  Latitude    Longitude   Height
+  VAI    45.866667N    8.77083E       0
+Univ. of Panama, Panama.                                                        
+  VGU      9.95750N   65.64780W   0.000
+Univ. of Panama, Panama.                                                        
+  VGV     9.957500N   65.64780W   1.107
+Univ. of Panama, Panama.                                                        
+  VGVI   18.440000N   64.43000W   0.020
+Virgin Gorda. K2 installed by Mr. Lynch 10\12\2001. Internet connection establis
+hed 23\04\2002.Stopped operation Apr. 2003.                                     
+  VIRV   10.500000N   72.41000W   0.148
+Villa Del Rosario, Venezuela. CMG-40T(BB).                                      
+  VOLV   10.420000N   66.84980W   0.148
+El Volcan, Venezuela.                                                           
+  VST     18.35400N   64.95700W   0.000
+El Volcan, Venezuela.                                                           
+  YHJ     17.89200N   76.49300W   0.300
+El Volcan, Venezuela.                                                           
+  ZAM    14.572700N   61.02870W    .025
+El Volcan, Venezuela.                                                           
+  ZON    31.545800S   68.67860W    .730
+El Volcan, Venezuela.                                                           
+  ZUL    47.481333N    8.39033E     0.7
+El Volcan, Venezuela.                                                           

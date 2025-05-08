@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>E-KNMI</name>
+    <Snippet>Created Tue Aug 17 11:44:35 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>SABA</name>
+        <description>Saba (SABA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.242600,17.620500,261.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMRT</name>
+        <description>(SMRT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.074600,18.050500,260.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEUS</name>
+        <description>(SEUS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.981400,17.492800,460.000000</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-63.112000</longitude>
+      <latitude>17.771650</latitude>
+      <range>88370.972728</range>
+    </LookAt>
+  </Document>
+</kml>

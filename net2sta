@@ -1,0 +1,21 @@
+#!/usr/bin/env perl
+#
+# net2sta
+#
+# Gets a list of stations, one per line for a network, or networks
+#
+# Rod Stewart, 2007-09-12
+
+my @nets = @ARGV;
+
+foreach $net (@nets) {
+	open( FH, 'data/networks.txt');
+	@lines = grep /^$net:/, <FH>;
+	close( FH );
+	chomp @lines;
+	foreach $line (@lines) {
+		($dum,$stalist) = split /: /, $line;
+		@sta = split /, /, $stalist;
+		print join("\n", @sta), "\n";
+	}
+}

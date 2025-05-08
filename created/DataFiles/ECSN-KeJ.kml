@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>ECSN-KeJ</name>
+    <snippet>Created Sun Jun 7 19:25:23 2020</snippet>
+    <LookAt>
+      <longitude>-61.455700</longitude>
+      <latitude>12.703450</latitude>
+      <range>175148.955920</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>GRGR</name>
+        <description>Grenville, Grenada (GRGR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.654000,12.132400,195.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRHS</name>
+        <description>Sauteurs, Grenada (GRHS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.640500,12.221750,66.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRSS</name>
+        <description>Sisters, Grenada (GRSS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.612330,12.298490,20.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRW</name>
+        <description>Mt. St. Catherine, Grenada (GRW.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.661000,12.160000,762.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GCMP</name>
+        <description>Mt. Pleasant, Carriacou, Grenada (GCMP.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.426000,12.486000,39.90</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVB</name>
+        <description>Belmont, St. Vincent (SVB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.250400,13.274500,282.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

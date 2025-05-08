@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-2024-z-plan</name>
+    <snippet>Created Thu Apr 11 18:41:17 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.179408</longitude>
+      <latitude>16.709323</latitude>
+      <range>3789.429444</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSRE</name>
+        <description>Ridge End, Montserrat (MSRE.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.183419,16.699647</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGA</name>
+        <description>Gages, Montserrat (MBGA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.188617,16.710183,478.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSGS</name>
+        <description>Galways Saddle, Montserrat (MSGS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.170860,16.706650,781.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSUH</name>
+        <description>Upper Hermitage, Montserrat (MSUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.170200,16.719000,515.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

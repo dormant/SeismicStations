@@ -1,0 +1,178 @@
+Station Code: DLPL
+
+Name(s)
+  Code,  Name
+  DLPL,  La Plaine, Dominica
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  DLPL,  15.332419,      -61.246788,     40.9, y, 2008-06-18, GPS - nmx soh log
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  DLPL,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  DLPL,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  DLPL,  2007-12-04 - BB VSAT station installed at La Plaine - planned Three Rivers Eco Lodge installation not possible
+
+
+==
+
+Station Code: SKI
+
+Aliases / co-locations
+  SKIV, SKIN, SKIE, SKLV, SKLN, SKLE
+
+Name(s)
+  Code,  Name
+  SKI,   Bayford’s Farm, St. Kitts
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SKI,   17.3330,        -62.7390,      306,   n,           , LL spreadsheet
+  SKI,   17.33380,       -62.73800,     274.5, n, 2007-05-27, GPS - nmx soh log
+  SKI,   17.333330,      -62.73900,     306,   n,           , Soufriere System file
+  SKI,   17.33380,       -62.73800,     306,   y, 2007-05-27, GPS - nmx soh log (assumed 306m alt)
+  SKI,   17.3338,        -62.7380,      277,   n, 2007-12-27, GPS - NaqsView
+  SKI,   17.333800,      -62.737997,    273.2, n, 2008-06-18, GPS - nmx soh log
+  SKI,   17.3333,        -62.7390,      306.0, n,           , NEIC - TRN,Open,Saint Kitts (Bayfords)
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SKI,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+  SKI,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  SKI,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SKI,   1956 - opened
+  SKI,   2000-01-26 - 3C installed
+  SKI,   2000-09-23 - internet connection established
+  SKI,   2007-05-26 - CMG-40T disconnected from Soufriere system
+  SKI,   2007-05-26 - Nanometrics system installed at station, new vault for sensors
+  SKI,   2007-06-04 08:50 UTC - BHZ showing 10-20s single pulses, possible faulty seismometer
+  SKI,   2007-06-05 03:07 UTC - BHZ pulses stopped
+  SKI,   2007-08-19 02:03 - 22:30 UTC - Outage 
+  SKI,   2007-08-19 23:05 - 2007-08-26 20:15 UTC - Outage
+  SKI,   2007-08-27 03:50 - 2007-10-15 15:00 UTC - Outage. Faulty power supply.
+  SKI,   2007-11-06 05:05 UTC - 2007-11-11 23:00 - BHZ showing 10-20s single pulses, possible faulty seismometer
+  SKI,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+
+Network(s)
+  Code, Network
+  SKI, TR-VSAT: ECSN, VSAT stations
+  SKI, ECSN-All: Eastern caribbean Seismic Network
+  SKI, ECSN-Reg: ECSN regional network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: SVB
+
+Aliases / co-locations
+  SVBV, SVBN, SVBE
+
+Name(s)
+  Code,  Name
+  SVB,   Belmont, St. Vincent
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  SVB,   13.2720,        -61.2520,      282,   n,           , LL spreadsheet
+  SVB,   13.2745555555,  -61.25041667,  239.9, n, 2007-05-20, GPS - ss time server
+  SVB,   13.27444,       -61.25037,     274.2, n, 2007-05-20, GPS - Rod (Nokia n800 hdop 0.9 pdop 1.4 vdop 1.2)
+  SVB,   13.27450,       -61.25040,     251.6, n, 2007-05-27, GPS - nmx soh log
+  SVB,   13.272000,      -61.25200,     282,   n,           , Soufriere System file
+  SVB,   13.27450,       -61.25040,     282,   y, 2007-05-27, GPS - nmx soh log (assumed 282m
+  SVB,   13.2745,        -61.2504,      255,   n, 2007-12-27, GPS - NaqsView
+  SVB,   13.274497,      -61.250403,    250.7, n, 2008-06-18, GPS - nmx soh log
+  SVB,   13.2720,        -61.2520,      282.0, n,           , NEIC - TRN,Open,Belmont
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SVB,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+  SVB,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+  SVB,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SVB,   1999-09-20 - 3C BB installed
+  SVB,   2007-05-21 - CMG-40T disconnected from Soufriere system
+  SVB,   2007-05-21 - Noted that CMG-40T oriented with N towards volcano
+  SVB,   2007-05-22 - FBA - Accelerometer not bolted to plexiglass plate (no drill).
+  SVB,   2007-05-22 - FBA - No insulation installed.
+  SVB,   2007-05-22 - FBA - Plexiglass plate does not bond well to (tile) cement being used.
+  SVB,   2007-05-22 - Nanometrics system installed at station, new vault for sensors, ~10m from previous
+  SVB,   Open (NEIC)
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  SVB, -14.55, 2008-06-06, http://www.ngdc.noaa.gov/geomagmodels/Declination.jsp
+
+Network(s)
+  Code, Network
+  SVB, TR-VSAT: ECSN, VSAT stations
+  SVB, ECSN-All: Eastern caribbean Seismic Network
+  SVB, ECSN-Reg: ECSN regional network
+
+Notes
+  Code:  Comment
+
+==
+
+Station Code: TOSP
+
+Aliases / co-locations
+  SPEY, TOBB
+
+Name(s)
+  Code,  Name
+  SPEY,  Speyside, Tobago
+  TOSP,  Speyside, Tobago
+
+Location(s)
+  Code,  Latitude,       Longitude,   Elev(m),    Date,      Source
+  TOSP,  11.298342,      -60.535194,    -11.3, n, 2007-05-27, GPS - nmx soh log
+  TOSP,  11.298342,      -60.535194,      5,   y, 2007-05-27, GPS - nmx soh log (assumed 5m alt)
+  TOSP,  11.29835,       -60.5352,      210,   n,           , initially used in ss, 210 km alt (11N 7.901,60W 32.112) 
+  TOSP,  11.2983,        -60.5352,      -15,   n, 2007-12-27, GPS - NaqsView
+  TOSP,  11.298342,      -60.535198,    -12.6, n, 2008-06-18, GPS - nmx soh log
+
+Channels, equipment, etc.
+  Code,   L, Type,  Chan,     Hz, Seismometer / Digitiser
+  SPEY,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident 
+  SPEY,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+  SPEY,  --,  BB-3C,  HHZ/1/2,  100, CMG-40T/Trident 
+  SPEY,  --,  AC-3C,  HLZ/1/2,  100, TSA-100S/Trident
+
+Status
+  Code,  Date         - Status
+  SPEY,  2007-05-20 - Installed
+  SPEY,  2007-05-20 - Recorded as MTOB
+  SPEY,  2007-05-22 - Christian (Guadeloupe) thinks the alignments are wrong, 14.1 deg W of Magnetic instead of E
+  SPEY,  2007-05-27 - Code changed to SPEY
+  SPEY,  2007-09-17 21:30 UTC. No data. 
+  SPEY,  2007-09-18 19:16 UTC. Data from SPEY. Broadband looks unwell. Large DC offset and long period signals.
+
+Declination (deg E of N)
+  Code,  Dec, Source
+  SPEY, -14.75, 2007-08-05, http://www.ngdc.noaa.gov/seg/geomag/jsp/Declination.jsp
+
+Network(s)
+  Code, Network
+  TOSP, TR-VSAT: ECSN, VSAT stations
+  TOSP, ECSN-All: Eastern caribbean Seismic Network
+  TOSP, ECSN-Reg: ECSN regional network
+
+Notes
+  Code:  Comment
+
+==
+

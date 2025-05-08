@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>NDBC</name>
+    <snippet>Created Thu Oct 5 19:27:43 2023 GMT</snippet>
+    <LookAt>
+      <longitude>-58.234000</longitude>
+      <latitude>18.061500</latitude>
+      <range>1732505.651352</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>42060</name>
+        <description>Station 42060, Caribbean Valley, 63 NM WSW of Montserrat (42060.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.331000,16.433000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41040</name>
+        <description>Station 41040, North Equatorial One, 470 NM East of Martinique (41040.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-53.137000,14.541000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41044</name>
+        <description>Station 41044, NE St Martin, 330 NM NE of St Martin Is (41044.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-58.630000,21.582000</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

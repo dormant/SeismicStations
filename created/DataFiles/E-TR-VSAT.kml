@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>E-TR-VSAT</name>
+    <Snippet>Created Mon Aug 16 18:07:13 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>SVB</name>
+        <description>Belmont, St. Vincent (SVB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.250400,13.274500,282.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOSP</name>
+        <description>Speyside, Tobago (TOSP.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.535194,11.298342,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKI</name>
+        <description>Bayford$</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.738000,17.333800,306.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLPL</name>
+        <description>La Plaine, Dominica (DLPL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.246788,15.332419,40.900000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MCLT</name>
+        <description>Moule a Chique (NEIC) (MCLT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.942603,13.711493,220.000000</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-61.636597</longitude>
+      <latitude>14.316071</latitude>
+      <range>926374.290438</range>
+    </LookAt>
+  </Document>
+</kml>

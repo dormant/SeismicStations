@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-v</name>
+    <snippet>Created Wed Sept 14 19:29:51 2022 GMT</snippet>
+    <LookAt>
+      <longitude>-62.196408</longitude>
+      <latitude>16.731915</latitude>
+      <range>8341.400641</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSS1</name>
+        <description>Scar 1 (MSS1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.178000,16.721820,488.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBHA</name>
+        <description>Harris, Montserrat (MBHA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.168220,16.742010,250.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MROD</name>
+        <description>Rods House, Olveston, Montserrat (MROD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.224595,16.738739,69.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-DX</name>
+    <snippet>Created Wed Jul 6 14:18:01 2022 GMT</snippet>
+    <LookAt>
+      <longitude>-62.194242</longitude>
+      <latitude>16.731887</latitude>
+      <range>16045.142009</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MBBE</name>
+        <description>Bethel, Montserrat (MBBE.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.160150,16.743550,102.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGA</name>
+        <description>Gages, Montserrat (MBGA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.188617,16.710183,478.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGE</name>
+        <description>Galways Estate, Montserrat (MBGE.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.193733,16.690067,183.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBMH</name>
+        <description>Mongo Hill, Montserrat (MBMH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.192500,16.776333,270.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBSS</name>
+        <description>South Soufriere Hills, Montserrat (MBSS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.160267,16.687083,395.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVO</name>
+        <description>Montserrat Observatory, Montserrat (MVO.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.228333,16.746500,80.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVO1</name>
+        <description>MVO North (MVO1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.192850,16.776690,244.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVOT</name>
+        <description>Montserrat Volcano Observatory (MVOT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212610,16.748620,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVOW</name>
+        <description>Montserrat Volcano Observatory (MVOW.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212610,16.748620,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MVOR</name>
+        <description>Montserrat Volcano Observatory (MVOR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212610,16.748620,243.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

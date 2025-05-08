@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>SRC-2023</name>
+    <snippet>Created Fri Jul 19 16:47:03 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-73.415900</longitude>
+      <latitude>14.815050</latitude>
+      <range>4054201.042788</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>ABD</name>
+        <description>La Joyeuse, Anse Bertrand, Guadeloupe (ABD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.488100,16.474300,12.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TDBA</name>
+        <description>Terre de Bas, Les Saintes, Guadeloupe (TDBA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.635400,15.855000,159.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CBE</name>
+        <description>Capesterre Belles Eaux, Guadeloupe (CBE.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.607100,16.069700,380.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DSD</name>
+        <description>La Desirade, Guadeloupe (DSD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.066050,16.312770</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DHS</name>
+        <description>Morne Mazeau - Deshaies, Guadeloupe (DHS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.765236,16.288680</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVWL</name>
+        <description>Bamboo Range, St Vincent (SVWL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.152760,13.316220,353.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVV</name>
+        <description>Wallibou, St. Vincent (SVV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.212551,13.319594,207.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVT</name>
+        <description>Saint Vincent (Camden Park) (NEIC) (SVT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.245000,13.168000,38.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVFH</name>
+        <description>Fitz Hughes, St Vincent (SVFH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.231200,13.296900,57.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SSVA</name>
+        <description>Summit Station2, St Vincent (SSVA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.182508,13.323083,787.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLBI</name>
+        <description>Bisee, St Lucia (SLBI.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.974000,14.023000,60.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDDR</name>
+        <description>Presa de Sabaneta, Dominican Republic (SDDR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-71.287800,18.982100,589.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TGUH</name>
+        <description>Tegucigalpa, Honduras (TGUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-87.273000,14.057000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBGH</name>
+        <description>Gun Hill, Barbados (BBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.558800,13.143400,180.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIM</name>
+        <description>Bigot, Martinique,France (BIM.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.070800,14.517000,425.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MPOM</name>
+        <description>Morne Pois Martinique, Martinique,France (MPOM.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.858800,14.444700,40.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MCLT</name>
+        <description>Moule a Chique, St Lucia (MCLT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.942603,13.711493,220.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAGL</name>
+        <description>Barre de l'ile, St louis, Marie Galante, Guadeloupe,France (MAGL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.282200,15.949400,159.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ILAM</name>
+        <description>Ilet Lapin Martinique, Martinique,France (ILAM.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.873600,14.774700,38.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DSLB</name>
+        <description>Salisbury, Dominica (DSLB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.421000,15.438000,279.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DMLD</name>
+        <description>Londonberry, Dominica (DMLD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.301400,15.550500,50.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLPL</name>
+        <description>La Plaine, Dominica (DLPL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.246788,15.332419,40.90</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DDOJ</name>
+        <description>Jimmit, Dominica (DDOJ.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.403900,15.373000,35.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRN</name>
+        <description>St. Augustine, Trinidad (TRN.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.403000,10.648000,24.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRNT</name>
+        <description>Trants, Montserrat (TRNT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.163300,16.764280,23.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

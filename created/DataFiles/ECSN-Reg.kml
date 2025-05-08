@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>ECSN-Reg</name>
+    <Snippet>Created Mon Aug 30 13:05:59 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>FDF</name>
+        <description>Fort de France, Guadeloupe (FDF.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.150330,14.733330,510.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATG</name>
+        <description>Martinique (ATG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.726333,16.094333,865.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGH</name>
+        <description>St. Georges Hill, Montserrat (MBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208633,16.722567,350.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMRT</name>
+        <description>(SMRT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.074600,18.050500,260.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBGH</name>
+        <description>Gun Hill, Barbados (BBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.558800,13.143400,180.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BCIP</name>
+        <description>Isla Barro Colorado, Panama (BCIP.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-79.837300,9.166500,61.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRGR</name>
+        <description>Grenville, Grenada (GRGR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.654000,12.132400,195.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDDR</name>
+        <description>Presa de Sabaneta, Dominican Republic (SDDR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-71.287800,18.982100,589.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TGUH</name>
+        <description>Tegucigalpa, Honduras (TGUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-87.273000,14.057000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBSR</name>
+        <description>Bermuda Biological Station for Research, St. Georges, Bermuda (BBSR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-64.696200,32.371200,-25.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DWPF</name>
+        <description>Disney Wilderness Preserve, Florida, USA (DWPF.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-81.432800,28.110300,-142.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HKT</name>
+        <description>Hockley, Texas, USA (HKT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-95.833300,29.950000,-415.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TEIG</name>
+        <description>Tepich, Yucatan, Mexico (TEIG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-88.276400,20.226300,69.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDV</name>
+        <description>Santo Domingo, Venezuela (SDV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-70.633300,8.886100,1580.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SJG</name>
+        <description>San Juan, Puerto Rico, USA (SJG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-66.150000,18.111700,457.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVB</name>
+        <description>Belmont, St. Vincent (SVB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.250400,13.274500,282.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TOSP</name>
+        <description>Speyside, Tobago (TOSP.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.535194,11.298342,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKI</name>
+        <description>Bayford$</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.738000,17.333800,306.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DLPL</name>
+        <description>La Plaine, Dominica (DLPL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.246788,15.332419,40.900000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MCLT</name>
+        <description>Moule a Chique (NEIC) (MCLT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-60.942603,13.711493,220.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRN</name>
+        <description>St. Augustine, Trinidad (TRN.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.403000,10.648000,24.000000</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-77.696050</longitude>
+      <latitude>20.628650</latitude>
+      <range>5924110.577549</range>
+    </LookAt>
+  </Document>
+</kml>

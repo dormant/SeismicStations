@@ -1,0 +1,118 @@
+2010-08-28 		MBFL.EHZ.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28 		MBGH.HHE.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		MBGH.HHN.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		MBGH.HHZ.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		MBWW.HHE.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		MBWW.HHN.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		MBWW.HHZ.MV.--	100	E-MVO		import_gen_pasv_MVO		No data
+2010-08-28		SABA.BHE.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SABA.BHN.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SABA.BHZ.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SMRT.BHE.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SMRT.BHN.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SMRT.BHZ.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SEUS.BHE.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SEUS.BHN.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		SEUS.BHZ.NA.--	???	E-KNMI		slink2ew_knmi			No data
+2010-08-28		GRGR.BH1.CU.00	 40	E-IRIS		slink2ew_iris			No data				
+2010-08-28		GRGR.BH2.CU.00	 40	E-IRIS		slink2ew_iris			No data
+2010-08-28		GRGR.BHZ.CU.00	 40	E-IRIS		slink2ew_iris			No data
+2010-08-28		GRGR.BH1.CU.00	 40	E-IRIS		slink2ew_iris			Data 3.5 hours old							
+2010-08-28		GRGR.BH2.CU.00	 40	E-IRIS		slink2ew_iris			Data 3.5 hours old				
+2010-08-28		GRGR.BHZ.CU.00	 40	E-IRIS		slink2ew_iris			Data 3.5 hours old				
+2010-08-28		HKT.BHE.IU.00	 40	E-USGS		liss2ew_scnl_usgs		No data
+2010-08-28		HKT.BHN.IU.00	 40	E-USGS		liss2ew_scnl_usgs		No data
+2010-08-28		HKT.BHZ.IU.00	 40	E-USGS		liss2ew_scnl_usgs		No data
+2010-08-28		SDV.BHE.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		SDV.BHN.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		SDV.BHZ.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		SJG.BHE.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		SJG.BHN.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		SJG.BHZ.IU.00	 20	E-USGS		liss2ew_scnl_usgs		No data / Channel disabled / Disabled in Waveserver
+2010-08-28		BBGH.BHZ.CU.--	 40	E-USGS		liss2ew_scnl_usgs		Channel disabled / Not in Waveserver
+2010-08-28		BCIP.BHZ.CU.--	 40	E-USGS		liss2ew_scnl_usgs		Channel disabled / Not in Waveserver
+2010-08-28		SDDR.BHZ.CU.--	 40	E-USGS		liss2ew_scnl_usgs		Channel disabled / Not in Waveserver
+2010-08-28		GRGR.BHZ.CU.--	 40	E-USGS		liss2ew_scnl_usgs		Channel disabled / Not in Waveserver
+2010-08-28		TGUH.BHZ.CU.--	 40	E-USGS		liss2ew_scnl_usgs		Channel disabled / Not in Waveserver
+2010-08-28		BBGH.BHZ.CU.--	 40	E-PRSN		import_prsn			Channel disabled in scn2scnl / Disabled in Waveserver	
+2010-08-28		FDF.BHZ.G.--	 20	E-PRSN		import_prsn			Channel disabled in scn2scnl / Disabled in Waveserver
+2010-08-28		GRGR.BHZ.IU.--	 40	E-PRSN		import_prsn			Channel disabled in scn2scnl / Disabled in Waveserver
+2010-08-28		MDPM.EHE.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		MDPM.EHN.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		MDPM.EHZ.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		MDVC.EHE.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		MDVC.EHN.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		MDVC.EHZ.TR.--	100	TR-DWS		import_gen_pasv_DWS		No data
+2010-08-28		PSDMZ.EHZ.DM.--	100	E-DPSN		import_ack_psdmz		No data
+2010-08-28		TRNT.EHZ.TR.--	100	TR-SRC		import_ack_arm_vault		No data / Module disabled
+2010-08-28		TRNT.EHN.TR.--	100	TR-SRC		import_ack_arm_vault		No data / Module disabled
+2010-08-28		TRNT.EHE.TR.--	100	TR-SRC		import_ack_arm_vault		No data / Module disabled
+2010-08-28		SSVW.EHE.TR.--	100	TR-SSVW		import_ack_atm_ssvw		No data / Module disabled
+2010-08-28		SSVW.EHN.TR.--	100	TR-SSVW		import_ack_atm_ssvw		No data / Module disabled
+2010-08-28		SSVW.EHZ.TR.--	100	TR-SSVW		import_ack_atm_ssvw		No data / Module disabled
+2010-08-28		SVCV.EHE.TR.--	100	TR-SVCV		import_ack_arm_svcv		Header errors in WAVE_RING / Module disabled
+2010-08-28		SVCV.EHN.TR.--	100	TR-SVCV		import_ack_arm_svcv		Header errors in WAVE_RING / Module disabled
+2010-08-28		SVCV.EHZ.TR.--	100	TR-SVCV		import_ack_arm_svcv		Header errors in WAVE_RING / Module disabled
+2010-08-28		BOT.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TBH.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TCE.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TPP.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TPR.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TRN.EHZ.TR.--	100	TR-TRN		mon2ew				Data 3 hours old
+2010-08-28		TRN.HHE.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		TRN.HHN.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		TRN.HHZ.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		TRN.HLE.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		TRN.HLN.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		TRN.HLZ.TR.--	100	TR-TRN		mon2ew				No data
+2010-08-28		BBSP.HHE.TR.--	100	TR-BBSP		mon2ew				No data
+2010-08-28		BBSP.HHN.TR.--	100	TR-BBSP		mon2ew				No data
+2010-08-28		BBSP.HHZ.TR.--	100	TR-BBSP		mon2ew				No data
+2010-08-28		GRHS.EHE.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRHS.EHN.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRHS.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRHS.ELE.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRHS.ELN.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRHS.ELZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRCU.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRIC.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRSS.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		GRW.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		SSPL.EHZ.TR.--	100	TR-GRHS		mon2ew				No data
+2010-08-28		BHS.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		FCV.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		SFAN.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		SSV.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		SVV.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		SLB.EHZ.TR.--	100	TR-SVB		mon2ew				No data
+2010-08-28		SLDE.EHZ.TR.--	100	TR-MCLT		mon2ew				No data
+2010-08-28		SLPA.EHZ.TR.--	100	TR-MCLT		mon2ew				No data
+2010-08-28		SLPE.EHZ.TR.--	100	TR-MCLT		mon2ew				No data
+2010-08-28		SLTA.EHZ.TR.--	100	TR-MCLT		mon2ew				No data
+2010-08-28		SLW.EHZ.TR.--	100	TR-MCLT		mon2ew				No data
+2010-08-28		DBCT.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		DFBT.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		DPMT.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		DSHT.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		DSTT.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.EHE.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.EHN.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.EHZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.ELE.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.ELN.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		MDN.ELZ.TR.--	100	TR-MDN		mon2ew				No data
+2010-08-28		SKTB.EHZ.TR.--	100	TR-SKI		mon2ew				No data
+2010-08-28		SKDB.EHZ.TR.--	100	TR-SKI		mon2ew				Timestamp wrong
+2010-08-28		BSK.EHZ.TR.--	100	TR-SKI		mon2ew				Timestamp wrong
+2010-08-28		NVRH.EHZ.TR.--	100	TR-SKI		mon2ew				Timestamp wrong
+2010-08-28		NVBH.EHZ.TR.--	100	TR-SKI		mon2ew				Timestamp wrong
+2010-08-28		NEV.EHZ.TR.--	100	TR-SKI		mon2ew				No data
+2010-08-28		DLPL.HHE.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-28		DLPL.HHN.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-28		DLPL.HHZ.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-28		DLPL.HLE.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-28		DLPL.HLN.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-28		DLPL.HLZ.TR.--	100	TR-VSAT		naqs2ew				No data
+2010-08-30		GRGR.BH1.CU.00	 40	E-IRIS		slink2ew_iris			Data OK						
+2010-08-30		GRGR.BH2.CU.00	 40	E-IRIS		slink2ew_iris			Data OK				
+2010-08-30		GRGR.BHZ.CU.00	 40	E-IRIS		slink2ew_iris			Data OK				

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+OUTFILE="stations-Grenada.ps"
+TITLE="Grenada"
+
+/home/stewart/lib/gmt/gmt_basemap -area=210 -type=col -out=$OUTFILE -title=$TITLE
+
+
+

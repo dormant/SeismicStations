@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Oxford-nodes</name>
+    <snippet>Created Thu Jul 25 17:38:35 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.195970</longitude>
+      <latitude>16.758015</latitude>
+      <range>18452.203168</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>ON001</name>
+        <description>Oxford Node 001, at the top behind building,  near tree (ON001.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.213689,16.732469,120.69</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON002</name>
+        <description>Oxford Node 002, slightly off road (ON002.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.214314,16.732056,116.73</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON005</name>
+        <description>Oxford Node 005, by roundabout (ON005.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.214677,16.731491,110.58</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON006</name>
+        <description>Oxford Node 006, along road (ON006.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.215022,16.731096,105.03</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON007</name>
+        <description>Oxford Node 007, by house on the left (ON007.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.215355,16.730556,99.20</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON008</name>
+        <description>Oxford Node 008, before the tyre line (ON008.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.215719,16.730158,95.44</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON009</name>
+        <description>Oxford Node 009, by tree line,  midway between tyres,  base of trees (ON009.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.216052,16.729712,92.35</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON010</name>
+        <description>Oxford Node 010, in rise/hedge (ON010.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.216402,16.729339,90.47</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON011</name>
+        <description>Oxford Node 011, treeline,  end of road (ON011.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.216817,16.728807,85.90</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON012</name>
+        <description>Oxford Node 012, near well (ON012.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217079,16.728310,85.65</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON013</name>
+        <description>Oxford Node 013, at the well (opposite) (ON013.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217817,16.728057,80.73</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON014</name>
+        <description>Oxford Node 014, by the pipes of the well (ON014.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217879,16.727631,81.61</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON015</name>
+        <description>Oxford Node 015, near the road (east of) (ON015.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.218280,16.727038,80.99</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON016</name>
+        <description>Oxford Node 016, north of crossroad (ON016.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.218604,16.726463,80.47</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON017</name>
+        <description>Oxford Node 017, west of the road (ON017.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219075,16.725725,76.75</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON018</name>
+        <description>Oxford Node 018, east of road,  near the mining factory (ON018.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219271,16.725004,73.54</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON019</name>
+        <description>Oxford Node 019, just after layby (ON019.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219546,16.724360,71.95</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON020</name>
+        <description>Oxford Node 020, just before left turn (ON020.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219626,16.723607,69.47</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON021</name>
+        <description>Oxford Node 021, along road (ON021.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219695,16.722822,66.55</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON022</name>
+        <description>Oxford Node 022, after elberton road junction (ON022.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219724,16.722072,67.23</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON023</name>
+        <description>Oxford Node 023, along road (ON023.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219521,16.721330,67.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON024</name>
+        <description>Oxford Node 024, along road (ON024.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219531,16.720623,69.71</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON025</name>
+        <description>Oxford Node 025, between junctions (ON025.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219628,16.719776,71.04</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON026</name>
+        <description>Oxford Node 026, mining factory crossroad,  west of road (ON026.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219682,16.718862,71.75</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON027</name>
+        <description>Oxford Node 027, near shed (east of road) / stop sign. Last one before zone V starts,  25 nodes along a 'linear' array that goes alongside mon-1 (ON027.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219478,16.718146,70.24</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON028</name>
+        <description>Oxford Node 028, right of road beyond the gate (ON028.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.220017,16.716975,64.23</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON029</name>
+        <description>Oxford Node 029, right of road (ON029.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219993,16.715786,58.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON030</name>
+        <description>Oxford Node 030, outside gate (ON030.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.219763,16.714408,54.19</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON031</name>
+        <description>Oxford Node 031, right of road (ON031.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.220573,16.713181,44.67</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON032</name>
+        <description>Oxford Node 032, near to air quality equipments (ON032.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.221980,16.709856,32.02</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON033</name>
+        <description>Oxford Node 033, base of tree around 10m uphill from glass recycling (ON033.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.223277,16.762200,16.94</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON034</name>
+        <description>Oxford Node 034, montserrat museum,  in carpark by tree line. marked with flag (ON034.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.202124,16.800224,40.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON036</name>
+        <description>Oxford Node 036, silver hill,  by T-junction,  before treeline to the left,  marked 2m from lollipop stick (ON036.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.192271,16.811641,398.46</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON037</name>
+        <description>Oxford Node 037, entroute to silver hills. on bank next to layby near prickly bush (ON037.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.193441,16.803503,261.40</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON038</name>
+        <description>Oxford Node 038, Rosita's drive,  buried just off road,  Baizey's. Flag marked (ON038.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.195075,16.777744,209.56</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON040</name>
+        <description>Oxford Node 040, Near Margerita beach,  last hairpin of drive. Flag marked (ON040.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.183265,16.797082,29.52</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON042</name>
+        <description>Oxford Node 042, Past Jackboy Hill Nature gates. 20m before red container,  buried on left bank bfore left turning. Marked with flag (ON042.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.171092,16.767397,226.82</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON043</name>
+        <description>Oxford Node 043, Dick hill. At corner of road. LHS if looking up hill. Flag marked. Base of bigggest tree past banana trees (ON043.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.189654,16.770480,403.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON045</name>
+        <description>Oxford Node 045, Top of fogarthy hill,  by star fruit tree,  flag marked. Rhona from Salem's house (ON045.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207671,16.772175,264.75</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON047</name>
+        <description>Oxford Node 047, Isle's bay beach,  below tsunami sign. Flag marked (ON047.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.231978,16.739053,11.96</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON048</name>
+        <description>Oxford Node 048, Crossroad,  west of road (ON048.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.221920,16.712335,50.58</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON049</name>
+        <description>Oxford Node 049, Opposite the circular building in vegetation (ON049.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.222540,16.708563,38.26</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON052</name>
+        <description>Oxford Node 052, east of road (ON052.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.222235,16.707178,35.07</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON053</name>
+        <description>Oxford Node 053, After cross road,  east of road (ON053.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.221816,16.706020,30.71</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON054</name>
+        <description>Oxford Node 054, Near the dock,  south of gravel (ON054.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.221644,16.704478,23.16</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON055</name>
+        <description>Oxford Node 055, behind gravel. (10m walk East of Gravel) (ON055.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.220809,16.704389,22.66</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON056</name>
+        <description>Oxford Node 056, Right after (east) of the fence (ON056.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208588,16.729335,163.62</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON057</name>
+        <description>Oxford Node 057, Next to the road,  at the houses (ON057.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.210861,16.729176,144.97</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON058</name>
+        <description>Oxford Node 058, Waterworks estate, just past old sugar mill,  flag marked,  along road going uphill RHS,  by palm tree (ON058.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.209729,16.738667,150.55</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON059</name>
+        <description>Oxford Node 059, Waterworks estate,  infront of solar panels of GPS station. flag marked (ON059.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.213896,16.740828,135.99</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON060</name>
+        <description>Oxford Node 060, St Georges Hill - on LHS going uphill (ON060.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208623,16.726945,262.50</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON061</name>
+        <description>Oxford Node 061, Before weather station on St Georges Hill (ON061.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.205212,16.723359,326.13</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON062</name>
+        <description>Oxford Node 062, A few metres away from MBGH (ON062.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207261,16.721762,370.22</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON063</name>
+        <description>Oxford Node 063, Located ~100m before windmills (weather station) (ON063.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.204112,16.724948,342.51</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON064</name>
+        <description>Oxford Node 064, Located at weather station site (ON064.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.203960,16.724557,343.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON065</name>
+        <description>Oxford Node 065, Headed back down from weather station to right,  100m inside (ON065.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.205886,16.724178,325.09</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON066</name>
+        <description>Oxford Node 066, past geothermal exploration sign,  track to the right going in for ~2min located to right of mango tree (ON066.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.207369,16.729626,194.94</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON067</name>
+        <description>Oxford Node 067, along road,  flag marked (ON067.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.210123,16.731891,140.97</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON069</name>
+        <description>Oxford Node 069, Zone V-Whites. Along path to GPS stations,  LHS up hill,  15m from station. flag marked (ON069.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.159963,16.731388,196.85</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON077</name>
+        <description>Oxford Node 077, Node along trail. Flag marked (ON077.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208542,16.752875,452.35</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON080</name>
+        <description>Oxford Node 080, opposite well in ditch (ON080.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217171,16.727604,113.98</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON082</name>
+        <description>Oxford Node 082, between containers by well (ON082.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217244,16.727840,115.94</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON083</name>
+        <description>Oxford Node 083, by well gates,  next to skip (ON083.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217163,16.728106,114.81</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON084</name>
+        <description>Oxford Node 084, LHS road facing well,  opposite coconut palm,  by bank (ON084.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.216982,16.728617,110.42</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON085</name>
+        <description>Oxford Node 085, At base of house to left when facing it. North sid of road (ON085.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.218912,16.728727,91.10</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON086</name>
+        <description>Oxford Node 086, By well,  at concrete base closest to pond. (ON086.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.217374,16.727481,100.14</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON121</name>
+        <description>Oxford Node 121, St Augustine school,  by cricket nets (ON121.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.218308,16.768813,52.16</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ON122</name>
+        <description>Oxford Node 122, LookOut primary school,  at end of drive behind auditorium. next to generator (ON122.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.187650,16.789081,195.45</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

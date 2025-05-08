@@ -1,0 +1,165 @@
+#Code, Loc, Type, Chans, Sampling rate, Equipment
+SVB,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+SVB,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+SVB,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+SPEY,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident 
+SPEY,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+SPEY,  --,  BB-3C,  HHZ/1/2,  100, CMG-40T/Trident 
+SPEY,  --,  AC-3C,  HLZ/1/2,  100, TSA-100S/Trident
+SKI,   --,  BB-3C,  BHZ/N/E,  100, CMG-40T/Soufriere
+SKI,   --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+SKI,   --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+MCLT,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+MCLT,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+DTRR,  --,  BB-3C,  HHZ/N/E,  100, CMG-40T/Trident
+DTRR,  --,  AC-3C,  HLZ/N/E,  100, TSA-100S/Trident
+BBSR,  00,  BB-3C,  BHZ/1/2,  20,  CMG-3TB/Q680
+DWPF,  00,  BB-3C,  BHZ/1/2,  20, 
+HKT,   00,  BB-3C,  BHZ/N/E,  20,
+SDV,   00,  BB-3C,  BHZ/N/E,  20,
+SJG,   00,  BB-3C,  BHZ/N/E,  20,
+TEIG,  10,  BB-3C,  BHZ/1/2,  20,
+BBGH,  --,  BB-3C,  BHZ/N/E,  40,
+BCIP,  --,  BB-3C,  BHZ/N/E,  40,
+GRGR,  --,  BB-3C,  BHZ/N/E,  40
+SDDR,  --,  BB-3C,  BHZ/N/E,  40,
+TGUH,  --,  BB-3C,  BHZ/N/E,  40,
+PMDMZ, 01,  SP-Z,   SHZ,     100, Sercel L4C 1Hz / Reftek 130
+MDCT,  --,  SP-3C,  EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+MDPM,  --,  SP-3C,  EHZ/1/2, 100, L4C / SS-1 / SS-1 / Reftek 130
+MDVC,  --,  SP-3C,  EHZ/1/2, 100, L4C / Reftek 130
+DWS,   --,  BB-3C,  HHZ/1/2, 100, CMG-40T / DM24
+BBL,   --,  SP-Z,   SHZ,     100, 
+MDPV,  --,  SP-Z,   EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+MDMP,  --,  SP-Z,   EHZ/1/2, 100, HS11 / HS11 / HS11 / Reftek 130
+GUSW,  --,  BB-3C,  HHZ/1/2, 100, Guralp CMG-3 (?) with DM24 digitiser
+MJHT,  --,  SP-Z,   SHZ, ,
+MGH,   --,  SP-Z,   SHZ, , 
+MRYT,  --,  SP-Z,   SHZ, ,
+
+ALNG,   BB 3C,
+APR,    SP V,          , S-13
+BBL,        ,          , French station
+BIRV,   BB 3C,         , Guralp CMG-40T
+CAIV,   BB 3C,         , Guralp CMG-40T
+CANV,   S-13	
+CAR,    S-13	
+CBY,    BB 3C,         , Guralp CMG-40T
+CELP,   S-13
+CEOS,   S-13
+CPA,    Repeater
+CPD,    S-13
+CPD,    BB 3C,         , Guralp CMG-40T
+CRUV,   BB 3C,         , Guralp CMG-40T
+CSB,    S-13
+CUPV,   CMG-40T
+DABV,   CMG-40T
+DHCT,   K2
+DWES,   3-component(low gain and high gain), 16bit Broadband station
+GRCU,   Short period, single comp. KEJ project
+GRHS,   Broadband 3-comp. high gain. KEJ project
+GRIC,   Single component, short period stn
+GRSS,   Single comp. high gain. KEJ project
+GUAC,   S-13
+GUAN,   S-13
+GUIV,   BB 3C,         , Guralp CMG-40T
+GUNV,   BB 3C,         , Guralp CMG-40T
+GWES,   3-component, broadband, 16bit
+HUMP,   CMG-3T
+IBAV,   CMG-40T
+ICM,    CMG-40T
+IDE,    L-4
+ITEV,   CMG-40T
+JACH,   CMG-40T
+LLAV,   S-13
+LRS,    S-13
+LSP,    L-4
+MEP,    Repeater
+MERV,   CMG-40T
+MGP,    S-13
+MGP,    CMG-40T
+MONV,   CMG-40T
+MORO,   S-13
+MPR,    CMG-3T
+MTP,    CMG-40T
+NEBH,   Single component 
+NEVB,   Single component 
+NVBH,   Single comp.
+NVRH,   Single comp.
+OLLA,   S-13
+ORIV,   CMG-40T
+PARV,   CMG-40T
+PAYV,   CMG-40T
+PLAT,   S-13
+PORP,   S-13
+QARV,   CMG-40T
+SABA,   3C BB
+SABT,   3C SP
+SANV,   CMG-40T
+SDV,    S-13
+SJV,    3C L-4
+SKDB,   Single component
+SKTB,   V SP
+STAT,   3C BB
+STMA,   2004-03-07 - 3C BB (high and low gain) installed
+STVI,   3C L-4
+SVSV,   strong-motion
+TBRC,   K2
+TBVI,   K2
+TCHG,   K2
+TEST,   CMG-40T
+TGV,    S-13
+TMD,    V SP
+TOV,    S-13
+TPTC,   K2
+TTR,    V SP
+TWMO,   K2
+VGVI,   K2
+VIRV,   CMG-40T
+MBWW,  --, BB-3C, HHZ/N/E, 100, Guralp CMG-3T / DM24
+MBBY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+MBFR,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+MBGB,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+MBGH,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+MBHA,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+MBLG,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+MBLY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24
+MBRY,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+MBWH,  --, BB-3C, BHZ/N/E, 100, Guralp CMG-40T / DM24, 2005-04 on
+MBFL,  --, SP-Z,  SHZ,     100, Mark Products L-4C / DM24
+MBRV,  --, SP-Z,  SHZ,     100, Mark Products L-4C / DM24
+MWI,     ,   3C,      , analog, Weichert / local recording, 1937 - 1951
+MWI,     , SP-Z,      , analog, Willmore-Watts SPZ 0.8s period / local recording, 1966-03-22 to 1967-11
+MWF,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+MWL,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+MWP,     , SP-Z,      , analog, telemetered to MWI, 1966-03-22 to 1967-11
+MWI,     , SP-Z,      , analog, local paper recording, 1967 to 1980
+MGH,     ,     ,      , analog, telemetered to SRU, 1980 to 1989
+MBET,    , SP? ,      , ?, 
+MGAT,    , SP? ,      , ?, 
+MJHT,    , SP? ,      , ?, 
+MJHT,    , SP? ,      , ?, 
+MLGT,    , SP? ,      , ?, 
+MGHZ,    , SP? ,      , ?, 
+MPVE,    , SP? ,      , ?, 
+MRYT,    , SP? ,      , ?, 
+MSAT,    , SP? ,      , ?, 
+MSPT,    , SP? ,      , ?, 
+MVPV,    , SP? ,      , ?, 
+MWHT,    , SP? ,      , ?, 
+MBBE,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+MBGA,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+MBGB,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+MBGE,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+MBGH,  --, BB-3C,     ,    75?, Guralp CMG? / Earth Data
+MBLG,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+MBRY,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+MBWH,  --, SP-Z,      ,    75?, Guralp CMG? / Earth Data
+MML,   90, BB-3C, HHZ/N/E, 100, Guralp CMG40T-60
+DEG,   90, SP-3C, EHZ/N/E, 100, L4C-3D
+TBG,   90, SP-Z,  EHZ,     100, L4C
+MGG,   90, SP-Z,  EHZ,     100, L4C
+BBL,   90, SP-Z,  EHZ,     100, L4C
+ATG,   90, SP-Z,  EHZ,     100, L4C
+MROD,  00, SP-Z,  EHZ,     100, Raspberry Shake 1C
+

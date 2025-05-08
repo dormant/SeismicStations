@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-certimus</name>
+    <snippet>Created Thu Jul 25 17:38:23 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.194017</longitude>
+      <latitude>16.730230</latitude>
+      <range>15911.456946</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MBGB</name>
+        <description>Garibaldi Hill, Montserrat (MBGB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.227767,16.732067,253.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBHA</name>
+        <description>Harris, Montserrat (MBHA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.168220,16.742010,250.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBJH</name>
+        <description>Jack Boy Hill, Montserrat (MBJH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.169800,16.770000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBSS</name>
+        <description>South Soufriere Hills, Montserrat (MBSS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.160267,16.687083,395.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBWR</name>
+        <description>White River, Montserrat (MBWR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.191200,16.685760</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBAM</name>
+        <description>Amersham, Montserrat (MBAM.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.206538,16.707576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBMO</name>
+        <description>Mongo Hill, Montserrat (MBMO.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.193200,16.774700,288.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

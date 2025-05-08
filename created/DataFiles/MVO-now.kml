@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-now</name>
+    <snippet>Created Wed Sep 25 19:19:55 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.190467</longitude>
+      <latitude>16.752167</latitude>
+      <range>20002.981700</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSS1</name>
+        <description>Scar 1 (MSS1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.178000,16.721820,488.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBFR</name>
+        <description>Fergus Ridge, Montserrat (MBFR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.178000,16.693000,541.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBLY</name>
+        <description>Lee's Yard, Montserrat (MBLY.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.191000,16.721333,355.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBLG</name>
+        <description>Long Ground, Montserrat (MBLG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.162250,16.725000,287.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBBY</name>
+        <description>Broderick's Yard, Montserrat (MBBY.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.202550,16.697683,161.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGH</name>
+        <description>St. Georges Hill, Montserrat (MBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.208633,16.722567,350.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBFL</name>
+        <description>Flemmings, Montserrat (MBFL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212500,16.748500,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGB</name>
+        <description>Garibaldi Hill, Montserrat (MBGB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.227767,16.732067,253.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBRV</name>
+        <description>Rendezvous, Montserrat (MBRV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.196000,16.811333,231.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBWH</name>
+        <description>Windy Hill, Montserrat (MBWH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.190933,16.742183,407.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBRY</name>
+        <description>Roches Yard, Montserrat (MBRY.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.153167,16.703900,355.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBHA</name>
+        <description>Harris, Montserrat (MBHA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.168220,16.742010,250.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

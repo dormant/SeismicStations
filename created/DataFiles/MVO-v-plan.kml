@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Thu Oct 14 20:34:07 2021 GMT</snippet>
+    <LookAt>
+      <longitude>-62.179215</longitude>
+      <latitude>16.711190</latitude>
+      <range>3369.681761</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>MBCS</name>
+        <description>Chances Steps, Montserrat (MBCS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.188230,16.703380,457.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBGS</name>
+        <description>Galways Saddle, Montserrat (MBGS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.170860,16.706650,781.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSUH</name>
+        <description>Upper Hermitage, Montserrat (MSUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.170200,16.719000,515.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

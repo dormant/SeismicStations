@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>E-IRIS</name>
+    <Snippet>Created Tue Aug 17 13:26:07 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>BBGH</name>
+        <description>Gun Hill, Barbados (BBGH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-59.558800,13.143400,180.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BCIP</name>
+        <description>Isla Barro Colorado, Panama (BCIP.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-79.837300,9.166500,61.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRGR</name>
+        <description>Grenville, Grenada (GRGR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.654000,12.132400,195.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDDR</name>
+        <description>Presa de Sabaneta, Dominican Republic (SDDR.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-71.287800,18.982100,589.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TGUH</name>
+        <description>Tegucigalpa, Honduras (TGUH.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-87.273000,14.057000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.000000</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-73.415900</longitude>
+      <latitude>14.074300</latitude>
+      <range>4133991.438985</range>
+    </LookAt>
+  </Document>
+</kml>

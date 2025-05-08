@@ -1,0 +1,29 @@
+#!/usr/bin/env perl
+#
+# sta2locy
+#
+# Gets a list of stations as arguments and
+# and lists only the 'y' locations
+#
+# Rod Stewart, 2009-07-24
+
+my @stas = @ARGV;
+
+foreach $sta (@stas) {
+	open( FH1, 'data/locations.txt');
+	@lines = grep /^$sta/, <FH1>;
+	close( FH1 );
+	@lines = grep /y, /, @lines;
+	chomp @lines;
+	foreach $line (@lines) {
+        print $line, "\n";
+#		print $line, ":        ";
+	}
+#	open( FH2, 'data/names.txt');
+#	@lines = grep /^$sta,/, <FH2>;
+#	close( FH2 );
+#	chomp @lines;
+#	foreach $line (@lines) {
+#		print $line, "\n";
+#	}
+}

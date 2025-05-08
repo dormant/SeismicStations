@@ -1,0 +1,16 @@
+# Code, declination, date, source
+# NB: Declination is angle from True N to Grid N, + is clockwise
+SPEY, -14.75, 2007-08-05, http://www.ngdc.noaa.gov/seg/geomag/jsp/Declination.jsp
+SVB, -14.55, 2008-06-06, http://www.ngdc.noaa.gov/geomagmodels/Declination.jsp
+MBBY, 0.0, assumed
+MBFR, 0.0, assumed
+MBGB, 0.0, assumed
+MBGH, 0.0, assumed
+MBHA, 0.0, assumed
+MBLG, 0.0, assumed
+MBLY, 0.0, assumed
+MBRY, 0.0, assumed
+MBWH, 0.0, assumed
+MBWW, 0.0, assumed
+MBFL, -14.71, 2020-06-17, https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml
+MBRV, -14.77, 2021-09-15, https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml

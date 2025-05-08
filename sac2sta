@@ -1,0 +1,27 @@
+#!/usr/bin/env perl
+#
+# sac2sta
+#
+# Gets a list of stations for all SAC files in current directory
+#
+# Rod Stewart, 2010-06-04
+
+my @lines = `ls *.SAC`;
+
+my @sta = [];
+
+foreach $line (@lines) {
+	chomp $line;
+	my @fields = split/\./, $line;
+	my $sta = $fields[7];
+	push @sta, $sta;
+}
+
+%seen = ();
+foreach $item (@sta) {
+    push(@uniq, $item) unless $seen{$item}++;
+}
+
+foreach $item (@uniq) {
+	print $item, "\n";
+}

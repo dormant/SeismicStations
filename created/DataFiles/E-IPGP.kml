@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>E-IPGP</name>
+    <Snippet>Created Tue Aug 17 14:53:59 2010</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>FDF</name>
+        <description>Fort de France, Guadeloupe (FDF.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.150330,14.733330,510.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATG</name>
+        <description>Martinique (ATG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.726333,16.094333,865.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BBL</name>
+        <description>Barbers Block (Morne Espagnol), Dominica (BBL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.470000,15.526167,365.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DEG</name>
+        <description>La Desirade, Martinique (DEG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.064000,16.311167,279.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MGG</name>
+        <description>Marie Galante (MGG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.320500,15.915000,88.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MML</name>
+        <description>Martinique (MML.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.669000,16.044500,1197.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TBG</name>
+        <description>Martinique (TBG.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.645333,15.852000,92.000000</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-61.395167</longitude>
+      <latitude>15.522248</latitude>
+      <range>246305.529241</range>
+    </LookAt>
+  </Document>
+</kml>

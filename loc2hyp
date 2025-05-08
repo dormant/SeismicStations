@@ -1,0 +1,27 @@
+#!/usr/bin/env perl
+#
+# loc2hyp
+#
+# Gets the output of net2locy etc as inoput and gives output in format
+# for HYP.
+#
+# Should use in pipe, eg
+#
+# .net2locy MVO-D | ./loc2hyp > sta_hyp_MVO-D.txt
+#
+# Rod Stewart, 2010-11-23
+
+use lib "/home/seisan/src/perlModules";
+use RodTools qw( clla2Hyp deg2DegMin deg2NSEW );
+
+while (<> ) {
+
+	chomp;
+
+	my ($code,$lat,$lon,$alt,$rest) = split /,\s+/, $_;
+
+	my $line = clla2Hyp( $code, $lat, $lon, $alt);
+
+	print $line, "\n";
+
+}

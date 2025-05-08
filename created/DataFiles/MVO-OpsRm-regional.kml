@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-OpsRm-regional</name>
+    <snippet>Created Mon Dec 11 15:23:58 2023 GMT</snippet>
+    <LookAt>
+      <longitude>-62.227576</longitude>
+      <latitude>15.494047</latitude>
+      <range>690061.535554</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>ANWB</name>
+        <description>Willy Bob, Barbuda, Antigua and Barbuda (NEIC) (ANWB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.785600,17.668500,39.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABD</name>
+        <description>La Joyeuse, Anse Bertrand, Guadeloupe (ABD.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.488100,16.474300,12.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SVV</name>
+        <description>Wallibou, St. Vincent (SVV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.212551,13.319594,207.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABA</name>
+        <description>Saba (SABA.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-63.242600,17.620500,261.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DHS</name>
+        <description>Morne Mazeau - Deshaies, Guadeloupe (DHS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-61.765236,16.288680</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKDB</name>
+        <description>Dieppe Bay, St. Kitts (SKDB.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.811835,17.413154,21.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

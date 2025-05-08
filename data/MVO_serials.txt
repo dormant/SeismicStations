@@ -1,0 +1,25 @@
+MBRV 
+DIGITISER DD38
+SEISMOMTER SERIAL NO T4343
+CMG-40T
+800 V/m/s
+T4343 is 30 s to 50 Hz 
+
+MBWH 
+MODEL CMG-TEC-0000
+SERIAL NUMBER T36255
+CMG-3ESPC
+6000 V/m/s
+T36255 is 60 s to 50 Hz
+Yes, that's definitely a Mk3 DM24- it couldn't be anything else given the
+displayed firmware version. More specifically I can see in our records (thanks
+to you passing on the 3T serial number) that it's a fairly early Mk3 DM24,
+integrated with an EAM into the lid of a 3T. The full serial no. is T36255/
+A2241/2674.
+
+MBRY
+DIGITISER DD47
+SEISMOMETER T4D68
+CMG-40T
+3200 V/m/s
+T4D68 has a 30 s to 50 Hz

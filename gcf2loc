@@ -1,0 +1,51 @@
+#!/usr/bin/env perl
+#
+# gcf2loc
+#
+# Reads GPS locations in GCF text files and writes mean locations suitable for locations.txt
+# file.
+#
+# Reads from STDIN, writes to STDOUT
+#
+# Rod Stewart, 2010-05-05
+
+use lib "/home/seisan/src/perlModules";
+use RodTools qw( degMinNSEW2Deg );
+
+my $elev_mean = 0.0;
+my $lat_mean = 0.0;
+my $lon_mean = 0.0;
+my $nloc = 0;
+
+my $today = `date +"%Y-%m-%d"`;
+chomp $today;
+
+while (<>) {
+
+	chomp;
+
+	($d1,$d2,$d3,$d4,$d5,$lat_str,$d6,$lon_str,$d7,$ele_str) = split;
+
+#	print $lat_str, "\n";
+#	print $lon_str, "\n";
+#	print $ele_str, "\n";
+
+	$lat = degMinNSEW2Deg( $lat_str );
+	$lon = degMinNSEW2Deg( $lon_str );
+	$elev = substr( $ele_str, 0, -1 );
+
+	$nloc = $nloc + 1;
+	$lat_mean = $lat_mean + $lat;
+	$lon_mean = $lon_mean + $lon;
+	$elev_mean = $elev_mean + $elev;
+
+#	print $lat, "\n";
+#	print $lon, "\n";
+#	print $elev, "\n";
+}
+
+$elev_mean = $elev_mean / $nloc;
+$lat_mean = $lat_mean / $nloc;
+$lon_mean = $lon_mean / $nloc;
+
+printf ", %12.9f, %13.9f, %6.1f,   , %10s, GCF file\n", $lat_mean, $lon_mean, $elev_mean, $today;

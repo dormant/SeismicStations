@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-array-MSA2</name>
+    <snippet>Created Thu Jul 25 17:42:51 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.156891</longitude>
+      <latitude>16.759260</latitude>
+      <range>1300.000000</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MA2A0</name>
+        <description>Bramble Array, Montserrat, element A0 (MA2A0.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156935,16.759317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A1</name>
+        <description>Bramble Array, Montserrat, element A1 (MA2A1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157106,16.759670</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A2</name>
+        <description>Bramble Array, Montserrat, element A2 (MA2A2.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156642,16.759537</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A3</name>
+        <description>Bramble Array, Montserrat, element A3 (MA2A3.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156469,16.759109</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A4</name>
+        <description>Bramble Array, Montserrat, element A4 (MA2A4.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156920,16.758805</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A5</name>
+        <description>Bramble Array, Montserrat, element A5 (MA2A5.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157285,16.758955</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2A6</name>
+        <description>Bramble Array, Montserrat, element A6 (MA2A6.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157402,16.759281</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B1</name>
+        <description>Bramble Array, Montserrat, element B1 (MA2B1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157070,16.760193</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B2</name>
+        <description>Bramble Array, Montserrat, element B2 (MA2B2.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156272,16.759953</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B3</name>
+        <description>Bramble Array, Montserrat, element B3 (MA2B3.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.155945,16.759421</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B4</name>
+        <description>Bramble Array, Montserrat, element B4 (MA2B4.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156371,16.758510</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B5</name>
+        <description>Bramble Array, Montserrat, element B5 (MA2B5.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.156942,16.758328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B6</name>
+        <description>Bramble Array, Montserrat, element B6 (MA2B6.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157365,16.758452</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B7</name>
+        <description>Bramble Array, Montserrat, element B7 (MA2B7.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157795,16.758872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B8</name>
+        <description>Bramble Array, Montserrat, element B8 (MA2B8.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157836,16.759446</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MA2B9</name>
+        <description>Bramble Array, Montserrat, element B9 (MA2B9.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.157797,16.759923</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

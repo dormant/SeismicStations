@@ -1,0 +1,34 @@
+AGP, 18.4075, -67.1410,  220.0,RSPR,Open,Aguadilla
+AGPR, 18.4675, -67.1112,  119.0,RSPR,Open,Aguadilla
+AOPR, 18.3466, -66.7539,  355.1,RSPR,Open,Arecibo Observatory
+APR, 18.4521, -66.7295,   50.0,RSPR,Open,Arecibo
+CBYP, 18.2710, -65.8560,  550.0,RSPR,Open,Can&oacute;vanas
+CDPB, 18.1700, -66.5900, 1300.0,RSPR,Reserved,Cerro de Punta
+CDVI, 17.7518, -64.7661,   31.1,RSPR,Open,Saint Croix--Country Day School
+CELP, 18.0746, -66.5795,  195.0,RSPR,Open,Cerrillos
+CLLP, 18.0800, -66.5767,  195.0,RSPR,Closed,Cerrillos
+CORN, 18.1635, -67.1794,    8.0,RSPR,Open,Cornellia Hill
+CPD, 18.0389, -65.9154,  370.0,RSPR,Open,Cerro la Pandura
+CRPR, 18.0064, -67.1096,   64.9,RSPR,Open,Cabo Rojo
+CSB, 18.2897, -66.1567,  470.0,RSPR,Open,Colonia Sabana
+CULB, 18.3100, -65.3300,    0.0,RSPR,Reserved,Culebra
+HUMP, 18.1425, -65.8497,  178.0,RSPR,Open,Colegio San Antonio Abad; Humacao
+ICM, 17.8930, -66.5210,   25.0,RSPR,Open,Isla Caja de Muertos
+IDE, 18.3864, -67.4795,  218.0,RSPR,Open,Isla Desecheo
+LPR, 18.3086, -65.8697,  580.0,RSPR,Closed,La Peregrina
+LRS, 18.2934, -66.8450,  440.0,RSPR,Open,Lares
+LSP, 18.1775, -67.0860,  390.0,RSPR,Open,Las Mesas
+LSP2, 18.1458, -66.9811,    0.0,RSPR,Closed,Las Mesas
+MCP, 18.4190, -67.1107,  250.0,RSPR,Closed,Moca
+MEP, 18.1458, -66.9811,  880.0,RSPR,Closed,Monte del Estado
+MGP, 18.0076, -67.0891,   60.0,RSPR,Open,Maguayo
+MOCA, 18.4143, -67.0775,    0.0,RSPR,Open,Moca
+MPR, 18.2130, -67.1390,   25.0,RSPR,Open,Mayag&uuml;ez
+MRCP, 18.1770, -67.0310,  330.0,RSPR,Closed,Maricao
+MTPB, 18.0900, -65.5500,  175.0,RSPR,Reserved,Monte Pirata
+OBIP, 18.0428, -66.6061,  102.6,RSPR,Open,Obispado Ponce
+PNP, 18.0583, -66.6836,  200.0,RSPR,Closed,Penuelas
+PORP, 18.0538, -66.6370,  218.0,RSPR,Open,Portuguez
+RSPR,,,,,Network/Other,Red Sismica de Puerto Rico; Mayaguez
+SCVI, 17.7614, -64.5831,   10.0,RSPR,Open,Saint Croix
+STVI, 18.3533, -64.9622,  299.0,RSPR,Open,Saint Thomas

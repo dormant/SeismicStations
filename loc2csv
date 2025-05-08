@@ -1,0 +1,39 @@
+#!/usr/bin/env perl
+#
+# loc2csv
+#
+# Takes location information for a stations, or group of them,
+# and rearranges it into the gpsbabel unicsv format.
+# NB Uses tab as a seperator!
+#
+# Rod Stewart, 2008-06-18, 2010-05-05, 2018-03-14
+
+use lib "/home/seisan/src/perlModules";
+use RodTools qw( trimString );
+
+print "Name\tLatitude\tLongitude\tAltitude\tDescription\n";
+
+while ($line = <>) {
+	chomp $line;
+	($code,$lat,$lon,$elev,$desc) = split( /,/, $line, 5);
+	$lat =~ s/^\s+//;
+	$lat =~ s/\s+$//;
+	$lon =~ s/^\s+//;
+	$lon =~ s/\s+$//;
+	$elev =~ s/^\s+//;
+	$elev =~ s/\s+$//;
+
+	$code2 = join(',', $code, ' ' );
+	$netline = `grep $code2 data/nets.txt`;
+	chomp $netline;
+	($sta,$net) = split /, /, $netline, 2;
+	$net = trimString( $net );
+	$descline = `grep ^$code2 data/names.txt`;
+	chomp $descline;
+	($dum,$desc) = split /,/, $descline, 2;
+	$desc = trimString( $desc );
+
+	$stanet = join( '.', $code, $net );
+
+	print "$code\t$lat\t$lon\t$elev\t$desc ($stanet)\n";
+}

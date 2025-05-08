@@ -1,0 +1,437 @@
+# Networks file
+#
+# Rod Stewart, 2010-08-16
+# Weather
+Weather: SGHWx, LeesWx, HermWx, TRPG
+
+# MVO-now
+MVO-now: MSS1, MBFR, MBLY, MBLG, MBBY, MBGH, MBFL, MBGB
+MVO-now: MBRV, MBWH, MBRY, MBHA
+
+# MNI-SRU-1992
+MNI-SRU-1992: MBET, MBGH, MWI
+
+# MNI-SRU-1994
+MNI-SRU-1994: MWGT, MSPT, MSAT
+MNI-SRU-1994: MPLT
+
+# Dominica 2024
+Dominica-2024: DSLB
+
+# MVO regional 2024
+MVO-regional-2024: GRGR, SVT, DSLB, ABD, ANWB, SABA, BBGH
+
+# MVO-arrays
+MVO-arrays: MSA1, MSA2
+
+# MVO-array-MSA1
+MVO-array-MSA1: MA1A0
+MVO-array-MSA1: MA1A1, MA1A2, MA1A3, MA1A4, MA1A5, MA1A6
+MVO-array-MSA1: MA1B1, MA1B2, MA1B3, MA1B4, MA1B5, MA1B6, MA1B7, MA1B8, MA1B9
+
+# MVO-array-MSA2
+MVO-array-MSA2: MA2A0
+MVO-array-MSA2: MA2A1, MA2A2, MA2A3, MA2A4, MA2A5, MA2A6
+MVO-array-MSA2: MA2B1, MA2B2, MA2B3, MA2B4, MA2B5, MA2B6, MA2B7, MA2B8, MA2B9
+
+# MVO-certimus
+MVO-certimus: MBGB, MBHA, MBJH, MBSS, MBWR, MBAM, MBCH, MBMO
+
+# MVO-nodes
+MVO-nodes: MSS1, MSUH, MSGS, MSRE, MSGA
+
+# Oxford-nodes
+Oxford-nodes: ON001, ON002, ON005, ON006, ON007, ON008, ON009, ON010 
+Oxford-nodes: ON011, ON012, ON013, ON014, ON015, ON016, ON017, ON018, ON019, ON020 
+Oxford-nodes: ON021, ON022, ON023, ON024, ON025, ON026, ON027, ON028, ON029, ON030 
+Oxford-nodes: ON031, ON032, ON033, ON034, ON036, ON037, ON038, ON040 
+Oxford-nodes: ON042, ON043, ON045, ON047, ON048, ON049 
+Oxford-nodes: ON052, ON053, ON054, ON055, ON056, ON057, ON058, ON059, ON060 
+Oxford-nodes: ON061, ON062, ON063, ON064, ON065, ON066, ON067, ON069
+Oxford-nodes: ON077, ON079, ON080 
+Oxford-nodes: ON082, ON083, ON084, ON085, ON086
+Oxford-nodes: ON121, ON122, ON123
+
+# MVOnoise
+MVOnoise: MSS1, MBLG, MBRY, MBFR, MBBY, MBHA
+MVOnoise: MBLY, MBGH, MBGB, MBWH, MBRV, MBFL
+
+# MVO-2024
+MVO-2024-z-spider: MSS1
+MVO-2024-3c-radian: MBFR, MBLY, MBLG, MBBY, MBGH, MBFL
+MVO-2024-3c-radian-broke: MBGB
+MVO-2024-3c: MBRV, MBWH, MBRY
+MVO-2024-z-broke: MBHA
+MVO-2024-z-shake: MROD
+MVO-2024-3c-cal: OLV1, TRNT
+MVO-2024-3c-plan: MBJH, MBSS, MBWR
+MVO-2024-z-plan: MSRE, MBGA, MSGS, MSUH
+
+# SRC-2023
+SRC-2023: ABD, TDBA, CBE, DSD, DHS, ANWB, SVWL, SVV, SVT, SVFH, SSVA, SHLM, SLBI, SDDR, TGUH, BBGH, BIM, MIDJ, MPOM, MCLT
+SRC-2023: MAGL, ILAM, DSLB, DMLD, DLPL, DDOJ, TRN
+
+# MVO-tmp
+MVO-tmp: MBRV, MBHA, MBWH, MBFL, MBLG, MSS1, MBLY, MBRY, MBGH, MBFR, MBBY
+
+# RF 
+RF: MBBY, MBFR, MSS1, MBRY, MBLG, MBLY, MBGH
+
+# MVO-plan-3C-2023
+MVO-plan-3C-2023: MBJH, MBSS, MBWR
+
+# MVO-plan-Z-2023
+MVO-plan-Z-2023: MSRE, MBGA, MSGS, MSUH
+
+# MVO
+
+# MVO-All: MVO All
+MVO-All: MBLG, MBLY, MBGH, MBGB, MBWH, MBHA, MBRV, MBRY, MBFL, MBBY, MBFR, MSS1, MROD, TRNT, OLV1, ABD, ANWB, SVV, SABA, DHS
+
+# MVO-commnodes
+MVO-commnodes: MVO, SILV, MBGB, OLV1
+
+# MVO-Spiders
+MVO-Spiders: MSCP, MSMX, MSS1, MSUH
+
+# MVO-OpsRm: MVO Ops Room
+MVO-OpsRm: MSS1, MBLG, MBLY, MBGH, MBGB, MBWH, MBHA, MBRV, MBRY, MBFL, MBBY, MBFR
+MVO-OpsRm: ANWB, ABD, SVV
+
+# MVO-OpsRm-local
+MVO-OpsRm-local: MSS1, MBLG, MBLY, MBGH, MBGB, MBWH, MBHA, MBRV, MBRY, MBFL, MBBY, MBFR
+
+# MVO-OpsRm-regional
+MVO-OpsRm-regional: ANWB, ABD, SVV, SABA, DHS, SKDB
+
+# MVO-3c-radian
+MVO-3c-radian: MBLG, MBLY, MBGH, MBGB, MBFL
+
+# MVO-3c
+MVO-3c: MBWH, MBRV, MBRY,
+
+# MVO-3c-plan
+MVO-3c-plan: MBBY, MBFR, MBSS
+
+# MVO-v
+MVO-v: MSS1, MBHA, MROD
+
+# MVO-v-plan
+MVO-v-plan: MBCS, MBGS, MSUH
+
+
+# NDBC: National Data Buoy Center
+NDBC: 42060, 41040, 41044
+
+# SRC
+
+# SMU: Soufriere Monitoring Unit, St Vincent 2020/2021
+SMU: SSVA, SVB, SVGT, SVT, SVV, SOA, SFAN, SVWL, SVFH, SVGM
+
+# SMU-cGPS: SMU, St Vincent cGPS 2020/2021
+SMU-cGPS: SSVA, SVB, SVGT, SFAN, NEMO
+
+# OVSG: Guadeloupe
+OVSG: ABD, TDBA, MOG, DHS, DSD, CBE
+
+# 
+
+# ECSN - Old nodes etc
+
+# old
+# TR-TRN: Eastern Caribbean Seismic Network - Trinidad node
+#TR-TRN: TBH, TPP, TCE, BOT, TPR, TRN, GRW
+
+# old
+# TR-TRA: Eastern Caribbean Seismic Network - Trinidad accelographs
+#TR-TRA: TPTC, TWMO, TTBR
+
+# old
+# TR-ALNG: Eastern Caribbean Seismic Network - Atlantic LNG node
+#TR-ALNG: BUAY, SIPA, ALNG
+
+# old
+# TR-GRHS: Eastern Caribbean Seismic Network - Grenada node
+#TR-GRHS: GRCU, GRSS, GRHS, GRGR
+
+# old
+# TR-B5GA: Eastern Caribbean Seismic Network - Barbados node
+#TR-B5GA: BBSP
+
+# old
+# TR-SVB: Eastern Caribbean Seismic Network - St. Vincent node
+#TR-SVB: FCV, SVV, SSV, BHS, SFAN, SVB
+
+# old
+# TR-MCLT: Eastern Caribbean Seismic Network - St. Lucia node
+#TR-MCLT: SLW, SLDE, SLPE, SLTA, SLPA, SLB, MCLT
+
+# old
+# TR-MDN: Eastern Caribbean Seismic Network - Dominica node
+#TR-MDN: DBCT, DFBT, DLVT, DPMT, DSHT, DSTT, DVDT, BBL, MDN
+
+# old
+# TR-DWS: Eastern Caribbean Seismic Network - Wesley, Dominica node
+#TR-DWS: DWS, MDCT, MDPM, MDVC
+
+# old
+# TR-BPA: Eastern Caribbean Seismic Network - Antigua node
+#TR-BPA: ANG, CPB, MJHT, MGH, MRYT, NEV, BPA
+
+# old
+# TR-SKI: Eastern Caribbean Seismic Network - St. Kitts node
+#TR-SKI: SKI
+
+# old
+# TR-STMAT: Eastern Caribbean Seismic Network - St. Maarten node
+#TR-STMA: STMA
+
+# old
+# TR-STAT: Eastern Caribbean Seismic Network - St. Eustatius node
+#TR-STAT: SABT, STAT
+
+
+# ECSN - Earthworm
+# ECSN-All: Eastern caribbean Seismic Network
+# ECSN-Reg: ECSN regional network
+
+# E-IPGP: ECSN stations from IPGP
+E-IPGP: FDF
+ECSN-All: FDF
+ECSN-Reg: FDF
+E-IPGP: ATG, BBL, DEG, MGG, MML, TBG
+ECSN-All: ATG, BBL, DEG, MGG, MML, TBG
+ECSN-Reg: ATG
+
+# E-MVO: ECSN stations from MVO
+E-MVO: MBFL, MBGH, MBWW
+ECSN-All: MBFL, MBGH, MBWW
+ECSN-Reg: MBGH
+
+# E-KNMI: ECSN stations from KNMI
+E-KNMI: SABA, SMRT, SEUS
+ECSN-All: SABA, SMRT, SEUS
+ECSN-Reg: SMRT
+
+# E-IRIS: ECSN stations from IRIS
+E-IRIS: ANWB, BBGH, BCIP, GRGR, SDDR, TGUH
+ECSN-All: ANWB, BBGH, BCIP, GRGR, SDDR, TGUH
+ECSN-Reg: ANWB, BBGH, BCIP, GRGR, SDDR, TGUH
+
+# E-USGS: ECSN stations from USGS
+E-USGS: BBSR, DWPF, HKT, SDV, SJG, TEIG
+ECSN-All: BBSR, DWPF, HKT, SDV, SJG, TEIG
+ECSN-Reg: BBSR, DWPF, HKT, TEIG
+E-USGS: BBGH, BCIP, GRGR, SDDR, TGUH
+ECSN-All: BBGH, BCIP, GRGR, SDDR, TGUH
+
+# E-PRSN: ECSN stations from PRSN
+E-PRSN: AOPR, BBGH, FDF, GRGR, SDV, SJG
+ECSN-All: AOPR, BBGH, FDF, GRGR, SDV, SJG
+ECSN-Reg: SDV, SJG
+
+# TR-DWS: ECSN, stations through DWS
+TR-DWS: DWS, MDCT, MDPM, MDVC, MDMP, MDPV
+ECSN-All: DWS, MDCT, MDPM, MDVC, MDMP, MDPV
+
+# TR-VSAT: ECSN, VSAT stations
+TR-VSAT: SVB, TOSP, SKI, DLPL, MCLT 
+ECSN-All: SVB, TOSP, SKI, DLPL, MCLT
+ECSN-Reg: SVB, TOSP, SKI, DLPL, MCLT
+
+# E-DPSN: ECSN stations from Dominica Public Seismic Network
+E-DPSN: PSDMZ
+ECSN-All: PSDMZ
+
+# TR-SSVW: ECSN stations from SSVW
+TR-SSVW: SSVW
+ECSN-All: SSVW
+
+# TR-SVCV: ECSN stations from SVCV
+TR-SVCV: SVCV
+ECSN-All: SVCV
+
+# TR-SRC: ECSN stations at SRC
+TR-SRC: TRNT
+ECSN-All: TRNT
+
+# TR-TRN: ECSN stations from TRN node
+TR-TRN: BOT, TBH, TCE, TPP, TPR, TRN
+ECSN-All: BOT, TBH, TCE, TPP, TPR, TRN
+ECSN-Reg: TRN
+
+# TR-BBSP: ECSN stations from BBSP (Barbados) node
+TR-BBSP: BBSP
+ECSN-All: BBSP
+
+# TR-GRHS: ECSN stations from GRHS (Grenada) node
+TR-GRHS: GRHS, GRCU, GRIC, GRSS, GRW, SSPL
+ECSN-All: GRHS, GRCU, GRIC, GRSS, GRW, SSPL
+
+# TR-SVB: ECSN stations from SVB (St. Vincent) node
+TR-SVB: BHS, FCV, SFAN, SSV, SVV, SLB, SVB
+ECSN-All: BHS, FCV, SFAN, SSV, SVV, SLB, SVB
+
+# TR-MCLT: ECSN stations from MCLT (St. Lucia) node
+TR-MCLT: SLDE, SLPA, SLPE, SLTA, SLW
+ECSN-All: SLDE, SLPA, SLPE, SLTA, SLW
+
+# TR-MDN: ECSN stations from MDN (Dominica) node
+TR-MDN: DBCT, DFBT, DPMT, DSHT, DSTT, MDN
+ECSN-All: DBCT, DFBT, DPMT, DSHT, DSTT, MDN
+
+# TR-SKI: ECSN stations from SKI (St. Kitts) node
+TR-SKI: SKTB, SKDB, BSK, NVRH, NVBH, NEV
+ECSN-All: SKTB, SKDB, BSK, NVRH, NVBH, NEV
+
+# TR-MNI-PRO
+TR-MNI-PRO: MSIL, REDO
+
+# Geographical networks
+# ECSN-DominicaN
+ECSN-Dominica-N: BBL, DWS, MDCT, MDPM, MDVC, MDPV, MDMP, PSDMZ
+# ECSN-DominicaNW
+ECSN-DominicaNW: MDCT, MDPM, MDVC, PSDMZ, MDPV, MDMP
+# ECSN-Montserrat
+ECSN-Montserrat: MBFL, MBGH, MBWW
+# ECSN-KeJ
+ECSN-KeJ: GRGR, GRHS, GRSS, GRW, GCMP, SVB
+
+# Various stations
+
+# G: Various Geoscope stations
+G: MPG
+# GSN-IU: Various IRIS/USGS stations
+GSN-IU: PTGA
+# VE: Various Venezuelan stations
+VE: LUEV, TOCV
+
+# Montserrat Volcano Observatory
+
+# MVO-D: Montserrat Volcano Observatory, digital
+MVO-D: MBBY, MBFL, MBFR, MBGB, MBGH, MBHA, MBLG, MBLY, MBRV, MBRY, MBWH
+MVO-D: MBWW
+# MVO-BB: Montserrat Volcano Observatory, broadband
+MVO-BB: MBBY, MBFR, MBGB, MBGH, MBHA, MBLG, MBLY, MBRY, MBWH, MBWW
+# MVO-SP: Montserrat Volcano Observatory, short-period
+MVO-SP: MBFL, MBRV
+# MVO-D1: Montserrat Volcano Observatory, digital, no MBRV
+MVO-D1: MBBY, MBFL, MBFR, MBGB, MBGH, MBHA, MBLG, MBLY, MBRY, MBWH
+MVO-D1: MBWW
+# MVO-D2: Montserrat Volcano Observatory, digital, 30s BB
+MVO-D2: MBBY, MBFR, MBGB, MBGH, MBHA, MBLG, MBLY, MBRY, MBWH
+# MVO-D4: Montserrat Volcano Observatory, digital, 4 stations
+MVO-D4: MBGH, MBLG, MBLY, MBWH
+
+# MVO-DX: Montserrat Volcano Observatory, digital (closed)
+MVO-DX: MBBE, MBGA, MBGE, MBJH, MBMH, MBSS, MVO
+
+# MVO-A: Montserrat Volcano Observatory, analog
+MVO-A: MBET, MCPT, MGAT, MGHZ, MHRV, MJHT, MLGT, MLYT, MPVE, MRYT
+MVO-A: MSAT, MSPT, MSSZ, MVPV, MWH2, MWHZ
+MVO-A: MWHT
+
+# MVO-I: Monserrat Volcano Observatory Infrasound
+MVO-I: MBW1, MBW2, MBW3
+MVO-I: MBFL, MBGH
+MVO-I: MIC1, MIC2, MIC3, MIC4
+
+#### Specials for MVO monitoring map
+# seismic
+MVO-SEI-SP: MBHA
+MVO-SEI-BB: MBRV, MBRY, MBWH
+MVO-SEI-PH-plan: MBSS
+MVO-SEI-PH: MBFL, MBGB, MBGH, MBLG, MBLY, MBBY, MBFR
+MVO-SEI-spider: MSS1
+MVO-SEI-RO: MROD
+
+# infrasound
+MVO-INF-LEEDS: MBW1, MBW2, MBW3
+MVO-INF: MBFL, MBGH
+#MVO-INF-FIR: MIC1, MIC2, MIC3, MIC4
+# gas
+MVO-GAS-DOAS: AS, BR, LL
+MVO-GAS-DIFF: DT1, DT2, DT3, DT4, DT5, DT6
+MVO-GAS-DIFF: DT7, DT8, DT9, DT10, DT11
+# deformation 
+MVO-DEF-GPS: HARR, MVO1, SSOU, SPRI, WTYD
+MVO-DEF-GPS-CAL: AIRS, GERS, OLVT, TRNT
+MVO-DEF-EDM: EDJH, EDWR
+# camera
+MVO-CAM-THERM: MVOT
+MVO-CAM-FIX: MVOR, FERG, GARI, JACK, MVOR
+MVO-CAM-WEB: MVOW, SILV
+# Environmental
+MVO-ENV-WEA-UEA: UEA12
+MVO-ENV-PART: SAUG, SCLN, VUPT
+
+# SEACAL-R: Sea CALIPSO Refteks
+SEACAL-R: M01, M02, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12
+SEACAL-R: M13, M14, M15, M16, M17, M18, M19, M20, M21, M22, M23, M24
+SEACAL-R: M25, M26, M27, M28, M30, M31, M32
+
+# SEACAL-T: Sea CALIPSO Texans
+SEACAL-T: FB01, FB02, FB03, FB04, FB05, FB06, FB07, FB08, FB09, FB10
+SEACAL-T: FB11, FB12, FB13, FB14, FB15, FB16, FB17, FB18, FB19, FB20
+SEACAL-T: FB21, FB22, FB23, FB24, FB25, FB26, FB27, FB28, FB29, FB30
+SEACAL-T: FB31, FB32, FB33, FB34, FB35, FB36, FB37, FB38, FB39, FB40
+SEACAL-T: FB41, FB42, FB43, FB44, FB45, FB46, FB47, FB48, FB49, FB50
+SEACAL-T: FB51, FB52, FB53, FB54, FB55, FB56, FB57, FB58, FB59, FB60
+SEACAL-T: FB61, FB62, FB63, FB64, FB65, FB66, FB67, FB68, FB69, FB70
+SEACAL-T: FB71, FB72, FB73, FB74, FB75, FB76, FB77, FB78, FB79, FB80
+SEACAL-T: FB81, FB82, FB83, FB84, FB85, FB86, FB87, FB88, FB89, FB90
+SEACAL-T: FB91, FB92, FB93, FB94, FB95, FB96, FB97, FB98, FB99
+SEACAL-T: FC01, FC02, FC03, FC04, FC05, FC06, FC07, FC08, FC09, FC10
+SEACAL-T: FC11, FC12, FC13, FC14, FC15, FC16, FC17, FC18, FC19, FC20
+SEACAL-T: FC21, FC22, FC23, FC24, FC25, FC26, FC27, FC28, FC29, FC30
+SEACAL-T: FC31, FC32, FC33, FC34, FC35, FC36, FC37, FC38, FC39, FC40
+SEACAL-T: FC41, FC42, FC43, FC44, FC45, FC46, FC47, FC48, FC49, FC50
+SEACAL-T: FC51
+SEACAL-T: FG01, FG02, FG03, FG04, FG05, FG06, FG07, FG08, FG09, FG10
+SEACAL-T: FG11, FG12, FG13, FG14, FG15, FG16, FG17, FG18, FG19, FG20
+SEACAL-T: FG21, FG22, FG23, FG24, FG25, FG26, FG27, FG28, FG29, FG30
+SEACAL-T: FG31, FG32, FG33, FG34, FG35, FG36
+SEACAL-T: FS01, FS02, FS03, FS04, FS05, FS06, FS07, FS08, FS09, FS10
+SEACAL-T: FS11, FS12, FS13, FS14, FS15, FS16, FS17, FS18, FS19, FS20
+SEACAL-T: FS21, FS22, FS23, FS24, FS25, FS26, FS27, FS28, FS29, FS30
+SEACAL-T: FS31, FS32, FS33, FS34, FS35, FS36, FS37, FS38, FS39, FS40
+SEACAL-T: FS41, FS42, FS43, FS44, FS45, FS46, FS47, FS48, FS49, FS50
+SEACAL-T: FS51, FS52, FS53, FS54, FS55, FS56, FS57, FS58, FS59, FS60
+SEACAL-T: FS61, FS62, FS63
+
+# CALIPSO: CALIPSO borehole stations
+CALIPSO: AIRS, TRNT, OLVT, GERS
+
+
+# Montserrat historical
+
+# MNI-SRU2: SRU stations on Montserrat, post 1980
+MNI-SRU2: MBET, MSAT, MSPT, MWHT
+MNI-SRU2: MGH, MPLT
+
+# MNI-SRU1: SRU stations on Montserrat, pre-1980
+MNI-SRU1: MWI, MWF, MWL, MWP
+
+# MNI-1933on: Stations on Montserrat, deployed by Perret
+MNI-1933on: MWI
+
+# Dominica DPSN
+DPSN: R8282, S2625, R3E0C, RBA2A, RBC24, RDCDD, RC13E, R569B, PSDMA, PSDMB, PSDMZ
+
+# Dominica stations at MVO
+MVO-DOM: DLPL, DSLB, DWS, MDN 
+
+# Temporary sets
+
+# GU2009: Guyana 2009 investigation
+GU2009: GUSW, MPG, PTGA, TOCV, LUEV
+
+# KEJ-2018: Kick em Jenny network
+KEJ-2018: GRW, GRHS, GRIC, GRSS, GRCU
+
+KEJ-2018: GRGR
+
+MVO-ROD: MROD
+MVO-CAL: OLV1, TRNT, AIRS
+MVO-CAL-seismic: OLV1, TRNT
+MVO-nospiders: MBRV, MBFL, MBGB, MBWW, MBWH, MBHA, NBGH, MBLY, MBLG, MBBY, MBFR, MBRY

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-SP</name>
+    <Snippet>Created Mon Jan 17 16:58:25 2011</Snippet>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MBFL</name>
+        <description>Flemmings, Montserrat (MBFL.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.212500,16.748500,243.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MBRV</name>
+        <description>Rendezvous, Montserrat (MBRV.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.196000,16.811333,231.00</coordinates>
+        </Point>
+      </Placemark>
+    <LookAt>
+      <longitude>-62.204250</longitude>
+      <latitude>16.779917</latitude>
+      <range>9375.926545</range>
+    </LookAt>
+  </Document>
+</kml>

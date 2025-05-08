@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MVO-CAL</name>
+    <snippet>Created Wed Sept 14 19:48:01 2022 GMT</snippet>
+    <LookAt>
+      <longitude>-62.195515</longitude>
+      <latitude>16.752555</latitude>
+      <range>9551.471549</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>OLV1</name>
+        <description>(OLV1.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.227730,16.750400,41.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRNT</name>
+        <description>Trants, Montserrat (TRNT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.163300,16.764280,-23.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AIRS</name>
+        <description>Air Studios, Montserrat (AIRS.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.213860,16.740830,84.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

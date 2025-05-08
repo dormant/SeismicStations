@@ -1,0 +1,17 @@
+#!/bin/bash
+#./net2kml MVO-SEI-SP
+#./net2kml MVO-SEI-BB
+#./net2kml MVO-SEI-BB-LEEDS
+#./net2kml MVO-INF-LEEDS
+#./net2kml MVO-INF
+#./net2kml MVO-INF-FIR
+#./net2kml MVO-GAS-DOAS
+./net2kml MVO-GAS-DIFF
+#./net2kml MVO-DEF-GPS
+#./net2kml MVO-DEF-GPS-CAL
+./net2kml MVO-DEF-EDM
+#./net2kml MVO-CAM-THERM
+#./net2kml MVO-CAM-FIX
+#./net2kml MVO-CAM-WEB
+./net2kml MVO-ENV-WEA-UEA
+./net2kml MVO-ENV-PART

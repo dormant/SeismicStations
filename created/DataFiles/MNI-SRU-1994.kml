@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>MNI-SRU-1994</name>
+    <snippet>Created Tue Nov 19 18:13:26 2024 GMT</snippet>
+    <LookAt>
+      <longitude>-62.211983</longitude>
+      <latitude>16.715650</latitude>
+      <range>9960.368080</range>
+    </LookAt>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+      <Placemark>
+        <name>MSPT</name>
+        <description>St. Patrick's, Montserrat (MSPT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.199167,16.683500,127.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSAT</name>
+        <description>Salem, Montserrat (MSAT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.224800,16.747800,185.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MPLT</name>
+        <description>Montserrat (MPLT.)</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-62.224000,16.708000,15.00</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>
