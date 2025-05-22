@@ -1,5 +1,7 @@
 # SeismicStations
 
+## ~/src/SeismicStations
+
 Scripts and data for seismic stations.
 
 ## Description
